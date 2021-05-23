@@ -9,26 +9,27 @@ level: beginner
 
 # Chapter 1
 
-## words
+## Frutas [fileCard]
 
-one
-two
-three
-four
-five
-six
-seven
-eight
-nine
-ten
+la manzana
+el plátano
+el higo
+la uva
+el kiwi
+el limón
+el melón
+la naranja
+el melocotón
+la pera
 
 ## training [exercise | 001/001]
 
-audio-original --> text-original choose-from-4 12
-audio-original --> text-translation choose-from-4 6
-text-translation --> text-original write 3
+audio, text-original --> image choose-from-4 1
+image, text-original --> text-translation choose-from-4 1
+audio --> text-original choose-from-4 1
+text-translation --> text-original write 1
 
-## phrases
+## phrases [fileCard]
 
 phrase one
 phrase two
@@ -43,7 +44,7 @@ phrase ten
 
 # Chapter 2
 
-## words
+## words [fileCard]
 
 eleven
 twelve
@@ -56,7 +57,7 @@ eighteen
 nineteen
 twenty
 
-## phrases
+## phrases [fileCard]
 
 phrase eleven
 phrase twelve
@@ -71,7 +72,7 @@ phrase twenty
 
 # Alice's adventures in Wonderland
 
-## 1.1. Down The Rabbit Hole [media | https://archive.org/download/aliceinwonderland_02_02/aliceinwonderland_01_01.mp3]
+## 1.1. Down The Rabbit Hole [richMedia | https://archive.org/download/aliceinwonderland_02_02/aliceinwonderland_01_01.mp3]
 
 ### timing
 
@@ -172,7 +173,7 @@ phrase twenty
 236.52 237.40 this time,
 237.40 240.04 as it didn’t sound at all the right word)
 
-## 1.2. Down the Rabbit-Hole [media | https://archive.org/download/aliceinwonderland_02_02/aliceinwonderland_01_02.mp3]
+## 1.2. Down the Rabbit-Hole [richMedia | https://archive.org/download/aliceinwonderland_02_02/aliceinwonderland_01_02.mp3]
 
 ### timing
 
@@ -296,7 +297,7 @@ phrase twenty
 
 # Phrasal player, audio from BBC
 
-## Listen material [media | https://downloads.bbc.co.uk/learningenglish/features/6min/191114_6min_english_mental_health_download.mp3]
+## Listen material [richMedia | https://downloads.bbc.co.uk/learningenglish/features/6min/191114_6min_english_mental_health_download.mp3]
 
 ### timing
 
@@ -443,7 +444,7 @@ audio-original --> text-original order 5
 audio-original --> text-original choose-from-4 12
 audio-original --> text-translation choose-from-4 6
 
-# Phrasal player, video from youtube [media | youtube.com/watch?v=OGoehR_k0Xk]
+# Phrasal player, video from youtube [richMedia | youtube.com/watch?v=OGoehR_k0Xk]
 
 ## timing
 
@@ -533,7 +534,7 @@ they render you asteroid.
 Before they watch
 you turn to dust.
 
-# Text example [text]
+# Text example [richText]
 
 ## Header
 
