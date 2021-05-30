@@ -29,7 +29,7 @@ image, text-original --> text-translation choose-from-4 1
 audio --> text-original choose-from-4 1
 text-translation --> text-original write 1
 
-## phrases [fileCard]
+## phrases
 
 phrase one
 phrase two
@@ -44,7 +44,7 @@ phrase ten
 
 # Chapter 2
 
-## words [fileCard]
+## words
 
 eleven
 twelve
