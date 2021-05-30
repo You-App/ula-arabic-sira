@@ -5,5 +5,8 @@ export default {
 		container: { alignItems: 'left' },
 		item: { marginBottom: 10, alignItems: 'left' },
 		textContainer: { alignItems: 'left' }
+	},
+	words: {
+		parent: 'fileCard'
 	}
 }
