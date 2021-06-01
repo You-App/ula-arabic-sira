@@ -1,4 +1,4 @@
-import general from '../../src/styles/general'
+// import general from '../../src/styles/general'
 
 export default {
 	homeScreen: {
