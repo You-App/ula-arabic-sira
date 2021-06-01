@@ -1,12 +1,27 @@
 export default {
-	// default: 'fileCard',
-	phrases: {
-		parent: 'fileCard',
-		container: { alignItems: 'left' },
-		item: { marginBottom: 10, alignItems: 'left' },
-		textContainer: { alignItems: 'left' }
+	richMedia: {
+		phraseTextsWrapper: { paddingLeft: 7, paddingRight: 2 },
+		phraseList: {
+			phraseNumContainer: { left: 2 }
+		}
 	},
-	words: {
-		parent: 'fileCard'
+	richText: {
+		paragraph: {
+			writingDirection: 'ltr',
+			textAlign: 'left',
+			fontFamily: 'Inter-Variable',
+			fontSize: 16
+		},
+		text: {
+			writingDirection: 'ltr',
+			textAlign: 'left',
+			fontFamily: 'Inter-Variable',
+			fontSize: 16
+		},
+		heading3: {
+			writingDirection: 'ltr',
+			textAlign: 'left',
+			fontFamily: 'Inter-Variable'
+		}
 	}
 }

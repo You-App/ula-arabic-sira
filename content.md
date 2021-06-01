@@ -1,591 +1,5856 @@
-# Example material
+# الرحيق المختوم
 
-author: Aparus
+المألف: صفي الرحمن المباركفوري
 
-first published: 2020
-
-language: en
-level: beginner
-
-# Chapter 1
-
-## Frutas [fileCard]
-
-la manzana
-el plátano
-el higo
-la uva
-el kiwi
-el limón
-el melón
-la naranja
-el melocotón
-la pera
-
-## training [exercise | 001/001]
-
-audio, text-original --> image choose-from-4 1
-image, text-original --> text-translation choose-from-4 1
-audio --> text-original choose-from-4 1
-text-translation --> text-original write 1
-
-## phrases
-
-phrase one
-phrase two
-phrase three
-phrase four
-phrase five
-phrase six
-phrase seven
-phrase eight
-phrase nine
-phrase ten
-
-# Chapter 2
-
-## words
-
-eleven
-twelve
-thirteen
-fourteen
-fifteen
-sixteen
-seventeen
-eighteen
-nineteen
-twenty
-
-## phrases [fileCard]
-
-phrase eleven
-phrase twelve
-phrase thirteen
-phrase fourteen
-phrase fifteen
-phrase sixteen
-phrase seventeen
-phrase eighteen
-phrase nineteen
-phrase twenty
-
-# Alice's adventures in Wonderland
-
-## 1.1. Down The Rabbit Hole [richMedia | https://archive.org/download/aliceinwonderland_02_02/aliceinwonderland_01_01.mp3]
-
-### timing
-
-0.00 2.04 Alice’s Adventures in Wonderland
-2.32 3.22 by Lewis Carroll
-3.70 4.71 CHAPTER I.
-5.00 6.19 Down the Rabbit-Hole
-7.05 10.46 Alice was beginning to get very tired of sitting by her sister on the bank,
-10.74 12.13 and of having nothing to do:
-12.52 15.20 once or twice she had peeped into the book her sister was reading,
-15.38 17.71 but it had no pictures or conversations in it,
-18.00 19.68 “and what is the use of a book,”
-19.92 23.17 thought Alice “without pictures or conversations?”
-23.30 27.71 So she was considering in her own mind (as well as she could,
-27.83 32.03 for the hot day made her feel very sleepy and stupid),
-32.68 35.18 whether the pleasure of making a daisy-chain
-35.33 39.21 would be worth the trouble of getting up and picking the daisies,
-39.66 44.12 when suddenly a White Rabbit with pink eyes ran close by her.
-44.42 47.38 There was nothing so very remarkable in that;
-47.70 50.61 nor did Alice think it so very much out of the way
-50.62 52.79 to hear the Rabbit say to itself,
-53.07 54.08 “Oh dear!
-54.08 54.64 Oh dear!
-54.64 55.80 I shall be late!”
-55.80 57.72 (when she thought it over afterwards,
-57.72 61.32 it occurred to her that she ought to have wondered at this,
-61.32 64.51 but at the time it all seemed quite natural);
-65.36 70.16 but when the Rabbit actually took a watch out of its waistcoat-pocket,
-70.16 71.24 and looked at it,
-71.24 73.32 and then hurried on,
-73.32 75.16 Alice started to her feet,
-75.16 78.41 for it flashed across her mind that she had never before seen
-78.41 80.76 a rabbit with either a waistcoat-pocket,
-80.76 83.12 or a watch to take out of it,
-83.12 84.96 and burning with curiosity,
-84.96 87.20 she ran across the field after it,
-87.20 90.36 and fortunately was just in time to see it pop down
-90.36 93.04 a large rabbit-hole under the hedge.
-93.04 95.96 In another moment down went Alice after it,
-95.96 100.16 never once considering how in the world she was to get out again.
-100.16 103.12 The rabbit-hole went straight on like a tunnel for some way,
-103.12 104.92 and then dipped suddenly down,
-104.92 109.84 so suddenly that Alice had not a moment to think about stopping herself
-109.84 113.80 before she found herself falling down a very deep well.
-113.80 116.04 Either the well was very deep,
-116.04 117.52 or she fell very slowly,
-117.52 121.12 for she had plenty of time as she went down to look about her
-121.12 123.32 and to wonder what was going to happen next.
-123.32 124.20 First,
-124.20 127.08 she tried to look down and make out what she was coming to,
-127.08 129.84 but it was too dark to see anything;
-129.84 131.76 then she looked at the sides of the well,
-131.76 135.80 and noticed that they were filled with cupboards and book-shelves;
-135.80 140.08 here and there she saw maps and pictures hung upon pegs.
-140.08 142.76 She took down a jar from one of the shelves as she passed;
-142.76 145.36 it was labelled “ORANGE MARMALADE”,
-145.36 148.72 but to her great disappointment it was empty:
-148.72 152.40 she did not like to drop the jar for fear of killing somebody underneath,
-152.40 156.12 so managed to put it into one of the cupboards as she fell past it.
-156.12 157.24 “Well!”
-157.24 158.84 thought Alice to herself,
-158.84 160.88 “after such a fall as this,
-160.88 163.64 I shall think nothing of tumbling down stairs!
-163.64 166.00 How brave they’ll all think me at home!
-166.00 166.48 Why,
-166.48 168.20 I wouldn’t say anything about it,
-168.20 170.60 even if I fell off the top of the house!”
-170.60 173.20 (Which was very likely true.)
-173.20 174.12 Down,
-174.12 175.60 down,
-175.60 178.32 down.
-178.32 181.16 Would the fall never come to an end?
-181.16 184.60 “I wonder how many miles I’ve fallen by this time?”
-184.60 185.52 she said aloud.
-185.52 189.00 “I must be getting somewhere near the centre of the earth.
-189.00 190.00 Let me see:
-190.00 192.48 that would be four thousand miles down,
-192.48 193.40 I think—”
-193.40 194.04 (for,
-194.04 194.80 you see,
-194.80 198.28 Alice had learnt several things of this sort in her lessons in the schoolroom,
-198.28 202.80 and though this was not a very good opportunity for showing off her knowledge,
-202.80 204.64 as there was no one to listen to her,
-204.64 207.76 still it was good practice to say it over)
-207.76 209.12 “—yes,
-209.12 210.68 that’s about the right distance —
-210.68 213.96 but then I wonder what Latitude or Longitude I’ve got to?”
-213.96 217.40 (Alice had no idea what Latitude was,
-217.40 218.56 or Longitude either,
-218.56 221.48 but thought they were nice grand words to say.)
-221.48 223.56 Presently she began again.
-223.56 226.32 “I wonder if I shall fall right through the earth!
-226.32 229.08 How funny it’ll seem to come out among the people
-229.08 230.80 that walk with their heads downward!
-230.80 233.12 The Antipathies,
-233.12 233.80 I think—”
-233.80 236.52 (she was rather glad there was no one listening,
-236.52 237.40 this time,
-237.40 240.04 as it didn’t sound at all the right word)
-
-## 1.2. Down the Rabbit-Hole [richMedia | https://archive.org/download/aliceinwonderland_02_02/aliceinwonderland_01_02.mp3]
-
-### timing
-
-0.00 3.24 “—but I shall have to ask them what the name of the country is,
-3.24 3.60 you know.
-3.60 4.68 Please,
-4.68 5.20 Ma’am,
-5.20 7.24 is this New Zealand or Australia?”
-7.24 10.04 (and she tried to curtsey as she spoke —
-10.04 13.32 fancy curtseying as you’re falling through the air!
-13.32 14.84 Do you think you could manage it?)
-14.84 18.52 “And what an ignorant little girl she’ll think me for asking!
-18.52 19.48 No,
-19.48 21.36 it’ll never do to ask:
-21.36 23.84 perhaps I shall see it written up somewhere.”
-23.84 25.04 Down,
-25.04 26.24 down,
-26.24 28.12 down.
-28.12 29.52 There was nothing else to do,
-29.52 31.76 so Alice soon began talking again.
-31.76 34.44 “Dinah’ll miss me very much to-night,
-34.44 35.20 I should think!”
-35.20 36.56 (Dinah was the cat.)
-36.76 40.00 “I hope they’ll remember her saucer of milk at tea-time.
-40.40 41.64 Dinah my dear!
-41.64 43.80 I wish you were down here with me!
-43.80 45.12 There are no mice in the air,
-45.12 46.12 I’m afraid,
-46.12 47.40 but you might catch a bat,
-47.40 48.60 and that’s very like a mouse,
-48.60 49.36 you know.
-49.36 50.56 But do cats eat bats,
-50.56 51.60 I wonder?”
-51.60 54.44 And here Alice began to get rather sleepy,
-54.44 56.08 and went on saying to herself,
-56.08 57.60 in a dreamy sort of way,
-57.60 61.04 “Do cats eat bats?
-61.04 64.14 Do cats eat bats?”
-64.34 65.44 and sometimes,
-65.44 68.72 “Do bats eat cats?”
-68.72 69.16 for,
-69.16 70.28 you see,
-70.28 72.68 as she couldn’t answer either question,
-72.68 75.68 it didn’t much matter which way she put it.
-75.68 77.88 She felt that she was dozing off,
-77.88 81.96 and had just begun to dream that she was walking hand in hand with Dinah,
-81.96 83.84 and saying to her very earnestly,
-83.84 84.84 “Now,
-84.84 85.24 Dinah,
-85.24 86.64 tell me the truth:
-86.64 88.56 did you ever eat a bat?”
-88.56 89.32 when suddenly,
-89.32 89.96 thump!
-89.96 90.32 thump!
-90.32 93.88 down she came upon a heap of sticks and dry leaves,
-93.88 95.96 and the fall was over.
-95.96 97.64 Alice was not a bit hurt,
-97.64 100.40 and she jumped up on to her feet in a moment:
-100.40 101.52 she looked up,
-101.52 103.52 but it was all dark overhead;
-103.52 105.64 before her was another long passage,
-105.64 107.64 and the White Rabbit was still in sight,
-107.64 109.20 hurrying down it.
-109.20 110.88 There was not a moment to be lost:
-110.88 113.24 away went Alice like the wind,
-113.24 115.12 and was just in time to hear it say,
-115.12 116.28 as it turned a corner,
-116.28 119.00 “Oh my ears and whiskers,
-119.00 120.56 how late it’s getting!”
-120.56 123.16 She was close behind it when she turned the corner,
-123.16 125.12 but the Rabbit was no longer to be seen:
-125.12 127.08 she found herself in a long,
-127.08 128.00 low hall,
-128.00 131.20 which was lit up by a row of lamps hanging from the roof.
-131.20 133.88 There were doors all round the hall,
-133.88 135.44 but they were all locked;
-135.44 138.88 and when Alice had been all the way down one side and up the other,
-138.88 140.44 trying every door,
-140.44 142.28 she walked sadly down the middle,
-142.28 145.00 wondering how she was ever to get out again.
-145.00 147.80 Suddenly she came upon a little three-legged table,
-147.80 149.60 all made of solid glass;
-149.60 152.92 there was nothing on it except a tiny golden key,
-152.92 155.12 and Alice’s first thought was that it might belong
-155.12 156.48 to one of the doors of the hall;
-156.48 157.24 but,
-157.24 158.44 alas!
-158.44 159.96 either the locks were too large,
-159.96 161.48 or the key was too small,
-161.48 165.32 but at any rate it would not open any of them.
-165.32 165.84 However,
-165.84 167.08 on the second time round,
-167.08 170.00 she came upon a low curtain she had not noticed before,
-170.00 173.72 and behind it was a little door about fifteen inches high:
-173.72 176.40 she tried the little golden key in the lock,
-176.40 179.04 and to her great delight it fitted!
-179.04 183.08 Alice opened the door and found that it led into a small passage,
-183.08 185.36 not much larger than a rat-hole:
-185.36 187.56 she knelt down and looked along the passage
-187.56 189.96 into the loveliest garden you ever saw.
-189.96 193.28 How she longed to get out of that dark hall,
-193.28 198.32 and wander about among those beds of bright flowers and those cool fountains,
-198.32 201.32 but she could not even get her head through the doorway;
-201.32 203.76 “and even if my head would go through,”
-203.76 205.16 thought poor Alice,
-205.16 208.92 “it would be of very little use without my shoulders.
-208.92 209.44 Oh,
-209.44 212.20 how I wish I could shut up like a telescope!
-212.20 213.32 I think I could,
-213.32 214.96 if I only knew how to begin.”
-214.96 215.48 For,
-215.48 215.96 you see,
-215.96 219.20 so many out-of-the-way things had happened lately,
-219.20 220.64 that Alice had begun to think
-220.64 223.80 that very few things indeed were really impossible.
-223.80 227.28 There seemed to be no use in waiting by the little door,
-227.28 228.92 so she went back to the table,
-228.92 231.84 half hoping she might find another key on it,
-231.84 235.64 or at any rate a book of rules for shutting people up like telescopes:
-235.64 239.12 this time she found a little bottle on it,
-
-# Phrasal player, audio from BBC
-
-## Listen material [richMedia | https://downloads.bbc.co.uk/learningenglish/features/6min/191114_6min_english_mental_health_download.mp3]
-
-### timing
-
-0.00 3.10 This is a download from **BBC learning English**
-3.20 5.75 to find out more visit our website
-6.30 11.75 6 minute English from BBC learning English
-12.55 15.00 <v Neil> Hello. This is 6 Minute English. I'm Neil.
-15.20 16.30 <v Georgina> And I'm Georgina.
-16.40 20.65 <v Neil> In this programm we’re focussing on the topic of mental health at work.
-20.90 23.80 <v Georgina> Yes, it’s an issue that can be difficult to see.
-24.15 28.30 If someone has an injury, like a broken leg or a serious medical issue,
-28.55 31.25 it’s obvious, and we can understand what’s happening.
-31.55 33.25 With mental health issues, though,
-33.55 37.45 there’s no physical sign and people who are experiencing difficulties
-37.65 41.75 maybe don’t get the same understanding as people who have medical problems.
-41.90 45.10 <v Neil> It’s a topic that has been getting more publicity recently,
-45.20 49.10 particularly as members of the British royal family have been talking about it.
-49.50 54.00 Also, awareness is raised through events such as World Mental Health Day.
-54.05 56.05 And that is the topic of our quiz.
-56.15 59.95 World Mental Health Day is held every year on October 10th.
-60.15 62.85 It aims to raise awareness of mental health issues
-63.05 64.20 and their effects
-64.25 65.45 on people’s lives.
-65.70 67.40 In what year was it first held?
-67.45 69.45 Was it... A: 1992
-69.50 71.30 B: 2002
-71.45 73.05 C: 2012
-73.10 74.00 What do you think, Georgina?
-74.10 76.70 <v Georgina> I don’t know – I think it will be
-76.85 78.45 older than 2012, but as old as 1992?
-79.00 81.10 I don’t know.
-81.15 83.15 I’m going to go
-83.45 85.00 with 2002
-85.00 87.61 <v Neil> OK. I’ll have the answer later in the programme
-87.86 89.36 and we’ll see if you’re right.
-89.61 93.86 Mental health problems are very difficult personally for those who suffer from them,
-94.11 96.71 and they also have an impact on businesses.
-97.06 101.46 Paul Farmer is head of the mental health awareness charity Mind.
-101.66 105.71 He spoke on the BBC World Service Business Daily programme about this.
-106.06 109.26 How much does he says it costs businesses in the UK?
-110.46 115.56 <v Paul Farmer, CEO Mind>We know that the cost of failing to address mental health in business is colossal.
-115.61 120.26 In the UK, it costs between 33 and 42 billion pounds a year,
-120.31 121.81 about $50 billion dollars,
-121.86 126.76 and round about 300,000 people fall out of work every year
-126.81 128.71 as a result of poor mental health.
-128.76 132.81 So that’s a huge cost to workplaces and to individuals.
-132.96 135.86 Behind those numbers, though, are the lives of
-136.26 137.91 talented, able,
-138.01 139.11 contributors
-139.11 141.66 who often just slide away from the workplace
-141.76 145.01 because they don’t get the right help and support for their mental health.
-146.51 148.46 <v Neil> What figures did Paul Farmer give there?
-149.06 151.11 <v Georgina> He gave the figure of about between
-151.16 154.11 33 and £42 billion pounds
-154.46 156.51 – which is about $50 billion dollars.
-156.51 157.86 <v Neil> That’s a lot of money!
-158.11 160.71 <v Georgina> It is – in fact he called it colossal.
-161.31 164.56 This adjective means huge – really, really big.
-165.06 166.96 This is the cost to business he says of
-167.01 169.31 failing to address the mental health issue.
-169.51 173.06 <v Neil> Failing to address means ignoring or not dealing with the problems.
-173.31 175.06 It leads to staff leaving work,
-175.11 177.56 and he says these people are contributors,
-177.61 181.41 they give something to the business in terms of their skill and experience.
-181.71 183.66 <v Georgina> And because of mental health issues,
-183.71 185.71 which could be addressed but aren’t,
-185.86 188.66 those contributors are being lost to the business.
-188.91 192.86 So it costs companies more money to recruit and train new staff,
-193.16 195.96 and you can’t always replace the experience that is lost.
-196.01 197.36 <v Neil> Let’s listen again.
-198.46 203.56 <v Paul Farmer, CEO Mind>We know that the cost of failing to address mental health in business is colossal.
-203.61 208.26 In the UK, it costs between 33 and 42 billion pounds a year,
-208.31 209.81 about $50 billion dollars,
-209.86 214.76 and round about 300,000 people fall out of work every year
-214.81 216.71 as a result of poor mental health.
-216.76 220.81 So that’s a huge cost to workplaces and to individuals.
-220.96 223.86 Behind those numbers, though, are the lives of
-224.26 225.91 talented, able,
-226.01 227.11 contributors
-227.11 229.81 who often just slide away from the workplace
-229.81 232.96 because they don’t get the right help and support for their mental health.
-233.42 238.09 <v Neil> In recent years it seems as if there has been more understanding of mental health issues,
-238.12 241.16 not just in the workplace but in society as a whole.
-241.60 245.35 Geoff McDonald is a campaigner for the organisation Minds at Work.
-245.76 250.53 He spoke on the Business Daily programme about one way that things were getting a little better.
-251.57 253.19 <v Geoff McDonald, Minds at Work> I think what’s really changed
-253.33 254.95 is people telling their stories,
-255.01 257.07 and the more stories that we tell
-257.09 258.94 it kind of begins to normalise this.
-259.15 261.00 Every single story that we tell
-261.13 263.58 is like sending a lifeboat out into the ocean
-263.80 265.90 and the millions and millions of people
-265.94 267.49 who are suffering in silence,
-267.52 268.36 do you know what they do?
-268.71 270.30 They cling on to that lifeboat
-270.43 271.80 and they realise
-271.83 272.98 they’re not alone
-273.08 274.82 and they might just be normal.
-276.04 278.85 <v Neil> So, because more people are talking about this issue,
-278.89 280.67 it begins to normalise it.
-280.98 282.88 This means it becomes ‘normal’.
-282.93 285.42 It’s not unusual, strange or hidden.
-285.70 287.74 <v Georgina> There are people who suffer in silence –
-287.83 290.76 they keep to themselves and hide their problems from others,
-291.09 293.76 but because there is more publicity about this topic,
-293.96 298.48 they can begin to feel that they are not alone and they don’t have to suffer in silence.
-298.55 303.25 <v Neil> People sharing their stories are like lifeboats for those who do suffer in silence.
-303.70 306.60 In this metaphor they can cling onto the lifeboats.
-306.72 309.86 Right, we’re going to another look at today’s vocabulary,
-309.89 310.68 but first
-311.18 312.84 let’s have the answer to today’s quiz.
-313.03 316.07 When was the first World Mental Health Day?
-316.08 317.99 Was it... A. 1992
-318.21 319.81 B: 2002
-319.83 321.49 C: 2012
-321.62 322.98 Georgina, what did you say?
-323.26 325.08 <v Georgina> I thought it was 2002.
-325.21 326.44 <v Neil> It was actually earlier -
-326.45 327.66 1992.
-327.75 329.84 Now, a review of our vocabulary.
-330.44 331.47 <v Georgina> Failing to address
-331.49 333.63 is a phrase that means ignoring a problem
-333.64 335.45 or not trying to help with a problem.
-335.83 338.46 <v Neil> Something colossal is very, very big.
-338.90 341.37 <v Georgina> A contributor is someone who has something to give,
-341.80 343.41 who is a positive benefit to,
-343.43 345.07 in this case, a business.
-345.46 349.18 <v Neil> Then we have the verb to normalise, meaning to make something normal.
-349.73 351.37 <v Georgina> Someone who suffers in silence,
-351.68 354.79 doesn’t talk about their problems and may hide them from others.
-354.90 357.39 <v Neil> And finally, if you cling on to something,
-357.68 359.06 you hold on to it tightly,
-359.59 360.96 you don’t want to let it go.
-361.63 363.32 And that’s all from us from this programme.
-363.51 365.54 We look forward to your company again soon.
-365.59 368.15 In the meantime find us online, on social media
-368.37 370.02 and on the BBC Learning English app.
-370.15 370.67 <v Georgina> Bye!
-371.70 375.97 6 minute English from BBC learning English
-
-## training [exercise]
-
-audio-original --> text-original order 5
-audio-original --> text-original choose-from-4 12
-audio-original --> text-translation choose-from-4 6
-
-# Phrasal player, video from youtube [richMedia | youtube.com/watch?v=OGoehR_k0Xk]
+# مقدمة [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F1.mp3?alt=media&token=d68a36a2-311a-4080-9ffc-44fc91564735]
 
 ## timing
 
-WEBVTT
-Kind: captions
-Language: en
+15.39 18.68 مجمع الكلم الثقافى يقدم
+18.68 21.68 إلى الأمتين الإسلامية والعربية
+21.68 24.81 كتاب الرحيق المختوم
+24.97 27.46 بحث فى السيرة النبوية
+27.46 30.65 على صاحبها أفضل الصلاة والسلام
+30.85 32.18 لمؤلفه
+32.18 36.51 فضيلة الشيخ صفي الرحمن المباركفوري
+36.83 38.97 الإشراف العام والإخراج
+38.97 41.7 رئيس مجمع الكلم الثقافى
+41.7 44.56 المهندس عصام كمال شقير
+45.26 47.38 الرحيق المختوم
+47.97 50.57 بحث فى السيرة النبوية
+50.78 54.35 على صاحبها أفضل الصلاة والسلام
+54.75 57.93 حاز فيه مؤلفه على الجائزة الأولى
+57.93 61.23 في مسابقة السيرة النبوية العالمية
+61.23 64.53 التي نظمتها رابطة العالم الإسلامي،
+64.81 67.84 وقد كان إقبال الناس عليه عظيمًا
+67.98 72.32 لما بذل فيه مؤلفه من جهد و أمانة علمية
+72.32 77.11 استطاع أن يلم بأحداث السيرة النبوية و تفاصيلها
+77.11 81.69 من جميع الميادين السياسية و الاقتصادية والاجتماعية
+81.69 85.15 والعلاقات الإنسانية والأخلاق الفاضلة
+85.33 86.56 لذا
+86.56 91.58 فقد صنف من أكثر الكتب مبيعا فى العالمين الإسلامى و العربى
 
-00:00:01.815 --> 00:00:06.376
-I'm Clint Smith and this is
-"Ode to the Only Black Kid in the Class."
+# نسب النبي [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F2.mp3?alt=media&token=857c2bf4-2481-4c77-a3ab-b7bf2d5e14b8]
 
-00:00:08.206 --> 00:00:11.256
-You, it seems,
-are the manifestation
+## timing
 
-00:00:11.256 --> 00:00:13.826
-of several lifetimes
-of toil.
+4.64 8.26 نسب النبي صلى الله عليه وسلم
+9.36 13.25 هو محمد بن عبد الله بن عبد المطلب
+13.86 16.27 بن هاشم بن عبد مناف
+17.78 19.25 واسمه المغيرة
+19.25 24.85 بن قُصَىّ بن كِلاب بن مُرَّة بن كعب بن لؤى بن غالب بن فِهْر
+25.31 27.31 وهو الملقب بقريش
+27.7 29.91 وإليه تنتسب القبيلة
+30.9 35.34 بن مالك بن النَّضْر بن كِنَانة بن خُزَيْمَة بن مُدْرِكة
+35.87 39.93 بن إلياس بن مُضَر بن نِزَار بن مَعَدّ بن عدنان‏.‏
+40.7 41.71 وعدنان
+42.11 46.37 من ذرية إسماعيل بن إيراهيم عليهما السلام‏.‏
 
-00:00:13.826 --> 00:00:16.065
-Brown v. Board
-in flesh.
+# الأسرة النبوية [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F3.mp3?alt=media&token=b52aadde-3b13-4730-be03-98164151fcc6]
 
-00:00:16.065 --> 00:00:17.826
-Most days
-the classroom feels
+## timing
 
-00:00:17.826 --> 00:00:19.386
-like an antechamber.
+0.1 2.96 الأسرة النبوية
+3.28 6.85 تعرف أسرته صلى الله عليه وسلم
+6.85 8.85 بالأسرة الهاشمية
+9.09 11.26 نسبة إلى جده
+11.26 13.26 هاشم بن عبد مناف
+13.61 18.38 و هو الذي تولى السقاية والرفادة من بني عبد مناف
+19.02 23.35 و هاشم كان موسرًا ذا شرف كبير،
+23.93 27.66 وهو أول من أطعم الثريد للحجاج بمكة،
+28.21 30.18 وكان اسمه عمرو
+30.18 32.94 فما سمى هاشمًا
+32.94 34.94 إلا لهشمه الخبز،
+35.15 38.98 وهو أول من سن الرحلتين لقريش،
+38.98 40.84 رحلة الشتاء
+40.84 42.42 ورحلة الصيف،
+43.26 45.92 وفيه يقول الشاعر ‏:‏
+46.17 50.16 عمرو الذي هَشَمَ الثريدَ لقومه **
+50.3 54.44 قَومٍ بمكة مُسْنِتِينَ عِجَافِ
+54.79 58.57 سُنَّتْ إليه الرحلتان كلاهما **
+58.57 60.32 سَفَرُ الشتاء
+60.32 62.51 ورحلة الأصياف
+62.79 66.29 وكان لعبد المطلب عشرة بنين،
+66.66 67.49 وهم‏:‏
+68.06 69.98 الحارث، والزبير،
+70.41 71.73 وأبو طالب،
+71.96 73.11 وعبد الله ،
+73.6 75.79 وحمزة، وأبو لهب،
+76 77.4 والغَيْدَاق،
+77.68 80.74 والمُقَوِّم، وضِرَار، والعباس‏.‏
+81.15 82.56 وأما البنات
+82.86 84.75 فست وهن ‏:‏
+85.1 86.64 أم الحكيم
+86.76 88.21 وهي البيضاء
+88.56 89.62 وبَرَّة،
+89.84 91.05 وعاتكة،
+91.21 92.52 وصفية،
+93.09 94.29 وأرْوَى،
+94.29 95.52 وأميمة‏.‏
+96.21 97.82 فعبد الله
+97.82 101.58 والد رسول الله صلى الله عليه وسلم‏:‏
+101.81 106.32 أمه فاطمة بنت عمرو بن عائذ بن عمران
+106.58 109.69 بن مخزوم بن يَقَظَة بن مرة،
+110.04 112.08 وكان عبد الله
+112.18 114.85 أحسن أولاد عبد المطلب
+114.95 116.49 وأعفهم
+116.49 118.49 وأحبهم إليه،
+119.44 121.42 وهو الذبيح؛
+121.77 124.44 وذلك أن عبد المطلب
+124.44 127.2 لما تم أبناؤه عشرة،
+127.43 129.62 وعرف أنهم يمنعونه
+129.97 131.77 أخبرهم بنذره
+132.12 133.62 فأطاعوه،
+133.96 136.65 فكتب أسماءهم في القداح،
+136.93 139.4 وأعطاها قيم هبل،
+139.91 141.5 فضرب القداح
+141.88 144.67 فخرج القدح على عبد الله ،
+144.91 146.98 فأخذه عبد المطلب،
+147.09 148.99 وأخذ الشفرة،
+148.99 153.56 ثم أقبل به إلى الكعبة ليذبحه،
+153.56 155.44 فمنعته قريش،
+155.54 156.54 ولاسيما
+156.81 159.16 أخواله من بني مخزوم
+159.66 160.77 وأخوه
+160.77 161.8 أبو طالب‏.‏
+162.47 164.05 فقال عبد المطلب ‏:‏
+164.18 165.89 فكيف أصنع بنذري‏؟‏
+166.56 171.09 فأشاروا عليه أن يأتى عرافة فيستأمرها،
+171.29 172.39 فأتاها،
+173.17 176.28 فأمرت أن يضرب القداح على عبد الله
+176.79 178.96 وعلى عشر من الإبل،
+179.9 182.05 فإن خرجت على عبد الله
+182.35 184.43 زاد عشرًا من الإبل
+184.73 186.71 حتى يرضى ربه،
+187.54 189.79 فإن خرجت على الإبل
+189.99 191.06 نحرها،
+192 194.82 فرجع وأقرع بين عبد الله
+194.98 197.26 وبين عشر من الإبل،
+198.1 200.88 فوقعت القرعة على عبد الله ،
+201.15 204.67 فلم يزل يزيد من الإبل عشرًا عشرًا
+204.94 207.69 ولا تقع القرعة إلا عليه
+208.39 210.84 إلى أن بلغت الإبل مائة
+211.2 213.58 فوقعت القرعة عليها،
+214.36 215.86 فنحرت عنها
+216.53 218.58 ثم تركها عبد المطلب،
+219.25 222.53 لا يرد عنها إنسان ولا سبع،
+222.87 225.25 وكانت الدية في قريش
+225.55 228.03 وفي العرب عشرًا من الإبل،
+228.36 232.12 فجرت بعد هذه الوقعة مائة من الإبل،
+232.25 234.03 وأقرها الإسلام،
+234.16 238.55 وروى عن النبي صلى الله عليه وسلم أنه قال‏:‏ ‏
+239.02 242.21 [‏أنا ابن الذبيحين‏]‏ يعنى
+242.34 243.58 إسماعيل،
+243.71 245.46 وأباه عبد الله ‏.‏
+246.56 249.95 واختار عبد المطلب لولده عبد الله
+250.32 253.87 آمنة بنت وهب بن عبد مناف بن زهرة
+254.44 256.42 وهي تعد يومئذ
+256.58 258.73 أفضل امرأة في قريش
+258.73 260.3 نسبًا وشرفًا،
+260.94 263.59 فبني بها عبد الله في مكة،
+264.19 265.59 وبعد مدة
+265.8 270.02 أرسله عبد المطلب إلى المدينة يمتار لهم تمرًا،
+270.5 271.84 فمات بها،
+272.31 274.99 ودفن في دار النابغة الجعدى،
+275.49 276.99 وله إذ ذاك
+276.99 279.08 خمس وعشرون سنة،
+279.68 281.22 وكانت وفاته
+281.39 283.43 قبل أن يولد رسول الله
+283.43 285.43 صلى الله عليه وسلم،
 
-00:00:19.386 --> 00:00:20.646
-You are deemed expert
+# المولد - ١ [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F4_1.mp3?alt=media&token=9ca69cbc-85d7-4381-8cdd-1cf5318e624f]
 
-00:00:20.646 --> 00:00:25.756
-on all things Morrison,
-King, Malcolm, Rosa.
+## timing
 
-00:00:25.756 --> 00:00:28.446
-Hell, weren’t you sitting
-on that bus, too?
+0.06 1.61 المولد
+2.21 6.51 ولد سيد المرسلين صلى الله عليه وسلم
+7.34 9.62 بشعب بني هاشم بمكة
+10.62 12.62 في صبيحة يوم الاثنين
+13.41 16.08 التاسع من شهر ربيع الأول،
+16.59 19.3 لأول عام من حادثة الفيل،
+19.91 22.3 ولأربعين سنة خلت
+22.53 25.13 من ملك كسرى أنوشروان،
+26.29 28.57 ويوافق ذلك عشرين
+28.89 30.83 أو اثنين وعشرين
+31.22 33.27 من شهر نيسان أبريل
+33.78 38.41 سنة إحدى وسبعين وخمس مائة ميلادية (571 م)
+38.85 43.81 وروى أن أربع عشرة شرفة من إيوان كسرى سقطت ،
+44.26 47.88 وخمدت النار التي يعبدها المجوس،
+48.11 51.53 وانهدمت الكنائس حول بحيرة ساوة
+51.75 53.44 بعد أن غاضت،
+53.51 55.45 ولما ولدته أمه
+56.2 60.21 أرسلت إلى جده عبد المطلب تبشره بحفيده،
+61.02 62.7 فجاء مستبشرًا
+63.51 64.99 ودخل به الكعبة،
+65.88 67.77 ودعا الله وشكر له‏.‏
+68.77 70.7 واختار له اسم محمد
+71.07 73.17 وخَتَنَه يوم سابعه
+73.45 74.73 أي طهّر
+75.22 77.31 كما كان العرب يفعلون‏.‏
+77.85 81.4 وأول من أرضعته من المراضع بعد أمه
+81.74 84.41 ثُوَيْبَة مولاة أبي لهب
+85.04 86.76 بلبن ابن لها
+86.84 88.72 يقال له‏:‏ مَسْرُوح،
+89.58 92 وكانت قد أرضعت قبله
+92.41 94.74 حمزة بن عبد المطلب،
+95.15 96.82 وأرضعت بعده
+97.35 100.52 أبا سلمة بن عبد الأسد المخزومي‏.‏
+100.94 104.19 وكانت العادة عند الحاضرين من العرب
+104.42 106.96 أن يلتمسوا المراضع لأولادهم
+107.35 110.32 ابتعادًا لهم عن أمراض الحواضر؛
+110.32 112.05 لتقوى أجسامهم،
+112.05 113.94 وتشتد أعصابهم،
+113.94 116.72 ويتقنوا اللسان العربى في مهدهم،
+117.28 120.57 واسترضع له امرأة من بني سعد بن بكر،
+120.81 123.41 وهي حليمة بنت أبي ذؤيب
+123.5 126.15 وزوجها الحارث ابن عبد العزى
+126.15 127.35 المكنى
+127.35 128.85 بأبي كبشة
+128.85 131.02 من القبيلة نفسها ‏.‏
+131.16 138.05 ورأت حليمة ما قصت به العجب من البركة التي درت على أهل هذا البيت
+138.12 140.4 مدة وجوده بينهم
+141.14 142.47 من ذالك
+142.47 145.1 أن حليمة لما جائت إلى مكة
+145.53 148.9 كانت الأيام أيام جدب وقحط
+149.34 151.11 وكان معها أتان
+151.41 154.66 كانت أبطأ دابة في الركب مشياً
+154.75 156.87 لضعفها وهزالها
+157.11 161.65 وكانت معها ناقة لا تدر بقطرة من لبن
+162.34 164.87 وكان لها ولد صغير
+164.87 168.3 يبكي ويصرخ طوال الليل من الجوع ،
+169.16 173.59 فلما جاءت حليمة بالنبي صلى الله عليه وسلم
+173.59 174.95 إلى رحلها ،
+174.95 177.14 ووضعته في حجرها
+177.53 179.69 أقبل عليه ثدياها
+179.69 181.79 بما شاء من لبن ،
+182.27 184.35 فشرب حتى روي ،
+184.92 187.41 وشرب معه ابنها الصغير
+187.67 189.14 حتى روى ،
+189.67 191.21 ثم ناما .
+191.58 195.09 ولما خرجا راجعين إلى بادية بني سعد
+195.52 197.72 ركبت حليمة تلك الأتان ،
+197.95 201.77 وحملت معها النبي ص
+202.1 205.46 فأسرعت بها الأتان حتى قطعت بالركب ،
+205.46 207.46 ولم يستطع لحوقها
+207.46 209.46 شئ من الحمر .
+209.7 213.73 ولما قدما في ديارهما : ديار بني سعد –
+213.94 216.38 وكان أجدب أرض الله –
+216.66 220.12 كانت غنمهما تروح عليهما شباعاً
+220.32 222.7 ممتلئة الخواصر بالعلف ،
+222.98 225.37 وممتلئة الضروع باللبن .
+225.72 228.04 فكانا يحلبان ويشربان ،
+228.53 231.73 وما يحلب إنسان قطرة لبن .
+232.13 235.93 فلم يزالا يعرفان من الله الزيادة والخير
+236.34 238.85 حتى اكتملت مدة الرضاعة
+239.25 240.97 ومضت سنتان
+241.07 242.8 ففطمته حليمة ،
+243.49 246.27 وقد اشتد وقوي في هذه الفترة
+246.87 251.58 حتى إذا كانت السنة الرابعة أو الخامسة من مولده
+252.02 254.53 وقع حادث شقّ الصدر
 
-00:00:28.446 --> 00:00:30.106
-You are every-
-body’s best friend
+# المولد - ٢ [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F4_2.mp3?alt=media&token=841f9907-4a3a-4cbc-be24-e6da881a8bb2]
 
-00:00:30.106 --> 00:00:31.796
-until you are not.
+## timing
 
-00:00:31.796 --> 00:00:33.236
-Hip-hop lyricologist.
+0.1 1.75 إذ أتاه جبريل
+2.03 4.15 وهو يلعب مع الغلمان
+4.84 6.57 فأخذه فصرعه ،
+6.96 8.18 فشق قلبه .
+8.74 10.65 فاستخرج منه علقة ،
+11.02 12.01 فقال :
+12.4 15 هذا حظ الشيطان منك .
+15.24 19.27 ثم غسله في طست من ذهب بماء زمزم ،
+19.75 21.07 ثم لأمه –
+21.44 23.56 ثم أعاده في مكانه .
+24.23 26.88 وجاء الغلمان يسعون إلى أمه –
+27.33 29.25 يعني المرضعة –
+29.55 30.68 فقالوا
+30.68 35.96 إن محمداً قد قتل .فاستقبلوه وهو منتقع اللون .
+36.67 39.73 وخشيت عليه حليمة بعد هذه الوقعة
+40.38 42.29 حتى ردته إلى أمه،
+43.14 46.4 فكان عندها إلى أن بلغ ست سنين‏.‏
+47.64 50.66 ورأت آمنة وفاء لذكرى زوجها
+51.15 53.2 أن تزور قبره بيثرب،
+54.21 56.54 فخرجت من مكة إلى يثرب
+56.93 60.82 ومعها ولدها اليتيم ص
+61.36 63.54 وخادمتها أم أيمن،
+63.93 65.98 وقيمها عبد المطلب،
+66.45 67.98 فمكثت شهرًا
+68.22 69.51 ثم قفلت،
+69.65 73.41 وبينما هي راجعة إذ يلاحقها المرض
+73.75 76.36 ويلح عليها في أوائل الطريق،
+76.87 81.33 فماتت بالأبْوَاء بين مكة والمدينة‏.‏
+81.81 85.32 وعاد برسول الله ص
+85.37 87.28 عبد المطلب إلى مكة،
+87.64 90.93 وكانت مشاعر الحنو في فؤاده
+91.08 93.57 تربو نحو حفيده اليتيم
+93.97 95.98 فَرَقَّ عليه رقة
+96.27 98.71 لم يرقها على أحد من أولاده،
+99.18 102.33 فكان لا يدعه لوحدته المفروضة،
+102.73 104.78 بل يؤثره على أولاده،
+105.24 109.89 وكان يوضع لعبد المطلب فراش في ظل الكعبة،
+110.34 111.74 فكان بنوه
+111.89 114.34 يجلسون حول فراشه ذلك
+114.34 115.98 حتى يخرج إليه،
+116.17 118.16 لا يجلس عليه أحد
+118.26 119.33 من بنيه
+119.53 120.72 إجلالًا له،
+121.32 124.34 فكان رسول الله صلى الله عليه وسلم
+124.67 126.95 يأتى وهو غلام جفر
+126.95 128.74 حتى يجلس عليه،
+128.97 130.07 والجفر
+130.17 133.04 الصبى اذا انتفخ لحمه واكل
+133.82 137.48 فيأخذه أعمامه ليؤخروه عنه،
+137.75 141.46 فيقول عبد المطلب إذا رأي ذلك منهم‏:‏
+141.68 143.04 دعوا ابني هذا،
+143.63 145.82 فوالله إن له لشأنًا،
+146.26 148.96 ثم يجلس معه على فراشه،
+149.33 151.65 ويمسح ظهره بيده،
+151.79 153.08 ويسره
+153.08 154.51 ما يراه يصنع‏.‏
+154.84 161.22 ولثمانى سنوات وشهرين وعشرة أيام من عمره ص
+162.25 165.2 توفي جده عبد المطلب بمكة،
+166.28 167.92 ورأي قبل وفاته
+168.81 172.95 أن يعهد بكفالة حفيده إلى عمه أبي طالب
+173.15 174.41 شقيق أبيه‏.‏
+175.55 177.3 ونهض أبو طالب
+177.48 180.18 بحق ابن أخيه على أكمل وجه،
+180.98 183 وضمه إلى ولده
+183.34 185.19 وقدمه عليهم
+185.8 188.47 واختصه بفضل احترام وتقدير،
+189.38 192.72 وظل فوق أربعين سنة يعز جانبه،
+193.26 195.46 ويبسط عليه حمايته،
+195.89 198.81 ويصادق ويخاصم من أجله،
+199.34 204.82 ولما بلغ رسول الله ص اثنتى عشرة سنة  
+205.44 209.64 ارتحل به أبو طالب تاجرًا إلى الشام،
+210.1 212.25 حتى وصل إلى بُصْرَى
+213.06 217.25 وكان في هذا البلد راهب عرف بِبَحِيرَى ,
+217.3 219.3 واسمه جرجيس،
+219.35 222.38 فلما نزل الركب خرج إليهم،
+222.53 224.7 وأكرمهم بالضيافة،
+224.81 227.76 وكان لا يخرج إليهم قبل ذلك
+228.35 232.53 وعرف رسول الله ص بصفته
+232.89 234.1 فقال :
+234.15 236.47 وهو آخذ بيده
+236.63 238.72 هذا سيد العالمين،
+239.12 242.58 هذا يبعثه الله رحمة للعالمين‏.‏
+242.68 247.91 هو سأل أبا طالب أن يرده ولا يقدم به إلى الشام
+247.96 250.24 خوفا عليه من اليهود
+250.93 254.18 فبعثه عمه مع بعض غلمانه
+254.51 255.81 إلى مكة.
 
-00:00:33.236 --> 00:00:34.896
-Presumed athlete.
+# حياة الكدح [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F5.mp3?alt=media&token=7640d7b6-506e-4a96-9fb2-34ec7f1c8ed3]
 
-00:00:34.896 --> 00:00:36.496
-Free &amp; Reduced sideshow.
+## timing
 
-00:00:36.496 --> 00:00:38.576
-Exception and caricature.
+0.28 2.52 حياة الكدح
+3.28 9.39 ولم يكن له صلى الله عليه وسلم عمل معين في أول شبابه،
+10.17 12.62 إلا أن الروايات توالت
+12.78 14.91 أنه كان يرعى غنمًا،
+15.61 17.58 رعاها في بني سعد،
+18.01 21 وفي مكة لأهلها على قراريط،
+21.94 24.79 وفي الخامسة والعشرين من سنه
+25.1 27.45 خرج تاجرًا إلى الشام
+27.45 30.17 في مال خديجة رضي الله عنها
+31.26 34.92 كانت امرأة تاجرة ذات شرف ومال،
+35.48 37.87 تستأجر الرجال في مالها،
+38.26 40.97 وتضاربهم إياه بشيء
+40.97 42.47 تجعله لهم،
+43.26 46.82 وكانت قريش قومًا تجارًا،
+47.39 51.47 فلما بلغها عن رسول الله صلى الله عليه وسلم
+51.47 54.12 ما بلغها من صدق حديثه،
+54.57 56.5 وعظم أمانته
+56.5 58.42 وكرم أخلاقه
+58.42 59.83 بعثت إليه،
+60.21 63.27 فعرضت عليه أن يخرج في مال لها
+63.53 65.04 إلى الشام تاجرًا،
+65.62 69.64 وتعطيه أفضل ما كانت تعطى غيره من التجار،
+70.29 74.33 فقبله رسول الله صلى الله عليه وسلم منها،
+75.01 77 وخرج في مالها ذلك،
+77.37 79.53 وخرج معه غلامها
+79.6 82.25 ميسرة حتى قدم الشام‏.‏
 
-00:00:38.576 --> 00:00:41.226
-Too black and too white
-all at once.
+# زواجه من خديجة [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F6.mp3?alt=media&token=6c500478-d01d-44c0-b0a8-866e134cf2e4]
 
-00:00:41.226 --> 00:00:42.466
-If you are successful
+## timing
 
-00:00:42.466 --> 00:00:44.666
-it is because
-of affirmative action.
+0 3.15 زواجه من خديجة
+3.7 6.47 ولما رجع إلى مكة،
+6.47 12.33 ورأت خديجة في مالها من الأمانة والبركة ما لم تر قبل ذالك،
+12.33 17.94 وأخبرها غلامها ميسرة بما رأي فيه صلى الله عليه وسلم
+17.94 19.84 من خلال عذبة،
+19.84 21.66 وشمائل كريمة،
+21.66 23.3 وفكر راجح،
+23.3 25 ومنطق صادق،
+25 27 ونهج أمين،
+27 29.9 وجدت ضالتها المنشودة
+30.69 33.06 فتحدثت بما في نفسها
+33.06 36.02 إلى صديقتها نفيسة بنت منبه،
+36.36 37.74 وهذه
+37.74 40.55 ذهبت إليه صلى الله عليه وسلم
+40.84 44.02 تفاتحه أن يتزوج خديجة،
+44.5 46.26 فرضى بذلك،
+46.26 48.26 وكلم أعمامه،
+48.26 51.08 فذهبوا إلى عم خديجة
+51.27 53.45 وخطبوها إليه،
+53.66 56.41 وعلى إثر ذلك تم الزواج،
+56.41 58.8 وحضر العقد بنو هاشم
+58.8 60.48 ورؤساء مضر،
+60.66 64 وذلك بعد رجوعه من الشام بشهرين،
+64 66.76 وأصدقها عشرين بَكْرة‏.‏
+66.76 68.92 وكانت سنها إذ ذاك
+68.92 70.81 أربعين سنة،
+70.81 72.47 وكانت يومئذ
+72.47 74.45 أفضل نساء قومها
+74.45 75.53 نسبًا
+75.53 76.78 وثروة
+76.78 77.91 وعقلًا،
+77.91 83.16 وهي أول امرأة تزوجها رسول الله صلى الله عليه وسلم،
+83.18 85.39 ولم يتزوج غيرها
+85.39 87.07 حتى ماتت‏.‏
+87.11 92.51 وكل أولاده صلى الله عليه وسلم منها سوى إبراهيم،
+93.16 95.94 ولدت له‏:‏ أولًا القاسم
+96.32 98.23 وبه كان يكنى
+98.57 100.01 ثم زينب،
+100.01 101.36 ورقية،
+101.36 102.96 وأم كلثوم،
+102.96 104.32 وفاطمة،
+104.32 105.86 وعبد الله ‏.‏
+106.08 109.63 وكان عبد الله يلقب بالطيب والطاهر،
+110.19 112.99 ومات بنوه كلهم في صغرهم،
+113.49 114.87 أما البنات
+115.07 117.62 فكلهن أدركن الإسلام
+117.91 120.07 فأسلمن وهاجرن،
+120.38 126.13 إلا أنهن أدركتهن الوفاة في حياته صلى الله عليه وسلم
+126.66 129.47 سوى فاطمة رضي الله عنها،
+129.61 132.66 فقد تأخرت بعده ستة أشهر
+132.9 134.66 ثم لحقت به‏.‏
 
-00:00:44.666 --> 00:00:46.146
-If you fail it is because
+# بناء الكعبة وقضية التحكيم [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F7.mp3?alt=media&token=902d709e-a155-4d3b-a94c-3d0380bf3ffa]
 
-00:00:46.146 --> 00:00:47.836
-you were destined to.
+## timing
 
-00:00:47.836 --> 00:00:51.466
-You are invisible until they turn on
-the Friday night lights.
+0.26 4.41 بناء الكعبة وقضية التحكيم
+5.18 8.86 ولخمس وثلاثين سنة من مولده
+8.86 10.86 صلى الله عليه وسلم
+11.4 13.97 قامت قريش ببناء الكعبة؛
+14.59 18.34 وذلك لأن الكعبة كانت رَضْمًا فوق القامة،
+18.71 19.92 ورضم
+19.92 22.92 صخور بعضها على البعض
+23.48 25.75 ارتفاعها تسعة أذرع
+25.75 27.51 من عهد إسماعيل
+28.36 32.27 وقبل بعثته صلى الله عليه وسلم بخمس سنين
+32.6 35.17 جرف مكة سيل عرم
+35.57 38.27 انحدر إلى البيت الحرام،
+38.73 41.65 فأوشكت الكعبة منه على الانهيار،
+42.15 45.33 فاضطرت قريش إلى تجديد بنائها
+45.76 46.71 واتفقوا
+46.91 50.86 على ألا يدخلوا في بنائها إلا طيبًا،
+51.02 56.03 فلا يدخلون فيها مهر بغى ولا بيع ربًا
+56.03 58.84 ولا مظلمة أحد من الناس،
+59.71 61.94 وخصصوا لكل قبيلة
+61.94 63.4 جزءًا منها‏.‏
+63.82 67.3 فجمعت كل قبيلة حجارة على حدة،
+67.61 69.53 وأخذوا يبنونها،
+70.16 73.99 ولما بلغ البنيان موضع الحجر الأسود
+74.41 75.63 اختلفوا
+75.63 78.32 فيمن يمتاز بشرف وضعه
+78.44 79.74 في مكانه،
+80.18 83.65 واستمر النزاع أربع ليال أو خمسًا،
+84.13 87.76 واشتد حتى كاد يتحول إلى حرب ضروس
+87.84 89.32 في أرض الحرم،
+90.02 93.59 إلا أن أبا أمية بن المغيرة المخزومى
+93.95 95.43 عرض عليهم أن
+95.8 98.53 يحكموا فيما شجر بينهم
+98.77 101.83 أول داخل عليهم من باب المسجد
+102.78 104.12 فارتضوه،
+104.44 109.14 وشاء الله أن يكون ذلك رسول الله صلى الله عليه وسلم،
+109.58 111.91 فلما رأوه هتفوا‏:‏
+111.97 113.55 هذا الأمين،
+113.55 114.77 رضيناه،
+114.77 116.35 هذا محمد،
+116.35 118.27 فلما انتهى إليهم،
+118.45 120.44 وأخبروه الخبر
+120.68 122.06 طلب رداء
+122.36 124.33 فوضع الحجر وسطه
+124.85 127.77 وطلب من رؤساء القبائل المتنازعين
+128.07 130.89 أن يمسكوا جميعًا بأطراف الرداء،
+131.43 132.61 وأمرهم
+132.61 133.86 أن يرفعوه،
+134.13 136.96 حتى إذا أوصلوه إلى موضعه
+137.08 137.93 أخذه
+138.18 140.75 فوضعه بيده في مكانه،
+141.6 143.97 وهذا حل حصيف
+143.97 145.75 رضى به القوم‏.‏
+146.76 148.5 وقصرت بقريش
+148.5 149.92 النفقة الطيبة
+150.41 154.38 فأخرجوا من الجهة الشمالية نحوا من ستة أذرع،
+154.78 156.32 وهي التي تسمى
+156.34 157.37 بالحجر
+157.41 158.61 والحطيم،
+159.14 161.28 ورفعوا بابها من الأرض؛
+161.59 163.29 لئلا يدخلها
+163.29 165.05 إلا من أرادوا،
+165.71 169.54 ولما بلغ البناء خمسة عشر ذراعًا
+169.8 171.16 سقفوه
+171.16 173.16 على ستة أعمدة‏.‏
 
-00:00:51.466 --> 00:00:54.406
-Here you are star before
-they render you asteroid.
+# السيرة الإجمالية قبل النبوة [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F8.mp3?alt=media&token=ffdc62a2-dc30-4f0b-9b5a-f89e58fafecd]
 
-00:00:54.406 --> 00:00:57.596
-Before they watch
-you turn to dust.
+## timing
 
-# Text example [richText]
+0 4.21 السيرة الإجمالية قبل النبوة
+5.17 9.16 جمع النبي صلى الله عليه وسلم في نشأته
+9.62 12.27 خير ما في طبقات الناس من ميزات،
+12.94 16.01 وكان طرازًا رفيعًا من الفكر الصائب،
+16.3 17.92 والنظر السديد،
+18.48 21.27 ونال حظًا وافرًا من حسن الفطنة
+21.59 23.08 وأصالة الفكرة
+23.51 25.59 وسداد الوسيلة والهدف،
+26.62 30.55 وكان يستعين بصمته الطويل على طول التأمل
+30.88 32.32 وإدمان الفكرة
+32.55 34.16 واستكناه الحق،
+34.65 37.94 وطالع بعقله الخصب وفطرته الصافية
+38.47 39.92 صحائف الحياة
+40.22 41.64 وشئون الناس
+41.8 43.48 وأحوال الجماعات،
+44.03 46.52 فما وجد حسنًا شارك فيه
+46.79 48.73 وإلا عاد إلى عزلته،
+49.24 50.94 فكان لا يشرب الخمر،
+51.41 54.43 ولا يأكل مما ذبح على النصب،
+54.81 58.28 ولا يحضر للأوثان عيدًا ولا احتفالًا،
+58.64 64.04 وكان النبي صلى الله عليه وسلم يمتاز في قومه بخلال عذبة
+64.26 65.85 وأخلاق فاضلة،
+66.08 67.64 وشمائل كريمة،
+68.33 70.75 فكان أفضل قومه مروءة،
+70.83 72.69 وأحسنهم خلقًا،
+72.86 74.63 وأعزهم جوارًا،
+75.23 77.03 وأعظمهم حلمًا،
+77.08 78.97 وأصدقهم حديثًا،
+79.11 80.97 وألينهم عَرِيكة،
+81.65 83.39 وأعفهم نفسًا
+83.45 85.38 وأكرمهم خيرًا،
+85.46 87.27 وأبرهم عملًا،
+87.35 89.48 وأوفاهم عهدًا،
+89.73 91.99 وآمنهم أمانة
+92.18 94.5 حتى سماه قومه‏:‏ ‏
+94.5 95.73 ‏الأمين‏
+95.95 98.76 لما اجتمع فيه من الأحوال الصالحة
+99.04 100.94 والخصال المرضية.‏
 
-## Header
+# في ظلال النبوة والرسالة [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F9.mp3?alt=media&token=18dfa817-c761-4179-a4eb-a8446198c5d6]
 
-Paragraph1 with nested **bold**, _italic_, and double nested **bold _italic_**. А также русский текст.
+## timing
 
-- list item 1
-- list item 2
-- list item 3
+0 3.43 في ظلال النبوة والرسالة
+4.25 8.99 ولما تقاربت سنه صلى الله عليه وسلم الأربعين،
+9.64 15.88 وكانت تأملاته الماضية قد وسعت الشقة العقلية بينه وبين قومه،
+16.66 18.68 وحبب إليه الخلاء،
+19 21.41 فكان يأخذ السَّوِيق والماء،
+21.72 23.97 ويذهب إلى غار حراء
+24.15 25.58 في جبل النور
+25.93 28.88 على مبعدة نحو ميلين من مكة
+29.58 31.73 فيقيم فيه شهر رمضان،
+32.05 34.76 يطعم من جائه من المساكين
+35.23 40.76 ويقضي وقته في العبادة والتفكير فيما حوله من مشاهد الكون
+41.47 46.02 وهو غير مطمئن لما عليه قومه من عقائد الشرك المهلهلة
+46.54 48.45 وتصوراتها الواهية،
+48.88 49.88 ولكن
+50.24 52.95 ليس بين يديه طريق واضح،
+53.3 55.1 ولا منهج محدد،
+55.49 59.34 ولا طريق قاصد يطمئن إليه ويرضاه‏.‏
+59.93 64.52 وكان اختياره صلى الله عليه وسلم لهذه العزلة
+64.77 67.16 طرفًا من تدبير الله له،
+67.61 70.19 وليعده لما ينتظره
+70.19 72.19 من الأمر العظيم،
+72.91 73.92 وهكذا
+74.35 78.44 دبر الله لمحمد صلى الله عليه وسلم
+78.85 80.24 وهو يعده
+80.51 83.3 لحمل الأمانة الكبرى
+83.72 86.33 وتغيير وجه الأرض،
+86.68 88.1 وتعديل
+88.1 89.97 خط التاريخ‏.‏‏.‏‏.‏
 
-Ordered list:
+# جبريل ينزل بالوحي [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F10.mp3?alt=media&token=8860aeaa-78b6-4951-9dcd-9c8b48d72fe0]
 
-1. List item one
-2. list item two
-3. list item three
+## timing
 
-paragraph 2
+0.5 3.76 جبريل ينزل بالوحي
+4.71 7.95 ولما تكامل له أربعون سنة
+7.95 9.76 وهي رأس الكمال،
+10.34 15.57 بدأت آثار النبوة تلوح وتلتمع له من وراء آفاق الحياة
+16.36 18.58 وتلك الآثار هي الرؤيا.
+19.33 23.42 فكان لا يرى رؤيا إلا جاءت مثل فلق الصبح،
+24.11 30.02 فلما كان رمضان من السنة الثالثة من عزلته صلى الله عليه وسلم بحراء
+30.83 34.64 شاء الله أن يفيض من رحمته على أهل الأرض،
+34.91 36.97 فأكرمه بالنبوة،
+37.42 41.04 وأنزل إليه جبريل بآيات من القرآن‏.‏
+41.53 45.27 وبعد النظر والتأمل في القرائن والدلائل
+45.43 48.39 يمكن لنا أن نحدد ذلك اليوم
+48.59 50.98 بأنه كان يوم الاثنين
+50.98 54.73 لإحدى وعشرين مضت من شهر رمضان ليلًا،
+54.73 58.19 ويوافق 10 من آب أغسطس
+58.19 61.17 سنة 610 م،
+61.8 63.29 وكان عمره
+63.29 65.06 صلى الله عليه وسلم
+65.06 66.7 إذ ذاك بالضبط
+66.7 68.88 أربعين سنة قمرية،
+69.05 72.43 وستة أشهر، و12 يومًا،
+72.71 76.46 وذلك نحو 39 سنة شمسية
+76.68 80.14 وثلاثة أشهر وعشرين يومًا‏.‏
+81.09 83.26 تقول سيدة عائشة
+83.4 88.28 أول ما بديء برسول الله صلى الله عليه وسلم من الوحي
+88.85 91.34 الرؤيا الصالحة في النوم،
+91.95 95.94 فكان لا يرى رؤيا إلا جاءت مثل فَلَق الصبح،
+96.65 98.75 ثم حُبِّبَ إليه الخلاء،
+99.12 101.34 وكان يخلو بغار حراء،
+101.38 103.08 فيَتَحَنَّث فيه
+103.35 104.85 أي يتعبد
+105.11 107.32 الليالي ذوات العدد
+107.52 109.71 قبل أن ينزع إلى أهله،
+109.71 111.71 ويتزود لذلك،
+111.71 113.86 ثم يرجع إلى خديجة
+114.04 115.94 فيتزود لمثلها،
+116.13 119.49 حتى جاءه الحق وهو في غار حراء،
+120.01 122.4 فجاءه الملك فقال‏:‏
+122.61 123.86 اقرأ‏:‏
+124.23 126.84 فقال‏ عليه الصلاة والسلام:‏
+126.98 128.96 (‏ما أنا بقارئ‏)‏،
+129.31 131.86 قال صلى الله عليه وسلم‏:‏
+132.1 134.23 (‏فأخذنى فغطنى
+134.39 136.56 حتى بلغ منى الجهد،
+136.76 139.15 ثم أرسلنى، فقال‏:‏
+139.15 140.55 اقرأ،
+140.55 141.84 فقال:‏
+141.84 143.68 ما أنا بقارئ،
+143.97 146.74 فأخذني فغطني الثالثة،
+146.74 149.05 ثم أرسلني فقال‏:‏ ‏
+149.52 153.12 {‏اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ
+153.65 156.44 خَلَقَ الْإِنسَانَ مِنْ عَلَقٍ
+157.17 159.72 اقْرَأْ وَرَبُّكَ الْأَكْرَمُ‏‏‏
+159.95 162.72 الَّذِي عَلَّمَ بِالْقَلَمِ
+162.94 166.3 عَلَّمَ الْإِنْسَانَ مَا لَمْ يَعْلَمْ} [‏العلق‏:‏1‏:‏ 3‏]‏‏)‏،
+166.55 172.8 فرجع بها رسول الله صلى الله عليه وسلم يرجف فؤاده،
+173.55 177.76 فدخل على خديجة بنت خويلد وقال‏:‏
+178.21 179.89 (‏زَمِّلُونى
+180.07 181.86 زملونى‏)‏،
+181.86 183.17 فزملوه
+183.35 185.8 حتى ذهب عنه الروع،
+185.8 187.8 فقال لخديجة‏:‏
+187.87 189.04 (‏ما لي‏؟‏‏)‏
+189.21 190.81 فأخبرها الخبر،
+191.39 193.44 (‏لقد خشيت على نفسي‏)‏،
+193.8 195.36 فقالت خديجة‏:‏
+195.36 196.35 كلا،
+196.52 199.01 والله ما يخزيك الله أبدًا،
+199.49 201.44 إنك لتصل الرحم،
+201.6 203.28 وتحمل الكل،
+203.7 205.61 وتكسب المعدوم،
+205.85 207.41 وتقرى الضيف،
+207.51 210.08 وتعين على نوائب الحق،
+210.69 215.08 فانطلقت به خديجة حتى أتت به ورقة بن نوفل
+215.31 216.99 ابن عم خديجة
+216.99 219.8 وكان امرأ تنصر في الجاهلية،
+220.01 222.82 وكان شيخًا كبيرًا قد عمي
+223.02 224.66 فقالت له خديجة‏:‏
+224.66 225.96 يابن عم،
+226.04 227.76 اسمع من ابن أخيك،
+227.76 229.72 فقال له ورقة‏:‏
+229.72 231.59 يابن أخي،
+231.63 233.11 ماذا ترى‏؟‏
+233.11 237.22 فأخبره رسول الله صلى الله عليه وسلم
+237.38 238.92 خبر ما رأي،
+239.14 240.92 فقال له ورقة‏:‏
+240.92 243.78 هذا الناموس
+243.94 247.14 الذي نزله الله على موسى،
+247.71 250.62 يا ليتني فيها جَذَعا،
+251.23 253.44 ليتنى أكون حيًا
+253.44 255.62 إذ يخرجك قومك،
+255.93 259.8 فقال رسول الله صلى الله عليه وسلم‏:‏
+260.18 262.2 (‏أو مخرجيّ هم‏؟‏‏)‏
+262.33 263.42 قال‏:‏
+263.54 264.86 نعم،
+265.08 268.81 لم يأت رجل قط بمثل ما جئت به
+268.81 270.37 إلا عُودِىَ،
+270.73 273.1 وإن يدركنى يومك
+273.1 275.63 أنصرك نصرًا مؤزرًا،
+276.1 278.85 ثم لم يَنْشَبْ ورقة أن توفي،
+278.85 280.53 وفَتَر الوحى‏.‏
+280.98 284.54 أما مدة فترة الوحى فكانت أيامًا،
+285.25 291.2 وبقى رسول الله صلى الله عليه وسلم في أيام الفترة كئيبًا محزونًا
+291.93 294.12 تعتريه الحيرة والدهشة،
+294.87 297.44 فلما تقلّصت ظلال الحَيْرة ،
+298.49 300.88 وثبتت أعلام الحقيقة،
+301.27 305.07 وعرف صلى الله علي وسلم معرفة اليقين
+305.21 309.22 أنه أضحى نبياً لله الكبير المتعال،
+309.31 311.8 وأن ما جاءه سفير الوحي
+311.8 314.25 ينقل إليه خبر السماء
+314.71 318.17 وسارت تشوُّفه وارتقابه لمجيئ الوحي
+318.6 322.41 سبباً في ثباته واحتماله عندما يعود،
+322.65 325.42 وجاء جبريل للمرة الثانية،
+325.93 328.99 يقول (صلَّى الله عليه وسلم)
+329.51 332.33 فإذا الملك الذي جاءني بحراء
+332.65 336.22 قاعد على كرسيّ بين السماء والأرض،
+336.54 338.44 فجئثت منه
+338.44 340.29 أي جزعت وخفت
+340.39 342.55 حتى هويت إلى الأرض،
+342.76 345.69 فجئت إلى أهلي، فقلت:
+346.06 347.69 زملوني
+347.69 349.69 زملوني،
+350.01 351.69 فزملوني...
+351.97 354.58 فأنزلَ الله عز وجل:
+354.7 357.78 {يَاأَيُّهَا الْمُدَّثِّرُ.
+358.25 360.23 قُمْ فَأَنذِرْ.
+360.5 363.03 وَرَبَّكَ فَكَبِّرْ.
+363.25 365.66 وَثِيَابَكَ فَطَهِّرْ.
+365.92 368.07 وَالرُّجْزَ فَاهْجُرْ..}.
+368.6 371.35 ثم حمي الوحي وتتابع
+371.35 375.74 تلقى النبي صلى الله عليه وسلم أوامر عديدة
+375.74 377.69 في قولة تعالى
+377.69 380.14 يا أيها المدثر
+381.03 384.17 إنها أوامر بسيطة في الظاهر ،
+384.51 385.67 لكنها
+385.67 387.97 بعيدة المدى والغاية ،
+388.28 390.75 قوية الأثر والفعل
+390.99 394.64 ما أبسط هذه الأوامر في صورتها الظاهرة،
+395.08 399.92 وما أروعها في إيقاعاتها الهادئة الخلابه
+400.16 401.26 ولكن
+401.56 405.57 ما أكبرها وأفهمها وأشدها في العمل
+406.22 408.69 وما أعظمها اثارة
+408.69 413.23 لعاصفةٍ هوجاء تحضر جوانب العالم كله ،
+413.51 417.8 وتتركها يتلاحم بعضها مع بعض
+418.63 423.27 وقام رسول الله صلى الله عليه وسلم على الدعوة الله ،
+423.71 426.99 يحمل على عاتقه العبء الثقيل الباهظ،
+427.52 429.18 ولا ينوء به،
+429.44 432.36 عبء الأمانة الكبرى في هذه الأرض،
+432.62 434.71 عبء البشرية كلها،
+434.85 436.86 وعبء العقيدة كلها،
+437 439.12 وعبء الكفاح والجهاد
+439.23 441.01 في ميادين شتى.
+441.47 444.51 عاش في المعركة الدائبة المستمرة
+444.96 446.96 أكثر من عشرين عامًا
+447.39 449.67 لا يلهيه شأن عن شأن
+450.04 453.26 منذ أن سمع النداء العلوى الجليل،
+453.6 456.48 وتلقى منه التكليف الرهيب‏.‏‏.
+456.61 460.21 جزاه الله عنا وعن البشرية كلها
+460.45 461.83 خير الجزاء‏.
 
-> blockquote line 1
-> blockquote line 2
-> blockquote line 3
->
-> -- **_Mark Awreliy_**
+# المرحلة الأولى [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F11.mp3?alt=media&token=e9fc7350-dd31-479f-ab16-8692981a7a20]
 
-А ещё параграф с русским текстом مَعَ كلمات عَرَبِيَّةٍ أيضا чтобы совсем интересно было. **أخرى عربية** И немного _русского курсива_ и **жирного русского**.
+## timing
 
-This is sounded words: {one}, {two}, {three (from path) | 001/001/audios/003}.
+0.14 2.74 المرحلة الأولى:
+2.74 4.74 جهاد الدعوة
+5.39 9.33 معلوم أن مكة كانت مركز دين العرب
+9.55 12.28 وكان بها سدنة الكعبة
+12.28 17.84 والقوام على الأوثان والأصنام المقدسة عند سائر العرب
+18.36 21.17 فالوصول إلى المقصود من الإصلاح فيها
+21.53 25.86 يزداد عسراً وشدة عما لو كان بعيداً عنها .
+26.5 29.45 فالأمر يحتاج إلى عزيمة
+29.45 32.97 لا تزلزلها المصائب والكوارث
+33.75 36.06 كان من الحكمة تلقاء ذلك
+36.06 40.09 أن يجعل النبيّ الدعوة في بدء أمرها سرية ،
+40.35 43.04 لئلا يفاجئ أهل مكة
+43.04 45.04 بما يهيجهم .
+45.04 47.58 الرعيل الأول
+47.9 54.14 وكان من الطبيعى أن يعرض الرسول صلى الله عليه وسلم الإسلام أولًا
+54.14 56.71 على ألصق الناس به
+56.85 59.06 آل بيته، وأصدقائه،
+59.64 61.42 فدعاهم إلى الإسلام،
+61.84 67.16 ودعا إليه كل من توسم فيه الخير ممن يعرفهم ويعرفونه،
+67.34 71.6 فأجابه هؤلاء الذين لم تخالجهم ريبة قط
+71.76 75.07 في عظمة الرسول صلى الله عليه وسلم
+75.31 77.07 وجلالة نفسه
+77.07 78.6 وصدق خبره
+78.78 79.99 جَمْعٌ
+79.99 83.76 عُرِفوا في التاريخ الإسلامى بالسابقين الأولين،
+83.94 85.46 وفي مقدمتهم
+85.79 88.68 زوجة النبي صلى الله عليه وسلم
+88.68 90.18 أم المؤمنين
+90.28 92.49 خديجة بنت خويلد،
+92.85 94.96 ومولاه زيد بن حارثة
+95.2 98.07 وابن عمه علي بن أبي طالب
+98.17 101.2 وكان صبيًا يعيش في كفالة الرسول
+101.5 103.2 وصديقه الحميم
+103.31 104.99 أبو بكر الصديق‏.‏
+105.21 106.82 أسلم هؤلاء
+106.82 109.77 في أول يوم من أيام الدعوة‏.‏
+109.77 113.38 ثم نشط أبو بكر في الدعوة إلى الإسلام،
+113.82 117.61 وكان رجلًا مألفًا محببًا سهلًا
+117.61 119.9 ذا خلق ومعروف،
+120.62 122.33 وكان رجال قومه
+122.33 124.24 يأتونه ويألفونه؛
+124.24 126.38 لعلمه وتجارته
+126.38 128.27 وحسن مجالسته،
+128.83 131.7 فجعل يدعو من يثق به من قومه
+131.7 133.29 ممن يغشاه
+133.29 134.71 ويجلس إليه،
+135.23 136.88 فأسلم بدعوته
+137.06 139.49 عثمان بن عفان الأموى،
+139.73 142.5 والزبير بن العوام الأسدى،
+142.82 145.09 وعبد الرحمن بن عوف،
+145.29 148.5 وسعد بن أبي وقاص الزهريان،
+148.72 151.83 وطلحة بن عبيد الله التيمي‏.‏
+152.27 156 فكان هؤلاء الذين سبقوا الناس
+156.26 158.19 هم الرعيل الأول
+158.49 160.78 وطليعة الإسلام‏.‏
+161.1 163.43 ومن أوائل المسلمين
+163.43 165.72 بلال بن رباح الحبشي ،
+165.96 168.41 ثم تلاهم أمين هذه الأمة
+168.65 171.6 أبو عبيدة عامر بن الجراح ,
+171.6 174.09 وأبو سلمة بن عبد الأسد ،
+174.31 177.96 والأرقم بن أبي الأرقم المخزوميان ...
+178.18 180.19 وعثمان بن مظعون
+180.29 183.12 وأخواه قدامة وعبد الله ،
+183.32 187.07 وعبيدة بن الحارث بن المطلب بن عبد مناف،
+187.35 189.82 وسعيد بن زيد العدوي ،
+189.98 193.69 وامرأته فاطمة بنت الخطاب العدوية
+193.69 195.88 أخت عمر بن الخطاب ،
+196.24 198.03 وخباب بن الأرت
+198.17 200.94 وعبد الله بن مسعود الهذلي
+200.94 203.02 وخلق سواهم،
+203.22 206.41 وأولئك هم السابقون الأولون ،
+206.56 210.13 وهم من جميع بطون قريش
+210.31 214.58 ثم دخل الناس في الإسلام أرسالا من الرجال والنساء
+215.37 217.83 حتى فشا ذكر الإسلام بمكة،
+218.21 219.83 وتحدث به.
+220.02 221.87 أسلم هؤلاء سرا
+222.27 225.26 وكان الرسول صلى الله عليه وسلم
+225.26 229.11 يجتمع بهم ويرشدهم إلى الدين متخفيا ؛
+229.47 233.21 لأن الدعوة كانت لا تزال فردية وسرية ،
+233.53 237.04 وكان الوحي قد تتابع وحمى نزوله
+237.04 239.63 بعد نزول أوائل المدثر ،
+239.95 244.52 وكانت الآيات وقطع السور التي تنزل في هذا الزمان
+244.72 246.31 آيات قصيرة ،
+246.45 249.36 تشتمل على تحسين تزكية النفوس ،
+249.36 252.65 وتقبيح تلويثها برذائل الدنيا،
+252.85 254.84 تصف الجنة والنار
+254.98 256.89 كأنهما رأى عين ،
+256.89 262.99 تسير بالمؤمنين في جو آخر غير الذي كان فيه المجتمع البشري آنذاك
+263.29 265.01 الصلاة :
+265.68 268.4 وكان في أوائل ما نزل
+268.55 270.25 الأمر بالصلاة ،
+271.27 276.07 فرض الله في أول الإسلام الصلاة ركعتين بالغداة
+276.07 278.24 وركعتين بالعشى ،
+278.56 280.97 لقوله تعالى :
+280.97 285.8 ( وسبح بحمد ربك بالعشي والإبكار)
 
-Image inside text: ![some image](https://github.githubassets.com/images/icons/emoji/unicode/1f64e-2642.png)
+# المرحلة الثانية [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F12.mp3?alt=media&token=1ca5a64e-a2b5-4719-ab02-214c737f64e1]
 
-Image inside text: ![some image](images/background)
+## timing
 
-![block](images/logo)
+0.13 2.3 المرحلة الثانية:
+2.3 4.3 الدعوة جهارًا
+5.05 7.97 أول أمر بإظهار الدعوة
+8.32 12.08 أول ما نزل بهذا الصدد قوله تعالى‏:‏ ‏
+12.3 15.83 {‏وَأَنذِرْ عَشِيرَتَكَ الْأَقْرَبِينَ‏}‏ ‏[‏الشعراء‏:‏214‏]‏،
+16.24 18.84 والسورة التي وقعت فيها الآية -
+19.14 20.84 هي سورة الشعراء -
+21.37 23.14 ذكرت فيها أولاً
+23.14 25.14 قصة موسى عليه السلام
+25.47 26.99 من بداية نبوته
+27.24 29.93 إلى هجرته مع بني إسرائيل،
+30.16 32.5 ونجاتهم من فرعون وقومه،
+32.81 35.07 وإغراق آل فرعون معه،
+35.95 39.27 وقد اشتملت هذه القصة على جميع المراحل
+39.5 42.28 التي مر بها موسى عليه السلام
+42.51 45.03 خلال دعوة فرعون وقومه
+45.4 46.46 إلى اللَّه.
+47.04 48.55 هذا التفصيل
+48.89 53.24 إنما جيء به حين أمر الرسول صلى الله عليه وسلم
+53.66 55.82 بدعوة قومه إلى اللَّه،
+56.21 59.75 ليكون أمامه وأمام أصحابه نموذجاً
+60.02 63.44 لما سيلقونه من التكذيب والاضطهاد
+63.77 65.7 حينما يجهرون بالدعوة،
+66.13 69.06 وليكونوا على بصيرة من أمرهم
+69.17 71.23 منذ بداية دعوتهم.
 
-Also here is a media:
+# الدعوة إلى الأقربين [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F13.mp3?alt=media&token=57bc2035-deec-481c-8a75-a267876b26aa]
 
-[media | https://www.youtube.com/watch?v=dY_yfg9b2jk]
+## timing
 
-Other video
+0 2.89 الدعوة إلى الأقربين
+3.28 7.28 وأول ما فعل رسول الله صلى الله عليه وسلم
+7.39 9.35 بعد نزول هذه الآية
+9.88 12.45 أنه دعا بني هاشم فخبروا
+12.65 16.34 ومعهم نفر من بني المطلب بن عبد مناف،
+16.72 19.37 فكانوا خمسة وأربعين رجلًا‏.‏
+19.56 22.25 فبادره أبو لهب وقال‏:‏
+22.51 25.83 وهؤلاء عمومتك وبنو عمك
+25.95 28.28 فتكلم، ودع الصباة،
+28.28 32.37 واعلم أنه ليس لقومك بالعرب قاطبة طاقة،
+32.37 34.88 وأنا أحق من أخذك،
+34.88 36.79 فحسبك بنو أبيك،
+36.79 39.5 وإن أقمت على ما أنت عليه
+39.5 43.45 فهو أيسر عليهم من أن يثب بك بطون قريش،
+43.45 45.39 وتمدهم العرب،
+45.39 50.68 فما رأيت أحدًا جاء على بني أبيه بشر مما جئت به،
+50.68 54.3 فسكت رسول الله صلى الله عليه وسلم،
+54.79 57.67 ولم يتكلم في ذلك المجلس‏.‏
+58.39 61.09 ثم دعاهم ثانية وقال‏:‏ ‏
+61.29 63.4 (‏الحمد لله، أحمده
+63.78 66.43 وأستعينه، وأومن به،
+66.68 68.43 وأتوكل عليه‏.‏
+68.92 72.93 وأشهد أن لا إله إلا الله وحده لا شريك له‏)‏‏.‏
+73.2 74.59 ثم قال‏:‏ ‏
+74.82 77.33 (‏إن الرائد لا يكذب أهله،
+78.12 80.91 والله الذي لا إله إلا هو،
+80.99 84.11 إنى رسول الله إليكم خاصة
+84.11 86.36 وإلى الناس عامة،
+86.36 89.42 والله لتموتن كما تنامون،
+89.42 92.33 ولتبعثن كما تستيقظون،
+92.33 95.35 ولتحاسبن بما تعملون،
+95.35 97.58 وإنها الجنة أبدًا
+97.58 99.18 أو النار أبدًا‏)‏‏.‏
+99.52 101.26 فقال أبو طالب‏:‏
+101.53 104.6 ما أحب إلينا معاونتك،
+104.83 107.66 وأقبلنا لنصيحتك،
+107.9 110.62 وأشد تصديقنا لحديثك‏.‏
+111.29 114.12 وهؤلاء بنو أبيك مجتمعون،
+114.55 116.55 وإنما أنا أحدهم،
+116.69 120.03 غير أني أسرعهم إلى ما تحب،
+120.76 123.13 فامض لما أمرت به‏.‏
+123.6 127.28 فوالله ، لا أزال أحوطك وأمنعك،
+127.79 129.37 غير أن نفسى
+129.53 133.52 لا تطاوعنى على فراق دين عبد المطلب‏.‏
+134.31 136.11 فقال أبو لهب‏:‏
+136.86 139.01 هذه والله السوأة،
+139.01 140.36 خذوا على يديه
+140.36 142.31 قبل أن يأخذ غيركم،
+142.31 143.79 فقال أبو طالب‏:‏
+143.79 147.31 والله لنمنعه ما بقينا‏.‏
+148.3 150.89 على جبل الصفا
+151.44 157.66 وبعد ما تأكد النبي صلى الله عليه وسلم من تعهد أبي طالب بحمايته
+158.1 160.09 وهو يبلغ عن ربه،
+160.53 164.22 صعد النبي صلى الله عليه وسلم على الصفا،
+164.38 166.12 فجعل ينادى
+166.12 167.94 يا بني فهر،
+167.94 169.42 يا بني عدى،
+169.42 171.18 لبطون قريش
+171.26 172.66 حتى اجتمعوا .
+173.37 176.29 فجعل الرجل إذا لم يستطع أن يخرج
+176.85 179.38 أرسل رسولًا ينظر ما هو،
+179.57 182.36 فجاء أبو لهب وقريش‏.‏
+182.56 185.8 فقال رسول الله صلى الله عليه وسلم‏:‏ ‏
+185.8 190 (‏أرأيتكم لو أخبرتكم أن خيلًا بالوادى
+190.18 192.26 تريد أن تغير عليكم
+192.65 194.71 أكنتم مُصَدِّقِىَّ‏؟‏‏)‏‏.‏
+194.86 195.97 قالوا‏:‏
+195.97 196.92 نعم،
+196.92 199.25 ما جربنا عليك إلا صدقًا‏.‏
+199.25 200.26 قال‏:‏
+200.44 204.19 ‏(‏فإنى لكم بين يدى عذاب شديد،
+204.66 206.28 فقال‏ أبو لهب:‏
+206.28 208.58 تبا لك سائر اليوم،
+208.58 210.58 ألهذا جمعتنا‏؟‏
+210.58 212.11 فنزلت‏:‏
+212.33 215.51 ‏{‏تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ
+215.61 219.44 مَا أَغْنَى عَنْهُ مَالُهُ وَمَا كَسَبَ
+219.76 222.52 سَيَصْلَى نَارًا ذَاتَ لَهَبٍ
+222.7 225.43 وَامْرَأَتُهُ حَمَّالَةَ الْحَطَبِ
+225.57 228.55 فِي جِيدِهَا حَبْلٌ مِنْ مَسَدٍ }‏ ‏[‏سورة المسد‏]‏‏.‏
+228.94 230.45 وفي رواية
+230.92 234 قال رسول الله صلى الله عليه وسلم:
+234.69 236.99 (يا معشر قريش
+237.18 240.03 أنقذوا أنفسكم من النار
+240.36 242.32 يا معشر بني كعب
+242.36 245.32 أنقذوا أنفسكم من النار
+245.32 248.19 يافاطمة بنت محمد
+248.19 250.84 أنقذي نفسك من النار
+251.09 254.23 فإني والله لا أملك لكم من الله شيئا
+254.69 258.46 إلا أن لكم رحمًا سأبُلُّها بِبلاَلها‏)‏
+258.99 259.59 أي
+259.71 261.19 أصلكم في الدنيا
+261.25 263.76 ولا أغنى عنكم من الله شيئًا‏
+263.97 267.63 هذه النصيحة العالية هي غاية البلاغ
+268.46 271.5 فقد أوضح الرسول صلى الله عليه وسلم
+271.82 273.67 لأقرب الناس إليه
+273.97 276.56 أن التصديق بهذه الرسالة
+276.83 279.6 هو حياة الصلات بينه وبينهم،
+280.13 283.83 وأن عصبة القرابة التي يقوم عليها العرب
+284.11 286.9 ذابت في حرارة هذا الإنذار
+287.18 289.24 الآتى من عند الله ‏.‏
 
-[media | https://www.youtube.com/watch?v=CEQTo9usai4]
+# الصدع بالحق [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F14.mp3?alt=media&token=c666a76d-909e-4b55-b693-b1acee8a9027]
 
-Quiz with radio buttons (right answer is 2nd):
+## timing
 
-- ( ) Lorem ipsum dolor sit amet.
-- (x) Lorem ipsum dolor sit amet consectetur adipisicing.
-- ( ) Lorem ipsum dolor sit amet.
+0 1.92 الصدع بالحق
+2.16 4.81 وردود فعل المشركين
+5.32 10 ولم يزل هذا الصوت يرتج دويه في أرجاء مكة
+10.48 13.49 حتى نزل قوله تعالى‏:‏ ‏
+13.61 16.29 {‏فَاصْدَعْ بِمَا تُؤْمَرُ
+16.71 19.08 وَأَعْرِضْ عَنِ الْمُشْرِكِينَ‏}‏ ‏[‏الحجر‏:‏94‏]‏،
+19.34 25.58 فقام رسول الله صلى الله عليه وسلم يعكر على خرافات الشرك وترهاته ،
+26.16 28.27 ويذكر حقائق الأصنام
+28.57 31.09 وما لها من قيمة في الحقيقة ،
+31.65 33.93 يضرب بعجزها الأمثال
+34.23 36.24 ويبين بالبينات
+36.43 39.75 أن من عبدها وجعلها وسيلة
+39.75 42 بينه وبين الله
+42.22 45.03 فهو في ضلال مبين
+45.3 48.03 انفجرت مكة بمشاعر الغضب
+48.31 50.98 وماجت بالغرابة والاستنكار
+51.22 54.94 حين سمعت صوتا يجهر بتضليل المشركين
+55.04 56.7 وعباد الأصنام
+56.97 60.07 وكأنه صاعقة قصفت السحاب
+60.38 64.06 فرعدت وبرقت وزلزلت الجو الهادئ،
+64.53 66.11 وقامت قريش
+66.49 70.44 تستعد لحسم هذه الثورة التي اندلعت بغتة،
+71.05 73.83 وتخشى أن تأتي على تقاليدها
+74.06 75.67 وموروثاتها.
 
-And a quiz:
+# أساليب شتى لمجابهة الدعوة [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F15.mp3?alt=media&token=1af76100-5fc5-4540-9f40-12f93baab832]
 
-Please, answer the question blablabla (right is 1st + 3rd):
+## timing
 
-- [x] Lorem ipsum dolor sit amet.
-- [ ] Lorem ipsum dolor sit amet consectetur adipisicing.
-- [x] Lorem ipsum dolor sit amet.
+0.24 1.89 أساليب شتى
+2.27 3.89 لمجابهة الدعوة
+4.49 11.97 ولما رأت قريش أن محمداً صلى الله عليه وسلم لا يصرفه عن دعوته هذا ولا ذاك .
+12.33 14.11 فكروا مرة أخرى
+14.62 17.05 واختاروا لقمع هذه الدعوة
+17.34 20.01 أساليب من السخرية والتحقير
+20.25 23.19 والاستهزاء والتكذيب والتضحيك ،
+23.62 26.11 وقصدوا إلى تشويه تعاليمه
+26.31 27.92 وإثارة الشبهات ،
+28.12 30.04 وبث الدعايات الكاذبة
+30.39 32.7 ونشر الإيرادات الواهية
+32.83 34.72 حول هذه التعاليم
+35.15 36.41 وحول ذاته
+36.54 37.61 وشخصيته
+38.16 40.19 والإكثار من ذلك كل
+40.54 43.66 بحيث لا يبقى للعامة مجال
+43.66 45.66 في تدبر دعوته.
+
+# الاضطهادات [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F16.mp3?alt=media&token=8f62df93-fb0c-4d9d-ad92-e3b36f00f794]
+
+## timing
+
+0 1.98 الاضطهادات
+1.98 6.07 كان ذلك في بداية السنة الرابعة من النبوة،
+6.53 9.39 ومضت على ذلك أسابيع وشهور
+9.39 12.25 وهم مقتصرون على هذه الأساليب
+12.81 16.57 لا يتجاوزونها إلى طريق الاضطهاد والتعذيب،
+16.69 18.03 ولكنهم
+18.15 21.88 لما رأوا أن هذه الأساليب لم تجد لهم نفعًا
+22.09 24.28 في كف الدعوة الإسلامية
+24.39 26.38 اجتمعوا مرة أخرى
+26.67 29.27 وبعد تشاور وتفكر
+29.47 31.92 إتخذوا قراراً حاسماً
+31.92 35.1 ضد رسول الله صلى الله عليه وسلم
+35.1 36.71 وضد أصحابه .
+37.03 41.11 فقرروا أن لا يألوا جهداً في محاربة الإسلام
+41.11 42.72 وإيذاء رسوله
+42.9 44.94 وتعذيب الداخلين فيه
+45.14 49.05 والتعرض لهم بألوان من النكال والإيلام .
+49.58 53.87 وبدأوا الاعتداءات ضد النبي صلى الله عليه وسلم ،
+53.87 56.35 وعلى رأسهم أبو لهب،
+56.76 61.43 كانت هذه الاعتداءات بالنسبة إلى النبي صلى الله عليه وسلم
+61.43 62.8 ترتكب
+62.8 66.94 على الرغم مما لشخصيته الفذة من وقار وجلال
+66.94 69.74 في نفوس العامة والخاصة،
+69.92 71.32 ومع ما له
+71.32 73.28 من منعة أبي طالب
+73.45 76.05 أعظم رجل محترم في مكة،
+76.66 78.76 أما بالنسبة إلى المسلمين -
+78.94 81.13 ولا سيما الضعفاء منهم -
+81.42 84.89 فإن الإجراءات كانت أقسى من ذلك وأمر،
+85.42 86.79 ففي الوقت نفسه
+87.02 88.8 قامت كل قبيلة
+88.95 91.69 تسوم من دان منها بالإسلام
+91.89 94.05 أنواعاً من التعذيب،
+94.29 96.59 ومن لم يكن له قبيلة
+96.71 99.74 أجرت عليهم الأوباش والسادات
+99.74 102.02 ألواناً من الاضطهاد
+102.23 104.15 يفزع من ذكرها
+104.15 105.99 قلب الحليم.
+106.1 108.96 فما من أحد علموا بإسلامه
+109.11 111.06 إلا تصدوا له
+111.06 112.41 وآذوه
+
+# قريش يهدِّدون أبا طالب [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F17.mp3?alt=media&token=89c12d34-670c-49a9-9b3b-36c5f2e4fa65]
+
+## timing
+
+0.15 3.29 قريش يهدِّدون أبا طالب
+3.59 7.26 جاءت سادات قريش إلى أبي طالب
+7.26 8.65 فقالوا له:
+8.65 10.37 يا أبا طالب
+10.37 13.98 إن لك سناً وشرفاً ومنزلة فينا.
+14.08 17.83 وإنا قد استنهيناك من ابن أخيك فلم تنهه،
+17.83 27.33 وإنا والله لا نصبر على هذا، من شتم آبائنا وتسفيه أحلامنا وعيب آلهتنا، حتى تكفه عنا،
+27.33 28.2 أو
+28.36 30.87 ننازله وإياك في ذلك،
+30.87 33.91 حتى يهلك أحد الفريقين.
+34.08 39.18 عظم على أبي طالب هذا الوعيد والتهديد الشديد،
+39.82 43.92 فبعث إلى رسول اللَّه صلى الله عليه وسلم
+43.92 45.36 وقال له
+45.57 47.04 يا ابن أخي
+47.6 50.09 إن قومك قد جاؤوني
+50.56 53.2 فقالوا لي كذا وكذا
+53.87 56.16 فأبق علي وعلى نفسك،
+56.62 59.93 ولا تحملني من الأمر ما لا أطيق،
+60.05 63.52 فظن رسول اللَّه صلى الله عليه وسلم
+63.68 65.64 أن عمه خاذله،
+65.81 68.48 وأنه ضعُف عن نصرته،
+68.48 69.57 فقال:
+70.09 71.57 يا عم
+72.04 75.12 واللَّه لو وضعوا الشمس في يميني
+75.47 77.78 والقمر في يساري
+77.92 80.48 على أن أترك هذا الأمر -
+80.48 84.63 حتى يظهره اللَّه أو أهلك فيه -
+84.63 86.07 ما تركته،
+86.9 89.44 ثم استعبر وبكى،
+89.66 90.72 وقام،
+91.41 92.72 فلما ولى
+92.98 94.88 ناداه أبو طالب
+95.23 97.61 فلما أقبل قال له
+97.9 99.61 اذهب يا ابن أخي
+100.4 102.03 فقل ما أحببت،
+102.72 106.3 فواللَّه لا أسلمك لشيء أبداً.
+
+# إسلام حمزة رضي اللَّه عنه [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F18.mp3?alt=media&token=36da0194-d71a-4919-b17d-593f40e37cef]
+
+## timing
+
+0.23 3.26 إسلام حمزة رضي اللَّه عنه
+3.57 8.44 خلال هذا الجو الملبد بسحائب الظلم والطغيان
+8.94 12.72 أضاء برق نور للمقهورين طريقهم
+13.16 14.59 ألا وهو
+14.59 17.67 إسلام حمزة بن عبد المطلب
+17.67 19.33 رضي اللَّه عنه،
+20.05 23.39 أسلم في أواخر السنة السادسة من النبوة،
+23.69 24.95 والأغلب
+24.95 26.45 أنه أسلم
+26.45 28.13 في شهر ذي الحجة.
+28.35 30.13 وسبب إسلامه
+30.29 35.94 أن أبا جهل مر برسول اللَّه صلى الله عليه وسلم يوماً عند الصفا
+36.3 38.25 فآذاه ونال منه،
+38.56 41.35 ورسول اللَّه صلى الله عليه وسلم
+41.35 43.45 ساكت لا يكلمه،
+44.17 47.27 ثم ضربه أبو جهل بحجر في رأسه
+47.36 48.44 فشجه
+48.76 50.9 حتى نزف منه الدم،
+51.45 55.05 ثم انصرف عنه إلى نادي قريش عند الكعبة،
+55.29 56.73 فجلس معهم،
+56.73 60.2 وكانت مولاة لعبد اللَّه بن جدعان
+60.31 62.55 في مسكن لها على الصفا
+62.55 64.25 ترى ذلك،
+64.5 66.9 وأقبل حمزة من القنص
+66.9 68.57 متوشحاً قوسه،
+69 72.54 فأخبرته المولاة بما رأت من أبي جهل،
+72.77 74.46 فغضب حمزة -
+74.64 77.35 وكان أعز فتيان قريش
+77.35 79.35 وأشدهم شكيمة -
+79.82 81.16 فخرج يسعى.
+81.32 83.14 لم يقف لأحد،
+83.3 85.47 معداً لأبي جهل
+85.47 86.91 إذا لقيه
+86.91 88.32 أن يوقع به،
+88.91 90.72 فلما دخل المسجد
+90.83 93.32 قام على رأسه وقال له
+93.32 94.82 يا مصفر استه،
+95.35 97.92 تشتم ابن أخي وأنا على دينه؟
+97.92 101.94 ثم ضربه بالقوس فشجه شجة منكرة،
+102.48 105.2 فثار رجال من بني مخزوم -
+105.2 106.66 حي أبي جهل -
+106.89 108.88 وثار بنو هاشم -
+108.88 110.43 حي حمزة -
+110.59 112.31 فقال أبو جهل:
+112.31 114.38 دعوا أبا عمارة،
+114.38 117.57 فإني سببت ابن أخيه سباً قبيحاً.
+118.1 120.36 وكان إسلام حمزة أول الأمر
+120.36 121.71 أنفة رجل
+121.71 123.59 أبى أن يهان مولاه.
+124.16 126.44 ثم شرح اللَّه صدره،
+126.92 129.94 فاستمسك بالعروة الوثقى،
+130.15 132.55 واعتز به المسلمون
+132.7 134.63 أيما اعتزاز.
+
+# إسلام عمر بن الخطاب رضي اللَّه عنه [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F19.mp3?alt=media&token=ff44efca-ad4a-46d2-a035-90169cd49fe8]
+
+## timing
+
+0.19 3.72 إسلام عمر بن الخطاب رضي اللَّه عنه
+4.09 9.48 وأضاء برق آخر أشد بريقاً وإضاءة من الأول،
+10.32 13 ألا وهو إسلام عمر بن الخطاب،
+13.08 16.87 أسلم في ذي الحجة سنة ست من النبوة.
+17.17 21.21 بعد ثلاثة أيام من إسلام حمزة رضي اللَّه عنه.
+21.84 24.82 وكان النبي صلى الله عليه وسلم
+25.08 27.64 قد دعا اللَّه تعالى لإسلامه.
+27.93 28.87 قال:
+28.87 33.3 اللهم أعز الإسلام بأحب الرجلين إليك
+33.59 35.59 بعمر بن الخطاب
+35.59 38 أو بأبي جهل بن هشام
+38.31 40.81 فكان أحبهما إلى اللَّه
+40.89 42.86 عمر رضي اللَّه عنه.
+43.01 48.95 وكان من حدة طبعه وفرط عداوته لرسول اللَّه صلى الله عليه وسلم
+49.19 52.16 أنه خرج يوماً متوشحاً سيفه
+52.16 55.74 يريد القضاء على النبي صلى الله عليه وسلم ،
+56 60.02 فلقيه نعيم بن عبد اللَّه النحام العدوي،
+60.02 61.01 فقال:
+61.11 62.92 أين تعمد يا عمر؟
+63.33 64.42 قال:
+64.7 66.87 أريد أن أقتل محمداً.
+67.43 68.67 قال نعيم:
+68.67 71.72 كيف تأمن من بني هاشم ومن بني زهرة
+71.72 73.47 وقد قتلت محمداً؟
+73.47 75.08 فقال له عمر
+75.08 79.21 ما أراك إلا قد صبوت وتركت دينك الذي كنت عليه،
+79.62 80.97 قال نعيم:
+81.05 83.63 أفلا أدلك على العجب يا عمر
+84.02 87.11 إن أختك وختنك أي صهرك
+87.11 88.53 قد صبوا
+88.53 91.19 تركا دينك الذي أنت عليه،
+91.19 95.63 فمشى عمر ذامراً أي متهبدا حتى أتاهما،
+95.87 98.56 وعندهما خباب بن الأرت،
+98.56 102.01 معه صحيفة فيها سورة {طه}
+102.22 104.15 يقرئهما إياها -
+104.6 106.63 وكان يختلف إليهما
+106.63 108.51 ويقرئهما القرآن -
+108.91 111.93 فلما سمع خباب حس عمر
+111.93 113.4 توارى في البيت،
+113.66 116.09 وسترت فاطمة - أخت عمر -
+116.09 117.08 الصحيفة،
+117.79 120.54 وكان قد سمع عمر حين دنا من البيت
+120.72 122.49 قراءة خباب،
+122.49 124.54 فلما دخل عليهما
+124.54 125.34 قال:
+125.46 128.97 ما هذه الهينمة التي سمعتها عندكم؟
+128.97 130.27 فقالا
+130.27 133.19 ما عدا حديثاً تحدثناه بيننا.
+133.29 134.46 قال عمر:
+134.46 137.08 فلعلكما قد صبوتما.
+137.08 139.08 فقال له ختنه
+139.22 140.61 يا عمر
+140.61 143.28 أرأيت إن كان الحق في غير دينك؟
+143.54 145.91 فوثب عمر على ختنه
+145.91 148.22 فوطئه وطأً شديداً.
+148.59 151.69 فجاءت أخته فرفعته عن زوجها
+152.04 154.63 فنفحها بيده نفحة ،
+154.63 156.39 فدمى وجهها -
+156.65 157.52 فقالت،
+157.52 158.68 وهي غضبى
+158.68 159.92 يا عمر
+160.13 162.72 وإن كان الحق في غير دينك،
+163.03 166.17 إني أشهد أن لا إله إلا اللَّه،
+166.3 169.56 وأشهد أن محمداً رسول اللَّه.
+169.81 171.93 فلما يئس عمر،
+172.23 175.02 ورأى ما بأخته من الدم
+175.07 176.85 ندم وقال:
+177.16 180.78 أعطوني هذا الكتاب الذي عندكم فأقرؤه،
+180.96 182.5 فقالت أخته
+182.5 183.71 إنك رجس،
+183.71 186.16 ولا يمسه إلا المطهرون،
+186.16 187.68 فقم فا اغتسل،
+187.68 189.36 فقام فاغتسل،
+189.75 191.87 ثم أخذ الكتاب، فقرأ
+192.15 195.53 {بسم اللَّه الرحمن الرحيم}
+195.79 197.3 فقال عمر:
+197.78 200.32 أسماء طيبة طاهرة.
+200.6 202.23 ثم قرأ
+202.66 204.23 طه ﴿١﴾
+204.85 209.69 مَا أَنزَلْنَا عَلَيْكَ الْقُرْآنَ لِتَشْقَىٰ ﴿٢﴾
+210.68 213.83 إِلَّا تَذْكِرَةً لِّمَن يَخْشَىٰ ﴿٣﴾
+214.68 220.3 تَنزِيلًا مِّمَّنْ خَلَقَ الْأَرْضَ وَالسَّمَاوَاتِ الْعُلَى ﴿٤﴾
+220.43 224.01 حتى انتهى إلى قوله تعالى:
+224.48 229.7 {إِنَّنِي أَنَا اللَّهُ لا إِلَهَ إِلا أَنَا فَاعْبُدْنِي
+229.77 232.34 وَأَقِمْ الصَّلاةَ لِذِكْرِي} [طه: 14]
+232.71 234.52 فقال عمر:
+234.93 237.99 ما أحسن هذا الكلام وأكرمه؟
+238.82 240.99 دلوني على محمد.
+241.04 244.26 فأخذ عمر سيفه فتوشحه،
+244.61 247.08 ثم انطلق حتى أتى الدار.
+247.36 251.79 فضرب الباب، فقام رجل ينظر من خلل الباب
+252.17 254.81 فرآه متوشحاً السيف،
+255.19 258.33 فأخبر رسول اللَّه صلى الله عليه وسلم .
+258.64 260.46 واستجمع القوم،
+260.69 262.6 فقال لهم حمزة
+262.6 263.75 ما لكم؟
+263.87 264.7 قالوا:
+264.7 267.33 عمر،
+267.58 268.85 فقال:
+269.22 270.48 عمر
+270.88 272.58 افتحوا له الباب،
+272.82 275.94 فإن كان جاء يريد خيراً بذلناه له،
+276.15 277.97 وإن كان يريد شراً
+278.02 279.72 قتلناه بسيفه،
+279.72 283.41 ورسول اللَّه صلى الله عليه وسلم داخل
+283.6 285.2 يوحى إليه
+285.53 288.56 فخرج إلى عمر حتى لقيه في الحجرة،
+289.06 291.46 فأخذ بمجامع ثوبه
+291.46 293.28 وحمائل السيف،
+293.67 296.99 ثم جبذهُ جبذذً شديدة فقال:
+296.99 299.69 أما أنت منتهياً يا عمر
+299.69 305.28 حتى ينزل اللَّه بك من الخزي والنكال ما نزل بالوليد بن المغيرة؟
+305.74 309.06 اللهم هذا عمر بن الخطاب،
+309.3 313.32 اللهم أعز الإسلام بعمر بن الخطاب،
+313.96 315.49 فقال عمر:
+315.83 318.84 أشهد أن لا إله إلا اللَّه،
+319.26 321.51 وأنك رسول اللَّه.
+321.88 324.09 وأسلم عمر
+324.62 327.71 فكبر أهل الدار تكبيرة
+327.79 330.29 سمعها أهل المسجد.
+330.29 333.61 ألله أكبر , ألله أكبر
+333.61 335.65 أسلم عمر
+
+# المقاطعة [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F20.mp3?alt=media&token=7b126157-655a-4da0-bd37-0fb766ff0911]
+
+## timing
+
+0.55 2.02 المقاطعة
+2.02 4.79 ميثاق الظلم و العدوان
+5.13 10.5 إجتمع مشرك قريش فى خيف بنى كنانة من وادى المحصب
+11.01 14.67 فتحالف على بنى هاشم و بنى عبد المطلب،
+15.13 17.04 ألا يناكحوهم،
+17.28 19.04 و لا يبايعوهم،
+19.13 22.33 و لا يجالسوهم، و لا يخالطوهم،
+22.33 24.63 و لا يدخلوا بيوتهم،
+24.63 26.63 و لا يكلموهم
+26.63 31.99 حتى يسلموا إليهم رسول الله صلى الله عليه و سلم للقتل،
+32.57 34.96 و كتبوا بذلك صحيفة
+35.11 37.64 فيها عهود ومواثيق
+38.12 41.74 أن لا يقبلوا من بني هاشم صلحاً أبدا
+41.92 44.4 ولا تأخذهم بهم رأفة
+44.86 46.4 تمّ هذا الميثاق
+46.81 49.51 وعلقت الصحيفة في جوف الكعبة
+49.75 52.91 فانحاز بنو هاشم وبنو المطلب
+53.07 55.32 مؤمنهم وكافرهم
+55.32 56.93 إلا أبا لهب
+57.53 60.33 وحبسوا في شعب أبي طالب
+60.33 62.33 ليلة هلال المحرم
+62.33 64.45 سنة سبع من البعثة.
+65.22 68.88 ثلاثة أعوام في شعب أبي طالب
+69.4 71.41 واشتد الحصار،
+71.83 73.83 وقطعت عنهم الميرة
+73.83 74.99 أي الطعام
+74.99 76.5 والمادة،
+76.8 80.68 فلم يكن المشركون يتركون طعامًا يدخل مكة
+80.83 82.27 ولا بيعًا
+82.44 84.57 إلا بادروه فاشتروه،
+85.07 87.3 حتى بلغهم الجهد،
+87.52 90.64 والتجأوا إلى أكل الأوراق والجلود،
+91.14 93.66 وحتى كان يسمع من وراء الشعب
+93.88 96.45 أصوات نسائهم وصبيانهم
+96.6 98.87 يتضاعون من الجوع،
+99.17 102.39 وكان لا يصل إليهم شيء إلا سرًا،
+102.97 105.02 وكانوا لا يخرجون من الشعب
+105.27 106.87 لاشتراء الحوائج
+106.87 108.97 إلا في الأشهر الحرم،
+108.97 113.65 وكانوا يشترون من العير التي ترد مكة من خارجها،
+113.95 115.56 ولكن أهل مكة
+115.64 119.16 كانوا يزيدون عليهم في السلعة قيمتها
+119.16 122.12 حتى لا يستطيعوا الإشتراء.‏
+
+# نقض صحيفة الميثاق [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F21.mp3?alt=media&token=8837691b-01db-4686-9ae6-d9db72aa4e92]
+
+## timing
+
+0 2.45 نقض صحيفة الميثاق
+3.04 5.8 مر ثلاثة أعوام كاملة
+5.8 7.62 والأمر على ذلك،
+8.25 11.16 وفي المحرم سنة عشر من النبوة
+11.45 14.71 حدث نقض الصحيفة وفك ميثاق؛
+15.27 16.96 وذلك أن قريشًا
+17.11 19.65 كانوا بين راض بهذا الميثاق
+19.65 20.88 وكاره له،
+21.56 24.94 فسعى في نقض الصحيفة من كان
+24.94 26.51 كارهًا لها‏.‏
+26.55 29.92 وكان القائم بذلك هشام بن عمرو
+30.34 35 وكان يصل بني هاشم في الشعب مستخفيًا بالليل بالطعام
+35 38.86 فإنه ذهب إلى زهير بن أبي أمية المخزومى
+39.09 41.27 والمطعم بن عدى،
+41.42 44.53 فذكرهما ما أرحام بني هاشم
+44.64 46.19 وبني المطلب
+46.19 47.94 ابني عبد مناف،
+48.62 51.82 ثم ذهب إلى أبي البخترى بن هشام،
+52.05 55.51 فقال له نحوًا مما قال للمطعم،
+55.59 59.3 وإلى زمعة بن الأسود بن المطلب بن أسد،
+59.7 60.93 فكلمه
+61.18 63.93 وذكر له قرابتهم وحقهم،
+64.29 66.65 فاجتمعوا عند الحَجُون،
+66.94 70.14 وتعاقدوا على القيام بنقض الصحيفة،
+70.48 72.11 وقال زهير‏:‏
+72.11 73.57 أنا أبدأكم
+73.57 75.86 فأكون أول من يتكلم‏.‏
+76.16 79.31 فلما أصبحوا غدوا إلى أنديتهم،
+79.69 81.96 وغدا زهير عليه حلة،
+82.11 84.27 فطاف بالبيت سبعًا،
+84.46 87.15 ثم أقبل على الناس، فقال‏:‏
+87.34 89.22 يا أهل مكة،
+89.35 92.36 أنأكل الطعام ونلبس الثياب
+92.51 94.5 وبنو هاشم هلكى،
+94.58 97.67 لا يباع ولا يبتاع منهم‏؟‏
+97.82 103.2 والله لا أقعد حتى تشق هذه الصحيفة القاطعة الظالمة‏.‏
+103.41 104.75 قال أبو جهل
+104.75 106.78 وكان في ناحية المسجد‏:‏
+106.78 107.63 كذبت،
+107.63 109.24 والله لا تشق‏.‏
+109.24 111.24 فقال زمعة بن الأسود‏:‏
+111.38 112.86 أنت والله أكذب،
+112.86 115.25 مارضينا كتابتها حيث كتبت‏.‏
+115.25 116.73 قال أبو البخترى‏:‏
+116.73 118.15 صدق زمعة،
+118.3 121.63 لا نرضى ما كتب فيها، ولا نقر به‏.‏
+121.92 123.81 قال المطعم بن عدى‏:‏
+123.81 125.14 صدقتما،
+125.29 127.64 وكذب من قال غير ذلك،
+127.83 131.48 نبرأ إلى الله منها ومما كتب فيها‏.‏
+131.48 134.82 وقال هشام بن عمرو نحوًا من ذلك‏.‏
+134.82 136.37 فقال أبو جهل‏:‏
+136.37 138.82 هذا أمر قضى بليل،
+138.82 141.51 وتُشُووِر فيه بغير هذا المكان‏.‏
+141.66 145.52 وبعد أن دار الكلام بين القوم وبين أبي جهل،
+145.9 148.99 قام المطعم إلى الصحيفة ليشقها،
+149.6 152.76 فوجد الأرضة قد أكلتها
+152.91 155.32 إلا ‏(‏باسمك اللهم‏)‏،
+155.82 158.32 وما كان فيها من اسم الله
+158.47 160.67 فإنها لم تأكله‏.‏
+
+# آخر وفد قريش [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F22.mp3?alt=media&token=1b651dd1-03a9-4202-882a-00423497f9a5]
+
+## timing
+
+0 2.22 آخر وفد قريش
+2.22 4.17 إلي أبي طالب
+4.42 8.36 خرج رسول الله صلى الله عليه وسلم من الشعب،
+8.57 10.97 وجعل يعمل على شاكلته،
+11.39 12.49 وقريش
+12.49 14.88 وإن كانوا قد تركوا القطيعة،
+15.05 18.87 لكنهم لم يزالوا عاملين على شاكلتهم
+18.87 20.9 من الضغط على المسلمين
+20.9 22.72 والصد عن سبيل الله ،
+23.82 25.64 فمشوا إلى أبي طالب
+25.79 29.01 وقد جاوز الثمانين وألح به المرض
+29.24 30.51 فكلموه.
+30.66 32.42 وهم أشراف قومه؛
+32.42 35.17 وهم خمسة وعشرون تقريبًا
+35.3 36.36 فقالوا‏:‏
+36.47 37.8 يا أبا طالب،
+38.29 40.68 إنك منا حيث قد علمت،
+40.98 42.8 وقد حضرك ما ترى،
+43.01 44.81 وتخوفنا عليك،
+44.92 47.88 وقد علمت الذي بيننا وبين ابن أخيك،
+47.9 48.86 فادعه
+48.86 49.96 فخذ له منا،
+49.96 51.33 وخذ لنا منه؛
+51.33 53.56 ليكف عنا ونكف عنه،
+53.56 55.23 وليدعنا وديننا
+55.29 56.97 وندعه ودينه،
+56.97 59.23 فبعث إليه أبو طالب،
+59.55 60.74 فجاءه
+60.86 61.97 فقال‏:‏
+62.11 63.36 يابن أخي،
+64.19 66.05 هؤلاء أشراف قومك،
+66.43 68.04 قد اجتمعوا لك
+68.36 71.05 ليعطوك، وليأخذوا منك،
+71.41 74.31 ثم أخبره بالذي قالوا له
+74.31 75.71 وعرضوا عليه
+76.28 80.16 فقال لهم رسول الله صلى الله عليه وسلم‏:‏ ‏
+80.39 83.25 (‏أرأيتم إن أعطيتكم كلمة
+83.25 85.05 إذا تكلمتم بها،
+85.05 87.05 ملكتم بها العرب،
+87.05 89.52 ودانت لكم بها العجم‏)‏ ،
+89.94 92.17 فلما قال هذه المقالة
+92.44 94.64 توقفوا وتحيروا
+95.17 99.05 ولم يعرفوا كيف يرفضون هذه الكلمة الواحدة
+99.18 102.54 النافعة إلى هذه الغاية والحد‏.‏
+103.39 104.77 ثم قال أبو جهل‏:‏
+104.75 105.91 ما هي‏؟‏
+105.91 109.13 وأبيك لنعطيكها وعشر أمثالها،
+109.32 110.49 قال‏:‏
+110.8 112.39 تقولون‏:‏ ‏
+112.5 115.32 (‏لا إله إلا الله ،
+115.82 118.77 وتخلعون ما تعبدون من دونه‏)‏‏.‏
+120.1 122.06 فصفقوا بأيديهم،
+122.06 123.21 ثم قالوا‏:‏
+123.31 125.13 أتريد يا محمد
+125.28 128.04 أن تجعل الآلهة إلهًا واحدًا‏؟‏
+128.04 130.04 إن أمرك لعجب‏.‏
+130.04 132.21 ثم تفرقوا‏.‏
+
+# عام الحزن [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F23.mp3?alt=media&token=118b574d-9c8e-4ed9-acd5-f110c01e7a31]
+
+## timing
+
+0.08 1.86 عام الحزن
+1.99 4.03 وفاة أبي طالب
+5.11 7.16 ألح المرض بأبي طالب،
+7.94 10.31 فلم يلبث أن وافته المنية،
+11.21 14.96 وكانت وفاته في رجب سنة عشر من النبوة،
+15.43 18.33 بعد الخروج من الشعب بستة أشهر‏.‏
+19.25 20.62 خديجة
+20.62 22.62 إلى رحمة الله
+23.11 27.16 وبعد وفاة أبي طالب بنحو شهرين أو بثلاثة
+27.59 30.94 توفيت أم المؤمنين خديجة الكبرى
+30.99 32.56 رضي الله عنها
+33.38 35.52 كانت وفاتها في رمضان
+35.56 37.83 في السنة العاشرة من النبوة،
+38.36 39.1 ولها
+39.1 40.91 خمس وستون سنة
+41.45 44.76 ورسول الله صلى الله عليه وسلم إذ ذاك
+45.02 46.76 في الخمسين من عمره‏.‏
+47.14 53.2 كانت خديجة من نعم الله الجليلة على رسول الله صلى الله عليه وسلم،
+54.1 56.32 بقيت معه ربع قرن
+56.66 58.8 تحن عليه ساعة قلقه،
+59.59 61.98 وتؤازره في أحرج أوقاته،
+62.61 65.26 وتعينه على إبلاغ رسالته،
+65.61 68.57 وتشاركه في مغارم الجهاد المر،
+69.17 71.72 وتواسيه بنفسها ومالها،
+72.07 77.01 ولأجل توالى مثل هذه الآلام في هذا العام
+77.44 80.66 سماه رسول الله صلى الله عليه وسلم‏
+80.82 82.36 عام الحزن،
+82.93 84.21 وبهذا اللقب
+84.39 86.58 صار معروفا في التاريخ.
+
+# المرحلة الثالثة: [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F24.mp3?alt=media&token=27579715-c4bd-4425-9a0e-4fe39d4f75f0]
+
+## timing
+
+0 2.32 المرحلة الثالثة:
+2.52 5.15 دعوة الإسلام خارج مكة
+5.43 8.95 الرسول صلى الله عليه وسلم في الطائف
+9.83 13.1 في شوال سنة عشر من النبوة ‏
+13.24 17.51 التي وفقت سنة 619 م.
+18.18 21.41 خرج النبي صلى الله عليه وسلم إلى الطائف،
+21.85 24.7 وهي تبعد عن مكة نحو ستين ميلًا،
+25.24 28.09 سارها ماشيًا على قدميه
+28.17 29.92 جيئة وذهوبًا،
+30.42 32.71 ومعه مولاه زيد بن حارثة،
+33.53 36.44 وكان كلما مر على قبيلة في الطريق
+36.64 38.2 دعاهم إلى الإسلام،
+38.55 40.05 فلم تجب إليه
+40.19 41.66 واحدة منها‏.‏
+41.82 47.48 وأقام رسول الله صلى الله عليه وسلم بين أهل الطائف عشرة أيام،
+48.18 50.65 لا يدع أحدًا من أشرافهم
+50.77 52.65 إلا جاءه وكلمه،
+53.07 54.02 فقالوا‏:‏
+54.24 56.02 اخرج من بلادنا‏.‏
+56.35 58.51 وأغروا به سفهاءهم،
+58.73 60.51 فلما أراد الخروج
+60.58 63.33 تبعه سفهاؤهم وعبيدهم
+63.39 64.59 يسبونه
+64.65 66.2 ويصيحون به،
+66.26 68.75 حتى اجتمع عليه الناس،
+69.11 71 فوقفوا سِمَاطَيْن ‏
+71.18 72.48 أي صفين
+72.68 77.34 وجعلوا يرمونه بالحجارة، وبكلمات من السفه،
+77.5 79.38 ورجموا عراقيبه،
+79.62 82.31 حتى اختضب نعلاه بالدماء‏.‏
+82.57 85.44 وكان زيد بن حارثة يقيه بنفسه
+85.95 88.52 حتى أصابه شِجَاج في رأسه،
+89.16 91.61 ولم يزل به السفهاء كذلك
+91.87 94.27 حتى ألجأوه إلى حائط
+94.46 96.76 على ثلاثة أميال من الطائف،
+97.43 99.85 فلما التجأ إليه رجعوا عنه،
+100.05 103.25 وأتى رسول الله صلى الله عليه وسلم
+103.63 105.61 إلى حُبْلَة من عنب
+105.97 108.44 فجلس تحت ظلها إلى جدار‏.‏
+108.6 111.01 فلما جلس إليه واطمأن،
+111.45 117.03 دعا بالدعاء المشهور الذي يدل على امتلاء قلبه كآبة وحزنًا
+117.33 122.89 مما لقى من الشدة، وأسفًا على أنه لم يؤمن به أحد،
+124.16 127.47 قال‏ رسول الله صلى الله عليه وسلم:
+128.57 132.54 ‏(‏اللهم إليك أشكو ضَعْف قُوَّتِى،
+132.93 134.84 وقلة حيلتى،
+134.98 136.94 وهواني على الناس،
+137.82 140.27 يا أرحم الراحمين,
+140.61 143.18 أنت رب المستضعفين،
+143.24 145.18 وأنت ربي،
+145.79 147.58 إلى من تَكِلُنى‏؟‏
+148.32 150.65 إلى بعيد يَتَجَهَّمُنِى‏؟‏
+151.23 153.96 أم إلى عدو ملكته أمري‏؟‏
+155.52 158.75 إن لم يكن بك عليّ غضب فلا أبالي،
+159.6 162.95 ولكن عافيتك هي أوسع لي،
+164.15 168.12 أعوذ بنور وجهك الذي أشرقت له الظلمات،
+168.67 171.94 وصلح عليه أمر الدنيا والآخرة
+172.66 174.73 من أن تنزل بي غضبك،
+175.23 177.52 أو يحل علي سَخَطُك،
+177.92 180.87 لك العُتْبَى حتى ترضى،
+181.25 184.48 ولا حول ولا قوة إلا بك‏)‏‏.‏
+184.94 189.32 ورجع رسول الله صلى الله عليه وسلم في طريق مكة
+190.08 193.09 بعد خروجه من الحائط كئيبًا
+193.45 195.92 محزونًا كسير القلب،
+196.94 198.99 فلما بلغ قرن المنازل
+199.73 203.77 بعث الله إليه جبريل ومعه ملك الجبال،
+204.21 208.08 يستأمره أن يطبق عليهم الأخشبين.‏
+208.72 211.47 قال النبي صلى الله عليه وسلم‏:‏
+211.89 216.33 بل أرجو أن يخرج الله عز وجل من أصلابهم
+216.71 219.76 من يعبد الله عز وجل وحده
+219.84 222.49 لا يشرك به شيئا‏)‏‏.‏
+222.49 224.09 وفي هذا الجواب
+224.15 227.95 الذي أدلى به الرسول صلى الله عليه وسلم
+228.37 230.66 تتجلى شخصيته الفذة،
+231.18 233.91 وما كان عليه من الخلق العظيم
+234.39 236.78 الذي لا يدرك غوره‏.‏
+237.26 240.47 وسار رسول الله صلى الله عليه وسلم
+240.83 242.9 حتى إذا دنا من مكة
+243.26 244.7 مكث بحِرَاء،
+245.33 249.16 وبعث رجلًا من خزاعة إلى الأخنس بن شَرِيق
+249.42 250.3 ليجيره،
+250.72 251.65 فقال‏:‏
+251.69 252.63 أنا حليف،
+252.75 254.2 والحليف لا يجير ،
+254.26 256.5 فبعث إلى سهيل بن عمرو،
+256.77 257.99 فقال سهيل‏:‏
+258.39 261.42 إن بني عامر لا تجير على بني كعب،
+261.68 264.03 فبعث إلى المطعم بن عدى،
+264.35 265.68 فقال المطعم‏:‏
+265.68 266.78 نعم ،
+266.9 269.89 ثم تسلح ودعا بنيه وقومه ،
+270.17 271.17 فقال‏:‏
+271.42 273.12 البسوا السلاح،
+273.3 275.73 وكونوا عند أركان البيت،
+275.83 278.7 فإني قد أجرت محمدًا،
+278.88 283.46 ثم بعث إلى رسول الله صلى الله عليه وسلم‏:‏ أن ادخل،
+283.86 285.74 فدخل رسول الله
+286.1 288.07 ومعه زيد بن حارثة
+288.59 291.02 حتى انتهي إلى المسجد الحرام،
+291.6 294.57 فقام المطعم بن عدى على راحلته
+294.91 295.78 فنادى‏:‏
+295.94 298.29 يا معشر قريش،
+298.75 301.56 إني قد أجرت محمدًا
+301.72 304.35 فلا يهجه أحد منكم،
+304.63 307.94 وانتهي رسول الله صلى الله عليه وسلم
+308.24 310.01 إلى الركن فاستلمه،
+310.55 312.17 وصلى ركعتين،
+312.47 314.17 وانصرف إلى بيته،
+314.62 317.45 ومطعم بن عدى وولده
+317.65 321.08 محدقون به بالسلاح حتى دخل بيته‏.‏
+
+# عرض الإسلام علي القبائل والأفراد [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F25.mp3?alt=media&token=9678ce3b-7967-4f97-98ac-6e40e1ab6771]
+
+## timing
+
+0.18 3.66 عرض الإسلام علي القبائل والأفراد
+4.42 7.7 في ذى القعدة سنة عشر من النبوة
+8.16 12.43 عاد رسول الله صلى الله عليه وسلم إلى مكة؛
+12.86 15.05 ليستأنف عرض الإسلام
+15.05 16.94 على القبائل والأفراد،
+17.88 22.71 فأتاهم قبيلة قبيلة يعرض عليهم الإسلام
+23.13 24.53 ويدعوهم إليه ،
+24.97 26.84 كما كان يدعوهم
+26.87 29.27 منذ السنة الرابعة من النبوة ،
+30.22 33.09 وحصل من بعضهم على ردود صالحة،
+33.68 36.52 وآمن به عدة رجال منهم:
+36.91 38.62 سويد بن الصامت
+38.85 40.72 إياس بن معاذ‏
+40.89 42.72 وأبو ذر الغفاري‏
+43.01 45.35 وطُفَيْل بن عمرو الدَّوْسى‏
+45.66 47.35 وضِمَاد الأزدى‏.
+
+# الإسراء والمعراج [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F26.mp3?alt=media&token=a95607f5-4667-4afa-9617-1c9284829788]
+
+## timing
+
+0 3.26 الإسراء والمعراج
+3.88 8.27 وبينما النبي صلى الله عليه وسلم في هذه المرحلة،
+8.7 13.93 التي كانت دعوته تشق فيها طريقًا بين النجاح والاضطهاد،
+14.33 19.51 وكانت تترى أنجوما ضئيلة تتلمح في آفاق بعيدة،
+20.09 22.71 وقع حادث الإسراء والمعراج‏.‏
+22.92 27.17 فأسرى برسول الله صلى الله عليه وسلم بجسده
+27.5 30.8 من المسجد الحرام إلى بيت المقدس،
+31.09 32.97 راكبًا على البُرَاق،
+33.34 35.73 صحبة جبريل عليه السلام،
+36.06 39.58 فنزل هناك، وصلى بالأنبياء إمامًا،
+39.94 43.17 وربط البراق بحلقة باب المسجد‏.‏
+43.17 45.67 ثم رفع إلى سدرة المنتهى،
+45.82 48.21 ثم رفع له البيت المعمور،
+48.21 51.48 ثم عرج به إلى الجبّار جل جلاله،
+51.73 55.72 فدنا منه حتى كانه قاب قوسين أو أدنى،
+55.9 59.13 فأوحى إلى عبده ما أوحى،
+59.42 61.89 وفرض عليه خمسين صلاة،
+61.89 64.36 فرجع حتى مرّ على موسى
+64.36 66.39 فأخبره فقال:‏
+66.57 69.55 ارجع إلى ربك فاسأله التخفيف
+69.55 73.83 فلم يزل يتردد بين موسى وبين الله عز وجل،
+74.15 76.33 حتى جعلها خمسًا،
+76.73 80.21 فأمره موسى بالرجوع وسؤال التخفيف،
+80.43 83.37 فقال‏ صلى الله عليه وسلم:‏
+83.8 85.8 قد استحييت من ربي،
+86.2 88.92 ولكني أرضى وأسلم‏،
+89.17 92 فلما بعد نادى مناد‏:‏
+92 94 قد أمضيت فريضتى
+94 96.18 وخففت عن عبادى‏.‏
+97.01 101.15 فلما أصبح رسول الله صلى الله عليه وسلم في قومه
+101.36 105.83 أخبرهم بما أراه الله عز وجل من آياته الكبرى،
+106.41 109.35 فاشتد تكذيبهم له وأذاهم
+109.42 111.16 وضراوتهم عليه،
+111.81 114.86 وسألوه أن يصف لهم بيت المقدس،
+114.93 116.86 فجلاه الله له،
+116.93 118.63 حتى عاينه،
+118.82 121.32 فطفق يخبرهم عن آياته،
+121.65 124.55 ولا يستطيعون أن يردوا عليه شيئًا،
+124.98 128.39 وأخبرهم عن عيرهم في مسراه ورجوعه،
+128.76 131.19 وأخبرهم عن وقت قدومها،
+131.48 134.71 وأخبرهم عن البعير الذي يقدمها،
+134.97 137.14 وكان الأمر كما قال،
+137.47 140.52 فلم يزدهم ذلك إلا نفورًا،
+140.52 143.71 وأبي الظالمون إلا كفورًا ‏.
+
+# بيعة العقبة الأولى [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F27.mp3?alt=media&token=1eb54631-87a4-448f-95ab-39dc1152ac95]
+
+## timing
+
+0 2.73 بيعة العقبة الأولى
+3.21 4.73 في الموسم الحج
+4.86 7.68 سنة 12 من النبوة،
+7.98 10.02 جاء اثنا عشر رجلًا،
+10.41 13.8 فيهم خمسة من الستة الذين كانوا
+13.89 17.34 قد اتصلوا برسول الله صلى الله عليه وسلم
+17.64 19.05 في العام السابق
+19.14 21.24 والسادس الذي لم يحضر
+21.54 24.54 هو جابر بن عبد الله بن رِئاب
+24.72 26.54 وسبعة سواهم،
+26.64 27.57 وهم‏:‏
+27.57 29.31 معاذ بن الحارث،
+29.61 31.98 وذَكْوَان بن عبد القيس
+32.19 34.23 وعبادة بن الصامت
+34.35 36.23 ويزيد بن ثعلبة
+36.48 39.27 والعباس بن عُبَادة بن نَضْلَة
+40.08 42.36 وأبو الهَيْثَم بن التَّيَّهَان
+42.63 44.55 وعُوَيْم بن ساعدة
+44.91 47.73 وهذا من أخيران من الأوس،
+47.91 49.73 والبقية كلهم
+49.86 50.91 من الخزرج‏.‏
+51.09 56.61 اتصل هؤلاء برسول الله صلى الله عليه وسلم عند العقبة بمنى
+56.85 58.92 فبايعوه بيعة النساء،
+59.43 62.79 وهي قوله صلى الله عليه وسلم :
+63.57 68.64 [تعالوا بايعوني على ألا تشركوا بالله شيئًا،
+69.21 70.83 ولا تسرقوا،
+70.95 72.45 ولا تزنوا،
+72.66 75.24 ولا تقتلوا أولادكم،
+75.51 78.54 ولا تأتوا ببهتان تفترونه
+78.66 81.63 بين أيديكم وأرجلكم،
+82.2 84.45 ولا تعصوني في معروف،
+84.93 86.94 فمن وفي منكم
+87.18 88.94 فأجره على الله ،
+89.61 93.39 ومن أصاب من ذلك شيئًا فعوقب به في الدنيا،
+93.66 95.39 فهو له كفارة،
+96.06 98.43 ومن أصاب من ذلك شيئًا
+98.7 100.26 فستره الله ،
+100.56 102.45 فأمره إلى الله ؛
+102.81 104.45 إن شاء عاقبه،
+104.79 106.2 وإن شاء
+106.23 107.49 عفا عنه‏]‏‏.‏
+
+# سفير الإسلام في المدينة [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F28.mp3?alt=media&token=63ead24d-b9c3-482c-ab4d-6b4a1232dd06]
+
+## timing
+
+0.08 2.04 سفير الإسلام
+2.18 3.62 في المدينة
+3.93 7.36 وبعد أن تمت البيعة وانتهى الموسم
+7.88 12.48 بعث النبي صلى الله عليه وسلم مع هؤلاء المبايعين
+12.96 14.98 أول سفير في يثرب؛
+15.36 18.75 ليعلم المسلمين فيها شرائع الإسلام،
+19.06 21.35 ويفقههم في الدين،
+21.6 25.89 وليقوم بنشر الإسلام بين الذين لم يزالوا على الشرك،
+26.7 28.7 واختار لهذه السفارة
+28.99 31.37 شابًا من شباب الإسلام
+31.66 33.59 من السابقين الأولين،
+33.93 36.88 وهو مُصْعَب بن عُمَيْر العبدرى
+36.99 38.51 رضي الله عنه‏.‏
+38.9 40.75 نزل مصعب بن عمير
+40.84 42.56 على أسعد بن زُرَارة،
+43.02 47.71 وأخذا يبثان الإسلام في أهل يثرب بجد وحماس،
+48.1 50.7 وكان مصعب يُعْرَف بالمقرئ‏.‏
+51.31 53.89 وقبل حلول موسم الحج التالى
+54.2 56.45 أي حج السنة الثالثة عشرة
+56.97 59.99 عاد مصعب بن عمير إلى مكة
+60.34 63.82 يحمل إلى رسول الله صلى الله عليه وسلم
+64.07 65.65 بشائر الفوز،
+65.88 68.86 ويقص عليه خبر قبائل يثرب،
+69.01 71.32 وما فيها من مواهب الخير،
+71.57 74.13 وما لها من قوة ومنعة‏.‏
+
+# بيعة العقبة الثانية [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F29.mp3?alt=media&token=81be558b-741a-46a2-9c56-48ad7f57f6dc]
+
+## timing
+
+0 2.35 بيعة العقبة الثانية
+2.9 6.92 في موسم الحج في السنة الثالثة عشرة من النبوة
+7.21 9.54 حضر لأداء مناسك الحج
+9.65 12.62 بضع وسبعون نفسًا من المسلمين
+12.62 14 من أهل يثرب،
+14.65 18.21 جاءوا ضمن حجاج قومهم من المشركين،
+18.72 20.57 فلما قدموا مكة
+20.71 22.82 جرت بينهم وبين النبي
+22.82 24.74 صلى الله عليه وسلم
+24.96 26.48 اتصالات سرية
+26.95 29.2 أدت إلى اتفاق الفريقين
+29.46 32.87 على أن يجتمعوا في أوسط أيام التشريق
+32.87 34.87 في الشعب الذي عند العقبة
+35.33 37.58 حيث الجمرة الأولى من منى،
+37.73 41.68 وأن يتم الاجتماع في سرية تامة
+41.68 43.39 في ظلام الليل‏.‏
+43.75 49.7 وبعد أن تكامل المجلس بدأت المحادثات لإبرام التحالف الدينى والعسكرى،
+50.35 52.35 وكان أول المتكلمين
+52.6 54.92 هو العباس بن عبد المطلب
+55.21 58.55 عم رسول الله صلى الله عليه وسلم،
+59.1 60.44 وهو يومئذ
+60.62 62.25 على دين قومه
+62.73 65.34 تكلم ليشرح لهم بكل صراحة
+65.59 69.55 خطورة المسئولية التي ستلقى على كواهلهم
+69.69 71.76 نتيجة هذا التحالف‏.‏
+72.23 73.21 قال‏:‏
+73.61 75.75 يا معشر الخزرج
+76.73 79.81 إن محمدًا منا حيث قد علمتم،
+80.5 84.75 وقد منعناه من قومنا ممن هو على مثل رأينا فيه،
+85.8 87.8 فهو في عز من قومه
+88.23 90.04 ومنعة في بلده‏.‏
+90.88 94.14 وإنه قد أبي إلا الانحياز إليكم
+94.4 95.89 واللحوق بكم،
+96.76 101.22 فإن كنتم ترون أنكم وافون له بما دعوتموه إليه،
+101.76 103.98 ومانعوه ممن خالفه،
+104.27 107.02 فأنتم وما تحملتم من ذلك‏.‏
+107.86 111.67 وإن كنتم ترون أنكم مُسْلِمُوه وخاذلوه
+111.81 113.88 بعد الخروج به إليكم
+114.1 115.99 فمن الآن فدعوه‏.‏
+116.31 118.13 فإنه في عز
+118.24 120.88 ومنعة من قومه وبلده‏.‏
+121.32 123.93 قال كعب‏ بن مالك راوي الخبر:‏
+124.33 125.75 فقلنا له‏:‏
+126.04 127.75 قد سمعنا ما قلت،
+128.58 130.68 فتكلم يا رسول الله ،
+130.97 133.98 فخذ لنفسك ولربك ما أحببت‏.‏
+134.34 138.84 وهذا الجواب يدل على ما كانوا عليه من عزم وتصميم،
+138.99 140.87 وشجاعة وإيمان،
+141.09 144.9 وإخلاص في تحمل هذه المسئولية العظيمة،
+145.05 147.51 وتحمل عواقبها الخطيرة‏.‏
+147.91 152.92 وألقى رسول الله صلى الله عليه وسلم بعد ذلك بيانه،
+153.46 156.91 على السمع والطاعة في النشاط والكسل‏.‏
+157.27 160.21 وعلى النفقة في العسر واليسر‏.‏
+160.5 163.99 وعلى الأمر بالمعروف والنهي عن المنكر‏.‏
+164.42 166.45 وعلى أن تقوموا في الله ،
+166.85 170.23 لا تأخذكم في الله لومة لائم‏.‏
+170.66 173.82 وعلى أن تنصرونى إذا قدمت إليكم،
+174.04 177.56 وتمنعونى مما تمنعون منه أنفسكم
+177.7 179.12 وأزواجكم
+179.22 180.97 وأبناءكم،
+181.18 182.78 ولكم الجنة‏]‏‏.‏
+183.36 186.99 فأخذ البراء ابن مَعْرُور بيده ثم قال‏:‏
+187.24 188.33 نعم،
+188.4 191.02 والذي بعثك بالحق نبيًا،
+191.09 194.43 لنمنعنك مما نمنع أُزُرَنا منه،
+194.82 196.93 فبايعنا يا رسول الله ،
+197.22 199.65 فنحن والله أبناء الحرب
+199.76 201.25 وأهل الْحَلْقَة،
+201.25 203.71 ورثناها كابرًا عن كابر‏.‏
+203.97 208.18 فاعترض القول أبو الهيثم بن التَّيَّهَان، فقال‏:‏
+208.18 209.63 يا رسول الله ،
+210.46 213.26 إن بيننا وبين الرجال حبالًا،
+213.8 215.51 وإنا قاطعوها
+215.8 217.51 أعنى اليهود
+217.97 220.77 فهل عسيت إن نحن فعلنا ذلك،
+221.24 225.12 ثم أظهرك الله أن ترجع إلى قومك وتدعنا‏؟‏
+225.59 229.98 فتبسم رسول الله صلى الله عليه وسلم، ثم قال‏:‏
+230.56 232.48 ‏[بل الدَّمُ الدَّمُ،
+232.74 234.66 والهَدْمُ الْهَدْمُ،
+235.24 238 أنا منكم وأنتم منى،
+238.25 240.58 أحارب من حاربتم،
+240.85 243.35 وأسالم من سالمتم‏]‏‏.‏
+243.35 245.53 وبعد إقرار بنود البيعة،
+245.53 248.39 وبعد هذا التأكيد والتأكد
+248.61 251.66 بدأ عقد البيعة بالمصافحة،
+251.95 253.29 قال جابر
+253.47 256.09 فقمنا إليه رجلًا رجلًا
+256.49 258.37 فأخذ علينا البيعة،
+258.81 261.24 يعطينا بذلك الجنة‏.‏
+
+# طلائع الهجرة [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F30.mp3?alt=media&token=3fba274c-223d-4164-908e-5a8ec02cb87c]
+
+## timing
+
+0 2.17 طلائع الهجرة
+2.43 6.02 وبعد أن تمت بيعة العقبة الثانية
+6.38 10.04 ونجح الإسلام في تأسيس وطن له
+10.19 13.6 وسط صحراء تموج بالكفر والجهالة
+14 17.01 وهو أخطر كسب حصل عليه الإسلام
+17.12 19.01 منذ بداية دعوته
+19.41 24.16 أذن رسول الله صلى الله عليه وسلم للمسلمين بالهجرة
+24.34 25.68 إلى هذا الوطن‏.‏
+25.9 28.33 وبدأ المسلمون يهاجرون
+28.69 32.72 وأخذ المشركون يحولون بينهم وبين خروجهم؛
+33.01 35.48 لما كانوا يحسون من الخطر،
+35.99 38.56 فلما أراد صُهَيْب الهجرة
+38.78 40.92 قال له كفار قريش‏:‏
+40.92 46.73 أتيتنا صعلوكًا حقيرًا، فكثر مالك عندنا، وبلغت الذي بلغت،
+46.73 49.74 ثم تريد أن تخرج بمالك ونفسك‏؟‏
+49.75 51.8 والله لا يكون ذلك‏.‏
+51.8 53.43 فقال لهم صهيب‏:‏
+53.44 55.83 أرأيتم إن جعلت لكم مالى
+55.83 57.65 أتخلون سبيلى‏؟‏
+57.65 60.55 قالوا‏:‏ نعم، وافقون.
+60.62 61.49 قال‏:‏
+61.6 64.07 فأني قد جعلت لكم مالى،
+64.21 68.68 فبلغ ذلك رسول الله صلى الله عليه وسلم فقال‏:‏
+69.15 70.68 [‏ربح صهيب،
+71.03 72.3 ربح صهيب‏]‏‏.‏
+73.21 75.17 في دار الندوة ‏
+75.5 77.27 [‏برلمان قريش‏]‏
+78 82.79 ولما رأى المشركون أصحاب رسول الله صلى الله عليه وسلم
+83.12 85.11 قد تجهزوا وخرجوا،
+85.36 90.41 وحملوا وساقوا الذرارى والأطفال والأموال إلى الأوس والخزرج
+90.92 92.87 وقعت فيهم ضجة
+92.87 95.38 أثارت القلاقل والأحزان
+95.74 99.59 وأخذ القلق يساورهم بشكل لم يسبق له مثيل،
+99.77 103.83 فقد تجسد أمامهم خطر حقيقى عظيم،
+104.05 107.46 الذي يتهدد كيانهم الوثني والاقتصادي‏.‏
+108.15 112.1 فقد كانوا يعلمون ما للمدينة من الموقع الاستراتيجي
+112.1 114.32 بالنسبة إلى الطريق التجارية
+114.57 118.38 التى تمر بساحل البحر الأحمر من اليمن إلى الشام‏.‏
+118.85 121.68 ومعلوم أن مدار هذه التجارة
+121.83 124.55 كان على استقرار الأمن في تلك الطريق‏.‏
+124.77 127.92 فشعر المشركون بتفاقم الخطر
+127.92 130.35 الذي كان يهدد كيانهم،
+130.5 134.34 فصاروا يبحثون عن أنجع الوسائل لدفع هذا الخطر
+134.56 136.7 الذي مبعثه الوحيد
+136.85 139.42 هو حامل لواء دعوة الإسلام
+139.57 142.43 محمد صلى الله عليه وسلم‏.‏
+142.51 146.17 وفي يوم الخميس 26 من شهر صفر
+146.43 149 سنة 14 من النبوة،
+149.15 153.54 أي بعد شهرين ونصف تقريبًا من بيعة العقبة الكبرى
+153.86 155.54 عقد برلمان مكة ‏
+155.82 157.06 [‏دار الندوة‏]‏
+157.06 158.65 في أوائل النهار
+158.91 161.34 أخطر اجتماع له في تاريخه،
+161.37 166.16 وتوافد إلى هذا الاجتماع جميع نواب القبائل القرشية؛
+166.27 169.21 ليتدارسوا خطة حاسمة
+169.32 173.85 تكفل القضاء سريعًا على حامل لواء الدعوة الإسلامية؛
+173.96 177.37 وتقطع تيار نورها عن الوجود نهائيًا‏.‏
+177.77 181 ولما جاءوا إلى دار الندوة حسب الميعاد،
+181 184.27 اعترضهم إبليس في هيئة شيخ جليل،
+184.52 186.04 عليه بَتٌّ له،
+186.52 189.2 والبت - الكساء الغليظ ,
+189.38 192 ووقف على الباب، فقالوا‏:‏
+192 193.19 من الشيخ‏؟‏
+193.19 194.03 قال‏:‏
+194.03 196.97 شيخ من أهل نجد
+196.97 200.59 سمع بالذي تواعدتم بأجله
+200.59 204.08 فحضر معكم ليسمع ما تقولون،
+204.08 205.49 وعسى
+205.6 209.74 ألا يعدمكم منه رأيًا ونصحًا‏.‏
+210.5 212.71 أجل ، نعم , فادخل،
+212.78 214.74 فدخل معهم‏.‏
+215.32 217.39 النقاش البرلماني
+217.39 220.26 والإجماع على قرار غاشم
+220.58 224.25 بقتل النبي صلى الله عليه وسلم
+224.72 226.82 وبعد أن تكامل الاجتماع
+227.19 229.87 بدأ عرض الاقتراحات والحلول،
+230.02 232.01 ودار النقاش طويلًا‏.‏
+232.67 235.1 وتقدم كبير مجرمى مكة
+235.35 237.17 أبو جهل بن هشام‏.‏
+237.17 238.18 وقال:‏
+238.36 240.79 والله إن لى فيه رأيًا
+240.79 243.62 ما أراكم وقعتم عليه بعد‏.‏
+243.73 244.75 قالوا‏:‏
+244.75 246.67 وما هو يا أبا الحكم‏؟‏
+246.74 247.76 قال‏:‏
+247.76 253.53 أرى أن نأخذ من كل قبيلة فتى شابًا جليدًا نَسِيبا
+253.71 255.41 وَسِيطًا فينا،
+255.41 259.12 ثم نعطى كل فتى منهم سيفًا صارمًا،
+259.12 264.12 ثم يعمدوا إليه، فيضربوه بها ضربة رجل واحد،
+264.12 267.02 فيقتلوه، فنستريح منه،
+267.1 268.04 فإنهم
+268.04 272.39 إذا فعلوا ذلك تفرق دمه في القبائل جميعًا،
+272.39 276.53 فلم يقدر بنو عبد مناف على حرب قومهم جميعًا،
+276.53 278.78 فرضوا منا بالعَقْل،
+278.78 280.78 فعقلناه لهم‏.‏
+280.96 283.06 والعقل - الدية
+283.53 285.25 وقال إبليس
+285.25 288.15 المتنكر في صورة الشيخ النجدى‏:‏
+288.15 291.09 القول ما قال الرجل،
+291.09 294.94 هذا الرأي الذي لا آراء غيره‏.‏
+
+# هجرة النبي صلى الله عليه وسلم - ١ [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F31_1.mp3?alt=media&token=d4c7ed65-a8d8-4ec3-9b64-68e5c9d93427]
+
+## timing
+
+0 4.31 هجرة النبي صلى الله عليه وسلم
+4.93 10.48 ولما تمت التخاذ قرار الغاشم بقتل النبي صلى الله عليه وسلم
+10.95 15.41 نزل إليه جبريل بوحى ربه تبارك وتعالى
+15.96 18.46 فأخبره بمؤامرة قريش،
+18.75 21.36 وأن الله قد أذن له في الخروج،
+21.8 24.96 وحدد له وقت الهجرة قائلا،
+25.39 28.48 لا تبت هذه الليلة على فراشك
+28.8 31.05 الذي كنت تبيت عليه‏.‏
+31.49 37.65 وذهب النبي صلى الله عليه وسلم في الهاجرة إلى أبي بكر
+37.95 40.41 رضي الله عنه
+40.99 43.42 أما أكابر مجرمي قريش
+43.71 47.49 فقضوا نهارهم في الإعداد لتنفيذ الخطة المرسومة
+47.74 50.21 التى أبرمها برلمان مكة ‏
+50.93 53.22 فلما كانت عتمة الليل
+53.73 57.1 اجتمعوا على بابه يرصدونه متى نام،
+57.46 59.1 فيثبون عليه
+59.53 61.93 ومع غاية استعداد قريش
+62.22 64.94 فقد أخفقوا إخفاقا فاحشا
+65.56 67.7 وفي هذه الساعة الخريجة
+67.91 72.7 قال رسول الله صلى الله عليه وسلم لعلي بن أبي طالب
+72.92 74.7 نم على فراشي
+74.92 78.54 وتسج ببردي الخضرمي أخضر هذا
+78.54 79.74 فنم فيه
+79.89 83.41 فإنه لن يخلص إليك شيء تكرهه منهم
+83.55 87.11 وكان رسول الله صلى الله عليه وسلم
+87.25 90.59 ينام في برده ذلك إذا نام .
+91.13 94.94 ثم خرج رسول الله صلى الله عليه وسلم
+95.09 97.01 واخترق صفوفهم،
+97.23 99.55 وأخذ حفنة من البطحاء
+99.84 102.74 فجعل يذره على رءوسهم،
+102.74 105.28 وقد أخذ الله أبصارهم عنه
+105.28 106.48 فلا يرونه،
+106.48 107.6 وهو يتلو‏:‏ ‏
+107.6 111.63 {‏وَجَعَلْنَا مِن بَيْنِ أَيْدِيهِمْ سَدًّا
+111.85 114.46 وَمِنْ خَلْفِهِمْ سَدًّا
+114.79 118.49 فَأَغْشَيْنَاهُمْ فَهُمْ لاَ يُبْصِرُونَ‏}‏ ‏[‏يس‏:‏9‏]‏‏.‏
+118.78 121.1 فلم يبق منهم رجل
+121.1 124.15 إلا وقد وضع على رأسه ترابًا،
+124.8 126.98 ومضى إلى بيت أبي بكر،
+127.31 131.41 فخرجا من خوخة في دار أبي بكر ليلًا
+131.7 134.13 حتى لحقا بغار ثَوْر
+134.13 135.76 في اتجاه اليمن‏.‏
+135.94 140.62 وبقى المحاصرون ينتظرون حلول ساعة الصفر،
+140.77 142.62 وقبيل حلولها
+142.73 145.26 تجلت لهم الخيبة والفشل،
+145.48 148.82 فقد جاءهم رجل ممن لم يكن معهم،
+149.04 151.69 ورآهم ببابه فقال‏:‏
+152.3 153.69 ما تنتظرون‏؟‏
+153.69 154.73 قالوا‏:‏
+154.73 156.04 محمدًا‏.‏
+156.04 157.02 قال‏:‏
+157.02 159.02 خبتم وخسرتم،
+159.02 160.68 قد والله مر بكم،
+160.68 162.9 وذر على رءوسكم التراب،
+162.9 164.46 وانطلق لحاجته،
+164.6 165.33 قالوا‏:‏
+165.33 167.58 والله ما أبصرناه،
+167.58 170.77 وقاموا ينفضون التراب عن رءوسهم‏.‏
+171.21 174.25 ولكنهم تطلعوا من صير الباب
+174.25 175.96 فرأوا عليًا،
+176.36 178.24 وصير الباب شقه
+178.75 179.91 فقالوا‏:‏
+179.91 182.71 والله إن هذا لمحمد نائمًا،
+182.71 184.19 عليه برده،
+184.45 187.71 فلم يبرحوا كذلك حتى أصبحوا‏.‏
+188 190.58 وقام علىٌّ عن الفراش،
+190.98 192.94 فسقط في أيديهم،
+193.48 197.4 وسألوه عن رسول الله صلى الله عليه وسلم، فقال‏:‏
+197.44 199.07 لا علم لي به‏.‏
+
+# هجرة النبي صلى الله عليه وسلم - ٢ [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F31_2.mp3?alt=media&token=d4c79727-a385-47c3-aeb5-a298ea5e7047]
+
+## timing
+
+0.04 2.38 من الدار إلى الغار
+2.87 6.94 غادر رسول الله صلى الله عليه وسلم بيته
+7.38 10.16 في ليلة 27 من شهر صفر
+10.63 13 سنة 14 من النبوة،
+13.45 15.56 وأتى إلى دار رفيقه
+15.83 18.86 وأمنّ الناس عليه في صحبته وماله
+19.23 20.24 أبي بكر
+20.49 21.89 رضي الله عنه‏.‏
+21.96 25.3 ثم غادر منزل من باب خلفي؛
+25.49 28.06 ليخرجا من مكة على عجل
+28.06 29.81 وقبل أن يطلع الفجر‏.‏
+30.56 32.77 ولما انتهيا إلى الغار
+32.88 34.41 قال أبو بكر‏:‏
+34.52 37.47 والله لا تدخله حتى أدخل قبلك،
+38 41.08 فإن كان فيه شيء أصابني دونك،
+41.63 43.27 فدخل فكسحه،
+43.96 46.28 ووجد في جانبه ثقبًا
+46.74 48.1 فشق إزاره
+48.19 49.54 وسدها به،
+49.93 51.57 وبقى منها اثنان
+51.86 53.82 فألقمهما رجليه،
+54.07 57.7 ثم قال لرسول الله صلى الله عليه وسلم‏:‏
+57.77 59.66 ادخل يا رسول الله ،
+59.66 61.65 فدخل رسول الله
+61.94 64.99 ووضع رأسه في حجره ونام،
+65.55 68.48 فلدغ أبو بكر في رجله من الجحر،
+69.01 70.14 ولم يتحرك
+70.44 74.16 مخافة أن ينتبه رسول الله صلى الله عليه وسلم،
+74.99 77.98 فسقطت دموعه على وجه رسول الله
+78.52 79.5 فقال‏:‏
+79.76 81.5 ‏[‏ما لك يا أبا بكر‏؟‏‏]‏
+82.01 83.13 قال‏:‏
+83.2 85.27 لدغت يا رسول الله،
+85.53 87.3 فداك أبي وأمي،
+87.81 92.6 فتفل رسول الله صلى الله عليه وسلم على محل اللدغة ،
+92.82 94.6 فذهب ما يجده‏.‏
+94.81 97.83 وكَمُنَا في الغار ثلاث ليال،
+98.3 99.68 أما قريش
+99.93 101.78 فقد جن جنونها
+101.93 103.99 حينما تأكد لديها
+103.99 107.04 إفلات رسول الله صلى الله عليه وسلم
+107.15 109.54 صباح ليلة تنفيذ المؤامرة‏.‏
+110.2 112.85 فأول ما فعلوا بهذا الصدد
+113.06 114.91 أنهم ضربوا عليًا،
+115.06 116.8 وسحبوه إلى الكعبة،
+117.02 118.72 وحبسوه ساعة،
+118.8 121.12 علهم يظفرون بخبرهما‏.‏
+121.7 124.64 ولما لم يحصلوا من عليّ على جدوى
+124.82 127.07 جاءوا إلى بيت أبي بكر
+127.36 128.85 وقرعوا بابه،
+128.99 130.48 فخرجت إليهم
+130.48 132.66 أسماء بنت أبي بكر،
+132.87 134.14 فقالوا لها‏:‏
+134.14 135.78 أين أبوك‏؟‏
+135.96 136.79 قالت‏:‏
+136.79 138.93 لا أدرى والله أين أبي‏؟‏
+139.26 141.33 فرفع أبو جهل يده
+141.33 143.43 وكان فاحشًا خبيثًا
+143.58 146.15 فلطم خدها لطمة
+146.15 147.82 طرح منها قرطها‏.‏
+148.66 151.52 وقررت قريش في جلسة طارئة
+151.59 155.11 استخدام جميع الوسائل للقبض على الرجلين،
+155.4 156.49 وحينئذ
+156.75 159.25 جدت الفرسان والمشاة
+159.36 161.25 وقصاص الأثر
+161.25 162.66 في الطلب،
+162.66 165.24 وانتشروا في الجبال والوديان،
+165.49 167.63 والوهاد والهضاب،
+167.81 168.94 لكن
+169.05 170.61 من دون جدوى
+170.64 172.49 وبغير فئدة.‏
+172.75 175.87 وقد وصل المطاردون إلى باب الغار،
+176.19 179.42 ولكن الله غالب على أمره،
+179.64 181.42 يقول أبو بكر :‏
+181.67 185.48 كنت مع النبي صلى الله عليه وسلم في الغار،
+185.88 187.37 فرفعت رأسى
+187.69 189.8 فإذا أنا بأقدام القوم،
+190.23 191.1 فقلت‏:‏
+191.39 192.56 يا نبي الله ،
+193.1 196.15 لو أن بعضهم طأطأ بصره رآنا‏.‏
+196.95 199.67 قال‏ رسول الله صلى الله عليه وسلم:‏ ‏
+200.36 203.29 [‏ما ظنك يا أبا بكر باثنين
+203.4 205.15 الله ثالثهما‏]‏‏.‏
+205.36 207.24 وقد كانت معجزة
+207.31 210.95 أكرم الله بها نبيه صلى الله عليه وسلم،
+211.53 213.49 فقد رجع المطاردون
+213.63 216.21 حين لم يبق بينه وبينهم
+216.39 218.61 إلا خطوات معدودة‏.‏
+
+# هجرة النبي صلى الله عليه وسلم - ٣ [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F31_3.mp3?alt=media&token=02d89f3d-1ffc-4e1c-b360-f8b6ee40c1f0]
+
+## timing
+
+0 2.36 في الطريق إلى المدينة
+3.59 5.84 وحين خمدت نار الطلب،
+6.17 8.96 وتوقفت أعمال دوريات التفتيش،
+9.03 14.62 تهيأ رسول الله صلى الله عليه وسلم وصاحبه للخروج إلى المدينة‏.‏
+15.42 19.01 وكانا قد استأجرا عبد الله بن أُرَيْقِط الليثى،
+19.48 21.8 وكان هاديًا ماهرًا بالطريق
+22.35 24.78 وكان على دين كفار قريش،
+25.21 26.96 وأمناه على ذلك،
+27.54 30.11 وسلما إليه راحلتيهما،
+30.33 34.65 وواعداه غار ثَوْر بعد ثلاث ليال براحلتيهما،
+35.05 37.3 فلما كانت ليلة الاثنين
+37.3 39.3 غرة ربيع الأول
+39.3 41.3 سنة 1ه
+41.61 44.44 16 سبتمبر
+44.59 48.18 من سنة 622م
+48.58 51.99 جاءهما عبد الله بن أريقط بالراحلتين،
+52.42 56.89 ثم ارتحل رسول الله صلى الله عليه وسلم وأبو بكر
+57.25 60.15 وارتحل معهما عامر بن فُهَيْرة،
+60.52 63.71 وأخذ بهم الدليل عبد الله بن أريقط
+63.78 65.56 على طريق الساحل‏.‏
+65.74 68.1 سمع المسلمون بالمدينة
+68.1 71.91 بمخرج رسول الله صلى الله عليه وسلم من مكة،
+72.49 75.72 فكانوا يغدون كل غداة إلى الحَرَّة،
+75.9 79.67 فينتظرونه حتى يردهم حر الظهيرة،
+80.32 81.67 فانقلبوا يومًا
+81.67 83.88 بعد ما أطالوا انتظارهم،
+84.13 86.49 فلما أووا إلى بيوتهم
+86.75 90.56 أَوْفي رجل من يهود على أُطُم من آطامهم
+90.63 92.52 أي حصن من حصونهم
+92.77 94.69 لأمر ينظر إليه،
+95.2 99.19 فبصر برسول الله صلى الله عليه وسلم وأصحابه
+99.41 100.9 مُبَيَّضِين
+101.04 102.96 يزول بهم السراب،
+103.11 106.92 فلم يملك اليهودى أن قال بأعلى صوته‏:‏
+106.92 108.84 يا معاشر العرب،
+108.95 111.42 هذا جدكم الذي تنتظرون،
+111.42 114.43 فثار المسلمون إلى السلاح‏.‏
+114.43 118.31 وكانت المدينة كلها قد زحفت للاستقبال،
+118.78 122.96 وكان يومًا مشهودًا لم تشهد المدينة مثله في تاريخها،
+123.75 126.98 ونزل رسول الله صلى الله عليه وسلم
+127.16 128.36 بقباء
+128.43 130.5 على كلثوم بن الهدم،
+131.23 134.67 ومكث على بن أبي طالب بمكة ثلاثًا
+135.18 138.85 حتى أدى عن رسول الله صلى الله عليه وسلم
+139.1 141.97 الودائع التي كانت عنده للناس،
+141.97 144.62 ثم هاجر ماشيًا على قدميه
+144.62 147.23 حتى لحقهما بقباء،
+147.66 150.17 ونزل على كلثوم بن الهَدْم‏.‏
+150.6 154.05 وكان يومًا تاريخيا أغر،
+154.59 160.36 فقد كانت البيوت والسكك ترتج بأصوات التحميد والتقديس:‏
+160.91 163.63 وكانت بنات أنصار تتغنى
+163.84 165.8 فرحا وسرورا
+165.95 167.8 بهذه الأبيات
+168.89 171.5 أشرق البدر علينا **
+171.79 174.4 من ثنيات الوداع
+174.76 177.23 وجب الشكر علينا **
+177.34 180.32 ما دعا لله داع
+180.79 183.22 أيها المبعوث فينا \*\*
+183.33 185.9 جئت بالأمر المطاع
+186.23 187.57 والأنصار
+187.57 190.58 وإن لم يكونوا أصحاب ثروات طائلة
+190.91 193.27 إلا أن كل واحد منهم
+193.27 197.51 كان يتمنى أن ينزل الرسول صلى الله عليه وسلم عليه،
+198.06 201.76 فكان لا يمر بدار من دور الأنصار
+201.76 204.26 إلا أخذوا خطام راحلته‏:‏
+204.81 207.13 هلم إلى العدد والعدة
+207.13 208.87 والسلاح والمنعة،
+209.49 211.59 فكان يقول لهم‏:‏ ‏
+211.7 213.19 [خلوا سبيلها
+213.37 215.07 فإنها مأمورة‏]‏،
+215.76 221.46 فلم تزل سائرة به حتى وصلت إلى موضع المسجد النبوى اليوم
+222.11 223.2 فبركت،
+223.67 225.3 ولم ينزل عنها
+225.52 227.88 حتى نهضت وسارت قليلًا،
+228.1 230.42 ثم التفتت ورجعت
+230.42 232.89 فبركت في موضعها الأول،
+233.32 234.67 فنزل عنها،
+235.06 239.71 وذلك في بني النجار أخواله صلى الله عليه وسلم
+240.36 242.68 وكان من توفيق الله لها،
+243.15 246.42 فإنه أحب أن ينزل على أخواله،
+246.53 248.31 يكرمهم بذلك،
+248.31 251.64 وبادر أبو أيوب الأنصارى إلى رحله،
+251.93 253.35 فأدخله بيته ،
+253.68 257.78 فجعل رسول الله صلى الله عليه وسلم يقول‏:‏ ‏
+257.89 259.63 [المرء مع رحله‏]‏،
+259.63 261.84 وجاء أسعد بن زرارة
+261.91 264.13 فأخذ بزمام راحلته،
+264.13 265.36 فكانت عنده‏.‏
+265.58 266.92 وبعد أيام
+266.92 269.13 وصلت إليه زوجته سَوْدَة،
+269.31 272.22 وبنتاه فاطمة وأم كلثوم،
+272.36 274.22 وأسامة بن زيد،
+274.72 276.1 وأم أيمن،
+276.17 279.46 وخرج معهم عبد الله بن أبي بكر
+279.65 281.35 بعيال أبي بكر،
+281.35 282.62 ومنهم عائشة،
+282.84 285.56 وبقيت زينب عند أبي العاص،
+285.56 287.41 لم يمكنها من الخروج
+287.63 289.8 حتى هاجرت بعد بدر‏.‏
+
+# بناء مجتمع جديد [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F32.mp3?alt=media&token=c633a662-5b62-48fa-99d7-cada4c2da5e2]
+
+## timing
+
+0.11 2.81 بناء مجتمع جديد
+2.81 5.25 بناء المسجد النبوي
+5.62 10.99 وأول خطوة خطاها رسول الله صلى الله عليه وسلم بعد ذلك
+11.34 13.6 هي إقامة المسجد النبوي،
+14.3 17 ففي المكان الذي بركت فيه ناقته
+17.43 19.61 أمر ببناء هذا المسجد
+19.97 22.56 فاشتراه من غلامين يتيمين
+22.65 24.29 كانا يملكانه،
+24.89 27.44 وساهم في بنائه بنفسه،
+27.74 33.36 فكان صلى الله عليه وسلم ينقل اللبِن والحجارة وهو يقول‏:‏
+33.82 38.23 ‏[‏اللهم لا عَيْشَ إلا عَيْشُ الآخرة **
+38.41 41.64 فاغْفِرْ للأنصار والمُهَاجِرَة‏]‏
+41.98 45.65 ولم يكن المسجد موضعًا لأداء الصلوات فحسب،
+46.47 49.67 بل كان جامعة يتلقى فيها المسلمون
+49.91 52.06 تعاليم الإسلام وتوجيهاته،
+52.46 57.47 ومنتدى تلتقى وتتآلف فيه العناصر القبلية المختلفة
+57.86 60.67 وقاعدة لإدارة جميع الشئون
+60.83 62.56 وبث الانطلاقات،
+62.56 66.52 وبرلمان لعقد المجالس الاستشارية والتنفيذية‏.‏
+66.72 71.1 وكان أقام النبي صلى الله عليه وسلم ببناء المسجد‏:‏
+71.27 73.51 مركز التجمع والتآلف،
+74.02 77.64 قام بعمل آخر من أروع ما يأثره التاريخ،
+78.13 81.67 وهو عمل المؤاخاة بين المهاجرين والأنصار،
+81.92 83.78 في دار أنس بن مالك،
+84.3 86.24 وكانوا تسعين رجلًا،
+86.44 88.3 نصفهم من المهاجرين،
+88.47 90.17 ونصفهم من الأنصار،
+90.65 93.32 أخي بينهم على المواساة،
+93.67 96.52 وقد جعل رسول صلى الله عليه وسلم
+96.7 97.9 هذه الأخوة
+98.14 99.67 عقدا نافذا
+99.93 101.62 لا لفظا فاردا
+101.98 102.94 وعملا
+103.08 105.42 يرتبط بالدماء والأموال
+105.67 107.01 لا تحية
+107.2 109.41 تثرثر بها الألسنة
+109.48 111.3 ولا يقوم لها الأفرّ
+111.72 114.23 وقام بعقد معاهدة
+114.36 116.08 أثبتها في كتاب
+116.29 119.09 بهذه الحكمة وبهذه الحذاقة
+119.83 122.88 أرسى رسول الله صلى الله عليه وسلم
+123.16 125.11 قواعد مجتمع جديد،
+125.55 126.61 ولكن
+126.99 129.74 كانت هذه الظاهرة أثرا للمعاني
+130.17 133.37 التي كان يتمتع بها أولئك الأمجاد
+133.68 137.07 بفضل صحبة النبي صلى الله عليه وسلم،
+137.79 140.49 وكان النبي صلى الله عليه وسلم
+140.8 145.03 يتعهدهم بالتعليم والتربية، وتزكية النفوس،
+145.49 147.56 والحث على مكارم الأخلاق،
+148.01 151.21 ويؤدبهم بآداب الود والإخاء
+151.49 154.34 والمجد والشرف والعبادة والطاعة‏.‏
+154.75 157.33 معاهدة مع اليهود
+158.44 162.72 بعد أن هاجر النبي صلى الله وعليه وسلم إلى المدينة
+163.16 167.24 ووثق من رسوخ قواعد مجتمع إسلامي جديد
+167.63 173.31 بإقامة الوحدة العقائدية والسياسية والنظامية بين المسلمين،
+173.88 177.94 رأى أن يقوم بتنظيم علاقاته بغير المسلمين،
+178.68 180.3 وكان عمّه في ذلك
+180.67 184.07 هو توفير الأمن والسلام والسعادة والخير
+184.29 186.07 للبشرية جمعاء،
+186.52 188.15 مع تنظيم المنطقة
+188.37 190.21 في وفاق واحد،
+190.74 194.15 فسن في ذلك قوانين السماح والتجاوز
+194.37 195.55 التي لم تعهد
+195.68 197.2 في عالم ملئ
+197.39 199.52 بالتعصب والتغالي
+200.69 204.59 وأقرب من كان يجاور المدينة من غير المسلمين
+204.86 205.94 هم اليهود -
+206.42 207.08 وهم
+207.25 210.31 وإن كانوا يبطنون العداوة للمسلمين،
+210.74 211.62 لكن
+211.93 215.82 لم يكونوا أظهروا أية مقاومة أو خصومة بعد،
+216.68 220.05 فعقد معهم رسول الله صلى الله عليه وسلم
+220.38 221.6 معاهدة
+221.97 225.44 ترك لهم فيها مطلق الحرية في الدين والمال،
+226.02 228.55 ولم يتجه إلى سياسة الإبعاد
+228.68 230.55 أو المصادرة والخصام‏.‏
+230.99 232.82 وجائت هذه المعاهدة
+233.27 236.91 ضمن المعاهدة التي تمت بين المسلمين أنفسهم .
+237.71 238.73 قريش
+238.8 240.65 تهدد المهاجرين
+241.13 245.12 ثم إن قريشا أرسلت إلى المسلمين تقول لهم
+245.72 249.55 لا يغرنكم أنكم أفلتتم إلى يثرب ،
+249.91 256.09 سنأتيكم فنستأصلكم ونبيد خضراءكم في عقر داركم
+
+# الإذن بالقتال [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F33.mp3?alt=media&token=99d80e5f-7385-49bb-806f-edc9da7666ef]
+
+## timing
+
+0.09 2.23 الإذن بالقتال
+2.91 7.77 في هذه الظروف الخطيرة التي كانت تهدد كيان المسلمين بالمدينة،
+8.24 10.77 والتي كانت تنبئ عن قريش
+11.01 13.4 أنهم لا يفيقون عن غيهم
+13.78 16.48 ولا يمتنعون عن تمردهم بحال،
+16.85 20.79 أنزل الله تعالى الإذن بالقتال للمسلمين
+21.17 22.98 ولم يفرضه عليهم،
+23.59 24.77 قال تعالى‏:‏ ‏
+25.28 29.29 {‏أُذِنَ لِلَّذِينَ يُقَاتَلُونَ بِأَنَّهُمْ ظُلِمُوا
+29.6 32.83 وَإِنَّ اللهَ عَلَى نَصْرِهِمْ لَقَدِيرٌ‏}‏ ‏[‏الحج‏:‏ 39‏]‏‏.‏
+33.34 35.58 نزل الإذن بالقتال
+36.14 39.65 ولكن كان من الحكمة إزاء هذه الظروف
+39.95 44.44 أن يبسط المسلمون سيطرتهم على الطريق قريش التجارية
+44.8 47.24 المئدية من مكة إلى الشام
+48.06 50.97 واختار رسول الله صلى الله عليه وسلم
+51.23 52.98 لبسط هذه السيطرة
+53.25 55.18 عقد معاهدات الحلف
+55.31 58.89 مع القبائل التي كانت مجاورة لهذا الطريق،
+59.48 62.38 وإرسال البعوث واحدة تلو الأخرى
+62.65 64.16 إلى تلك الطريق‏.‏
+64.83 66.66 فكان من هذه سرايا
+66.84 68.48 سرية سيف البحر
+68.74 70.13 وسرية رابغ‏
+70.42 72.09 وسرية الخرار
+72.34 74.16 وغزوة ذي العشيرة‏
+74.52 75.55 وغيرها .
+
+# غزوة بدر الكبرى - ١ [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F34_1.mp3?alt=media&token=fb1fe1a8-22ed-4811-8e8d-275f2d4c70c8]
+
+## timing
+
+0.1 2.5 غزوة بدر الكبرى
+3.21 5.48 روي أن عيراً لقريش
+5.48 6.53 أي قافلة
+7.09 10.1 أفلتت من النبي صلى الله عليه وسلم
+10.44 12.81 في ذهابها من مكة إلى الشام،
+13.54 16.47 ولما قرب رجوعها من الشام إلى مكة
+16.92 19.8 بعث رسول الله صلى الله عليه وسلم
+20.35 22.04 طلحة بن عبيد الله
+22.32 24.7 وسعيد بن زيد إلى الشمال
+25.07 27.32 ليقوما باكتشاف خبرها،
+27.86 29.37 فوصلا إلى الحوراء
+29.62 33.41 ومكثا حتى مر بهما أبو سفيان بالعير،
+33.55 35.29 فأسرعا إلى المدينة
+35.52 39.3 وأخبرا رسول الله صلى الله عليه وسلم الخبر‏.‏
+39.54 43.68 وكانت العير مركبة من ثروات طائلة من أهل مكة
+44.29 46.51 وإنها فرصة ذهبية
+46.73 48.22 لعسكر المدينة
+48.48 53.02 وضربة عسكرية وسياسية واقتصادية قاصمة
+53.26 54.73 ضد المشركين
+54.91 57.92 لو أنهم فقدوا هذه الثروة الطائلة
+58.7 63.47 لذلك أعلن رسول الله صلى الله عليه وسلم في المسلمين قائلاً‏:‏ ‏‏
+64.21 66.43 (‏هذه عير قريش
+66.77 68.66 فيها أموالهم،
+68.89 70.66 فاخرجوا إليها
+70.8 73.54 لعل الله ينفلكموها‏)‏‏.‏
+73.78 76.25 ولم يعزم على أحد بالخروج،
+76.64 79.24 بل ترك الأمر للرغبة المطلقة،
+79.69 80.72 ولذلك
+80.93 83.41 تخلف بعض الصحابة في المدينة،
+84.03 88 وهم يحسبون أن مضى رسول الله صلى الله عليه وسلم
+88.32 89.39 في هذا الوجه
+89.63 92.59 لن يعدو ما ألفوه في السرايا الماضية؛
+92.88 93.69 ولذلك
+93.99 97.61 لم ينكر على أحد تخلفه في هذه الغروة‏.‏
+97.82 102.18 واستعد رسول الله صلى الله عليه وسلم للخروج
+102.5 105.89 ومعه ثلاثمائة وبضعة عشر رجلاً
+106.29 109.43 ولم يحتفلوا لهذا الخروج احتفالا بليغا،
+109.74 112.07 ولا اتخذوا أهبتهم كاملة،
+112.36 113.81 فلم يكن معهم
+113.95 115.41 إلا فرسان‏:‏
+115.55 117.78 فرس للزبير بن العوام،
+117.97 121.02 وفرس للمقداد بن الأسود الكندي،
+121.27 123.44 كان معهم سبعون بعيرا
+123.62 127.39 يعتقب الرجلان والثلاثة على بعير واحد،
+127.62 131.06 وكان رسول الله صلى الله عليه وسلم
+131.3 133.71 وعلي ومرثد غنوي
+133.85 136.46 يعتقبون بعيراً واحد‏.‏
+136.57 140.74 واستخلف على المدينة وعلى الصلاة ابن أم مكتوم،
+141.08 142.83 فلما كان بالروحاء
+143.14 145.41 رد أبا لبابة ابن المنذر،
+145.72 147.6 واستعمله على المدينة‏.‏
+147.76 152.92 ودفع لواء القيادة العامة إلى مصعب بن عمير القرشي العبدري،
+153.36 155.77 وكان هذا اللواء أبيض‏.‏
+156.26 158.88 وقسم جيشه إلى كتيبتين‏:‏
+159.22 160.88 كتيبة المهاجرين‏:‏
+161.09 163.93 وأعطى علمها علي بن أبي طالب،
+164.34 165.75 وكتبية الأنصار‏:‏
+166.11 167.42 وأعطى علمها
+167.6 169.14 سعد بن معاذ‏.‏
+169.34 173.37 وجعل على قيادة الميمنة الزبير بن العوام،
+173.62 176.16 وعلى الميسرة المقداد بن عمرو-
+176.67 180.25 وكانا الفارسين الوحيدين في الجيش - كما أسلفنا -
+180.86 183.93 وجعل على الساقة قيس بن أبي صعصعة،
+184.49 187.19 وظلت القيادة العامة في يده
+187.38 189.36 صلى الله عليه وسلم
+189.56 191.62 كقائد أعلى للجيش‏.‏
+191.99 193.74 وأما خبر العير
+194.14 197.31 فإن أبا سفيان - كان يتحسس الأخبار
+197.63 199.9 ويسأل من لقى من الركبان،
+200.45 203.09 ولم يلبث أن نقلت إليه استخباراته
+203.55 206.15 بأن محمداً صلى الله عليه وسلم
+206.47 208.13 قد استنفر أصحابه
+208.31 209.86 ليوقع بالعير،
+210.26 211.41 وحينئذ
+211.7 215.98 استأجر أبو سفيان ضمضم بن عمرو الغفاري إلى مكة
+216.51 219.82 مستصرخاً لقريش بالنفير إلى عيرهم؛
+220.05 223.3 ليمنعوه من محمد صلى الله عليه وسلم
+223.5 224.55 وأصحابه،
+225.34 227.36 فتحفز الناس سراعًا
+227.67 230.48 وحشدوا من حولهم من قبائل العرب،
+231.04 234.28 ولم يتخلف عنهم أحد من بطون قريش
+234.55 235.99 إلا بني عدى
+236.39 238.63 فلم يخرج منهم أحد‏.‏
+
+# غزوة بدر الكبرى - ٢ [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F34_2.mp3?alt=media&token=ec4f9ec0-b9da-438c-88a8-90bbe65a18ff]
+
+## timing
+
+0.43 3.06 ولما أجمع هذا الجيش على المسير
+3.58 6.71 تحركوا بسرعة فائقة نحو الشمال
+6.82 8.02 في اتجاه بدر،
+8.57 11.41 وسلكوا في طريقهم وادى عُسْفَان،
+11.67 12.89 ثم قُدَيْدًا،
+13.11 14.19 ثم الجُحْفَة،
+14.83 15.75 وهناك
+16.02 19.13 تلقوا رسالة جديدة من أبي سفيان
+19.29 20.84 يقول لهم فيها‏:‏
+21.08 26.54 إنكم إنما خرجتم لتحرزوا عيركم ورجالكم وأموالكم،
+26.93 28.92 وقد نجاها الله
+29.11 30.21 فارجعوا‏.‏
+30.38 33.45 ولما تلقى هذه الرسالة جيش مكة
+33.66 34.85 هم بالرجوع،
+35.32 36.32 ولكن
+36.53 41.71 قام طاغية قريش أبو جهل في كبرياء وغطرسة قائلًا‏:‏
+41.79 44.94 والله لا نرجع حتى نرد بدرًا،
+44.94 46.94 فنقيم بها ثلاثًا،
+47.15 48.73 فننحر الجَزُور،
+48.8 50.27 ونطعم الطعام،
+50.4 51.75 ونسقى الخمر،
+51.84 53.65 وتعزف لنا القِيان،
+53.74 55.41 وتسمع بنا العرب
+55.44 57.34 وبمسيرنا وجمعنا،
+57.52 60.38 فلا يزالون يهابوننا أبدًا‏.‏
+60.7 64.14 فسار جيش مكة وقوامه ألف مقاتل
+64.94 66.31 فواصل سيره
+66.59 68.63 حتى نزل قريبًا من بدر،
+69.06 70.43 وراء كثيب
+70.43 72.52 يقع بالعدوة القصوى
+72.82 74.68 على حدود وادى بدر‏.‏
+75.26 77.68 أما استخبارات جيش المدينة
+78.08 81.61 فقد نقلت إلى رسول الله صلى الله عليه وسلم
+81.86 83.66 خبر العير والنفير،
+84.18 87.45 وتأكد لديه بعد التدبر في تلك الأخبار
+87.91 92.1 أنه لم يبق مجال لاجتناب اللقاء الدامي،
+92.44 96.97 وأنه لا بد من إقدام يبني على الشجاعة والبسالة،
+97.8 100.86 ونظرًا إلى هذا التطور الخطير المفاجيء
+101.25 104.28 عقد رسول الله صلى الله عليه وسلم
+104.53 107.45 مجلسًا عسكريًا استشاريًا أعلى،
+108.01 109.96 أشار فيه إلى الوضع الراهن،
+110.32 111.75 وتبادل فيه الرأي
+112.03 114.6 مع عامة جيشه وقادته‏.‏
+115.44 117.36 فقام أبو بكر الصديق
+117.6 119.36 فقال وأحسن ،
+119.91 121.24 ثم قام عمر
+121.63 123.43 فقال وأحسن ،
+124.06 126.94 ثم قام المقداد فقال‏:‏
+127.31 128.66 يا رسول الله،
+129.33 131.26 امض لما أراك الله،
+131.55 132.73 فنحن معك،
+132.99 136.76 والله لا نقول لك كما قالت بنو إسرائيل لموسى‏:‏
+137.22 139.65 ‏{‏فَاذْهَبْ أَنتَ وَرَبُّكَ فَقَاتِلا
+139.85 141.73 إِنَّا هَاهُنَا قَاعِدُونَ‏}‏ ‏[‏المائدة‏:‏24]‏،
+142.56 145.43 ولكن اذهب أنت وربك فقاتلا
+145.66 148.07 إنا معكما مقاتلون،
+148.34 150.24 فوالذي بعثك بالحق
+150.74 153.34 لو سرت بنا إلى بَرْك الغِمَاد
+153.71 155.67 لجالدنا معك من دونه
+155.89 157.22 حتى تبلغه‏.‏
+157.46 161.73 فقال له رسول الله صلى الله عليه وسلم خيرًا
+162.02 163.49 ودعا له به‏.‏
+164.12 166.28 وهؤلاء القادة الثلاثة
+166.61 168.45 كانوا من المهاجرين،
+168.53 170.94 وهم أقلية في الجيش،
+171.39 174.86 فأحب رسول الله صلى الله عليه وسلم
+175.08 177.41 أن يعرف رأي قادة الأنصار؛
+177.71 180.91 لأنهم كانوا يمثلون أغلبية الجيش،
+181.11 184.87 ولأن ثقل المعركة سيدور على كواهلهم،
+185.04 190.21 فقال صلى الله عليه وسلم بعد سماع كلام هؤلاء القادة الثلاثة‏:‏ ‏‏
+190.42 192.64 (‏أشيروا علىّ أيها الناس‏)‏
+192.7 194.84 وإنما يريد الأنصار،
+195.45 198.06 وفطن إلى ذلك قائد الأنصار
+198.19 201.02 وحامل لوائهم سعد بن معاذ‏.‏
+201.02 202.07 فقال‏:‏
+203.08 206.13 والله، لكأنك تريدنا يا رسول الله‏؟‏
+206.5 209.92 قال رسول الله صلى الله عليه وسلم ‏:‏
+210.38 211.12 (أجل)
+211.32 212.43 قال سعد‏:‏
+212.51 213.96 قد آمنا بك،
+214.48 215.69 فصدقناك،
+216.43 219.28 وشهدنا أن ما جئت به هو الحق،
+220.28 223.87 وأعطيناك على ذلك عهودنا ومواثيقنا
+224.39 225.79 على السمع والطاعة،
+226.83 229.12 فامض يا رسول الله لما أردت،
+229.86 231.78 فوالذي بعثك بالحق
+232.41 235.29 لو استعرضت بنا هذا البحر فخضته
+235.73 236.95 لخضناه معك،
+237.28 239.75 ما تخلف منا رجل واحد،
+240.41 243.26 وما نكره أن تلقى بنا عدونا غدًا،
+243.94 245.71 إنا لصُبُر في الحرب،
+246.17 247.91 صُدَّق عند اللقاء،
+248.48 250.42 ولعل الله يريك منا
+250.76 252.52 ما تَقَرَّ به عينك،
+252.95 255.2 فسِرْ بنا على بركة الله‏.‏
+255.57 260.02 فَسُرَّ رسول الله صلى الله عليه وسلم بقول سعد،
+260.23 261.56 ونشطه ذلك،
+262.15 263.24 ثم قال‏:‏ ‏‏
+263.67 265.78 (‏سيروا وأبشروا،
+266.14 270.2 فإن الله تعالى قد وعدنى إحدى الطائفتين،
+270.85 274.66 والله لكإني الآن أنظر إلى مصارع القوم‏)‏‏.‏
+274.87 281.4 وتحرك رسول الله صلى الله عليه وسلم بجيشه ليسبق المشركين إلى ماء بدر،
+281.9 284.64 ويحول بينهم وبين الاستيلاء عليه،
+285.03 288.09 فنزل عشاء أدنى من مياه بدر،
+288.35 289.22 وهنا
+289.41 293.21 قام الحُبَاب بن المنذر كخبير عسكرى وقال‏:‏
+293.39 294.63 يا رسول الله،
+295.34 297.1 أرأيت هذا المنزل،
+297.91 300.09 أمنزلًا أنزلكه الله،
+300.41 303.84 ليس لنا أن نتقدمه ولا نتأخر عنه‏؟‏
+304.22 306.62 أم هو الرأي والحرب والمكيدة‏؟‏
+306.92 308.89 قال‏ صلى الله عليه وسلم :‏ ‏‏
+309.37 310.7 (‏بل هو الرأي
+310.89 312.06 والحرب
+312.21 313.39 والمكيدة‏)‏‏.‏
+313.39 314.39 قال‏:‏
+314.94 316.22 يا رسول الله،
+316.9 319.02 فإن هذا ليس بمنزل،
+319.74 323.17 فانهض بالناس حتى نأتى أدنى ماء من القوم
+323.65 324.51 فننزله
+324.94 326 ونغوّر
+326.39 328.91 أي نُخَرِّب ما وراءه من القُلُب،
+329.74 331.51 ثم نبني عليه حوضًا،
+331.85 333.24 فنملأه ماء،
+333.67 335.35 ثم نقاتل القوم،
+335.74 337.51 فنشرب ولا يشربون،
+337.83 341.1 فقال رسول الله صلى الله عليه وسلم‏:‏ ‏‏
+341.72 343.42 (‏لقد أشرت بالرأي‏)‏‏.‏
+344 347.88 فنهض رسول الله صلى الله عليه وسلم بالجيش
+348.25 350.91 حتى أتى أقرب ماء من العدو،
+351.2 353.49 فنزل عليه شطر الليل،
+353.91 355.41 ثم صنعوا الحياض
+355.6 358.29 وغوروا ما عداها من القلب‏.‏
+
+# غزوة بدر الكبرى - ٣ [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F34_3.mp3?alt=media&token=f5ab5d9f-db46-4760-ae5a-695127893643]
+
+## timing
+
+0.3 2.17 تعبئة الجيش
+2.24 4.18 وقضاء الليل
+4.93 8.92 ثم عبأ رسول الله صلى الله عليه وسلم جيشه‏.‏
+9.47 11.25 ومشى في موضع المعركة،
+11.86 15.14 ثم بات يصلي إلى جذع شجرة هنالك،
+16.16 19.11 وبات المسلمون ليلهم هادئي الأنفاس
+19.4 23.02 منيري الآفاق، غمرت الثقة قلوبهم،
+23.45 25.5 وأخذوا من الراحة قسطهم؛
+25.9 29.9 يأملون أن يروا بشائر ربهم بعيونهم صباحًا‏:‏ ‏
+30.52 33.04 كانت هذه الليلة ليلة الجمعة،
+33.31 35.36 السابعة عشرة من رمضان
+35.75 37.77 في السنة الثانية من الهجرة،
+38.32 42.22 وكان خروجه في 8 أو12 من الشهر‏ نفسه .‏
+42.79 44.83 ولما طلع المشركون
+45.01 46.75 وتراءى الجمعان
+47.3 50.33 قال رسول الله صلى الله عليه وسلم‏:‏ ‏‏
+51.04 56.38 (‏اللهم هذه قريش قد أقبلت بخُيَلائها وفَخْرها
+56.95 59.44 تُحَادُّك وتكذب رسولك،
+60.12 62.82 اللهم فنصرك الذي وعدتني،
+63.21 65.79 اللهم أحْنِهُم ‏‏الغداة‏‏)‏
+66.7 68.17 وأحنهم في اللغة
+68.38 69.7 أي أهلكهم .
+70.29 74.63 وعدل رسول الله صلى الله عليه وسلم صفوف المسلمين،
+75.26 77.47 وأصدر أوامره إلى جيشه
+77.79 79.51 بألا يبدأوا القتال
+79.74 82.52 حتى يتلقوا منه الأوامر الأخيرة،
+82.82 86.62 ثم أدلى إليهم بتوجيه خاص في أمر الحرب،
+86.68 87.55 فقال‏:‏ ‏‏
+88.24 89.98 (‏إذا أكثبوكم
+90.08 91.69 يعنى كثروكم
+92.08 93.17 فارموهم،
+93.3 95.06 واستبقوا نبلكم،
+95.46 98.8 ولا تسلوا السيوف حتى يغشوكم‏)‏
+100.03 101.56 ساعة الصفر
+101.87 104.39 وأول وقود المعركة
+104.84 107.19 وكان أول وقود المعركة
+107.7 110.41 الأسود بن عبد الأسد المخزومى
+110.95 113.54 وكان رجلًا شرسًا سيئ الخلق
+114.01 115.31 خرج قائلًا‏:‏
+115.87 118.76 وعاهد الله لأشربن من حوضهم
+119.07 120.61 أو لأهدمنه
+120.89 122.61 أو لأموتن دونه‏.‏
+122.82 126.29 فخرج إليه حمزة بن عبد المطلب رضي الله عنه
+126.68 128.08 فلما التقيا
+128.19 129.54 ضربه حمزة
+130.21 132.47 فأطَنَّ قدمه بنصف ساقه
+132.64 133.96 وهو دون الحوض،
+134.18 135.52 فوقع على ظهره
+135.78 138.15 تشخب رجله دمًا نحو أصحابه،
+138.71 140.47 ثم حبا إلى الحوض
+140.76 142.11 حتى اقتحم فيه،
+142.43 144.1 يريد أن تبر يمينه،
+144.56 145.8 ولكن حمزة
+146.02 148.01 ثنى عليه بضربة أخرى
+148.32 150.21 أتت عليه داخل الحوض‏.‏
+151.15 152.66 المبارزة
+153 156.33 وكان هذا أول قتل أشعل نار المعركة،
+157.26 160.8 فقد خرج بعده ثلاثة من خيرة فرسان قريش
+161.32 162.94 كانوا من عائلة واحدة،
+163.3 164.01 وهم
+164.35 167.36 عتبة وأخوه شيبة ابنا ربيعة،
+167.87 169.36 والوليد بن عتبة،
+169.82 171.39 فلما انفصلوا من الصف
+171.74 173.01 طلبوا المبارزة،
+173.16 176.22 فخرج إليهم ثلاثة من شباب الأنصار
+176.62 178.18 عَوْف ومُعَوِّذ
+178.41 179.64 ابنا الحارث
+179.82 181.54 وعبد الله بن رواحة،
+181.81 182.57 فقالوا‏:‏
+182.68 183.62 من أنتم‏؟‏
+183.77 184.55 قالوا‏:‏
+184.55 186.02 رهط من الأنصار‏.‏
+186.1 186.88 قالوا‏:‏
+187.05 188.58 أكِِفَّاء كرام،
+188.86 190.51 ما لنا بكم حاجة،
+190.81 192.79 وإنما نريد بني عمنا،
+192.79 194.69 ثم نادى مناديهم‏:‏
+194.74 195.96 يا محمد،
+196.18 198.79 أخرج إلينا أكفاءنا من قومنا،
+198.98 202.19 فقال رسول الله صلى الله عليه وسلم‏:‏
+202.8 204.94 ‏‏(‏قم يا عبيدة بن الحارث،
+205.25 206.74 وقم يا حمزة،
+206.95 208.37 وقم يا على‏)‏،
+208.37 210.5 فلما قاموا ودنوا منهم،
+210.5 211.28 قالوا‏:‏
+211.34 212.13 من أنتم‏؟‏
+212.13 213.12 فأخبروهم،
+213.12 213.81 فقالوا‏:‏
+213.87 217.06 أنتم أكفاء كرام، فبارز عبيدة
+217.75 219.46 وكان أسن القوم
+219.79 221.37 عتبة بن ربيعة،
+222 223.86 وبارز حمزة شيبة،
+224.11 225.97 وبارز على الوليد‏.‏
+226.32 228.06 فأما حمزة وعلى
+228.33 231.29 فلم يمهلا قرنيهما أن قتلاهما،
+231.65 235.88 وأما عبيدة فاختلف بينه وبين قرنه ضربتان،
+236.01 238.7 فأثخن كل واحد منهما صاحبه،
+239 242.28 ثم كَرَّ على وحمزة على عتبة فقتلاه،
+242.61 244.12 واحتملا عبيدة
+244.27 245.82 وقد قطعت رجله،
+246.23 249.15 فلم يزل صامتا حتى مات بالصفراء،
+249.42 253.17 بعد أربعة أيام أو خمسة من وقعة بدر،
+253.81 256.93 حينما كان المسلمون في طريقهم إلى المدينة‏.‏
+
+# غزوة بدر الكبرى - ٤ [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F34_4.mp3?alt=media&token=3df784f2-8e20-4dd3-b568-20df9c3374ed]
+
+## timing
+
+0.2 2.04 الهجوم العام
+2.62 7.9 وكانت نهاية هذه المبارزة بداية سيئة بالنسبة للمشركين؛
+8.3 12.2 فقدوا فيها ثلاثة من خيرة فرسانهم وقادتهم
+12.45 13.82 دفعة واحدة،
+14.36 15.98 فاستشاطوا غضبًا،
+16.24 17.98 وكروا على المسلمين
+18.24 20.19 كرة رجل واحد‏.‏
+20.99 23.69 وأوحى الله إلى ملائكته‏:‏ ‏
+24.15 28.23 {‏أَنِّي مَعَكُمْ فَثَبِّتُواْ الَّذِينَ آمَنُواْ
+28.84 32.26 سَأُلْقِي فِي قُلُوبِ الَّذِينَ كَفَرُواْ الرَّعْبَ‏}‏ ‏[‏الأنفال‏:‏ 12‏]‏،
+32.74 34.84 وأوحى إلى رسوله‏:‏ ‏
+35.3 40.02 {‏أَنِّي مُمِدُّكُم بِأَلْفٍ مِّنَ الْمَلآئِكَةِ مُرْدِفِينَ‏}‏ ‏[‏الأنفال‏:‏9‏]‏
+40.67 42.08 حينئذ
+42.33 48.03 أصدر رسول الله صلى الله عليه وسلم إلى جيشه أوامره بالهجمة المضادة
+48.41 49.43 فقال‏:‏ ‏‏
+49.77 51.11 (‏شدوا‏)‏،
+51.65 53.99 وحرضهم على القتال، قائلًا‏:‏ ‏‏
+54.53 57.25 (‏والذي نفس محمد بيده،
+57.81 60.59 لا يقاتلهم اليوم رجل
+60.89 65.69 فيقتل صابرًا محتسبًا مقبلًا غير مدبر،
+65.83 68.62 إلا أدخله الله الجنة‏)‏،
+68.76 73.71 وحين أصدر رسول الله صلى الله عليه وسلم الأمر بالهجوم المضاد
+74.04 76.78 كانت حدة هجمات العدو قد ذهبت
+76.79 78.42 وفتر حماسه،
+78.67 80.82 فكان لهذه الخطة الحكيمة
+80.99 84.03 أثر كبير في تعزيز موقف المسلمين،
+84.29 85.89 فقاموا بهجوم
+85.89 87.22 كاسح مرير،
+87.28 89.22 فجعلوا يقلبون الصفوف،
+89.31 90.98 ويقطعون الأعناق‏.‏
+90.98 93.07 وزادهم نشاطًا وحدة
+93.21 95.96 أن رأوا رسول الله صلى الله عليه وسلم
+96.18 97.45 يثب في الدرع،
+97.45 100.04 و يقول في جزم وصراحة‏:‏ ‏
+100.17 103.35 {‏سَيُهْزَمُ الْجَمْعُ وَيُوَلُّونَ الدُّبُرَ‏}‏
+103.68 106.84 فقاتل المسلمون أشد القتال
+107.28 109.36 ونصرتهم الملائكة‏.‏
+109.59 111.8 الهزيمة الساحقة
+112.11 116.3 وبدأت أمارات الفشل والاضطراب في صفوف المشركين،
+116.91 120.6 وجعلت تتهدم أمام حملات المسلمين العنيفة،
+121.42 123.78 واقتربت المعركة من نهايتها،
+124.48 128.35 وأخذت جموع المشركين في الفرار والانسحاب المبدد،
+128.58 130.85 وركب المسلمون ظهورهم
+131.1 132.76 يأسرون ويقتلون،
+133.18 135.29 حتى تمت عليهم الهزيمة‏.‏
+135.86 138.11 أما الطاغية الأكبر أبو جهل،
+138.54 140.31 فجعل يشجع جيشه
+140.85 141.76 ولكن
+142.06 144.68 بقى حوله عصابة من المشركين
+145.16 147.44 ضربت حوله سياجًا من السيوف،
+147.8 149.88 وغابات من الرماح،
+150.15 152.55 ولكن عاصفة هجوم المسلمين
+152.82 154.72 بددت هذا السياج،
+155.22 157.49 ورآه المسلمون يجول على فرسه،
+157.95 160.8 وكان الموت ينتظر أن يشرب من دمه
+160.99 163.26 بأيدى غلامين أنصاريين‏.‏
+163.48 165.82 هو معاذ بن عمرو بن الجموح‏
+166.09 167.88 ومُعَوِّذ ابن عفراء .
+168.06 172.91 انتهت المعركة بهزيمة ساحقة بالنسبة إلى المشركين،
+173.48 176.34 وبفتح مبين للمسلمين،
+176.65 179.89 وقد استشهد من المسلمين في هذه المعركة
+180.32 182.33 أربعة عشر رجلًا،
+182.67 184.5 ستة من المهاجرين
+184.79 186.9 وثمانية من الأنصار‏.‏
+186.9 188.34 أما المشركون
+188.5 191.02 فقد لحقتهم خسائر فادحة،
+191.34 192.9 قتل منهم سبعون،
+193.22 194.57 وأسر سبعون‏.‏
+194.79 198 وعامتهم القادة والزعماء والصناديد‏.‏
+198.31 200.37 فر المشركون من ساحة بدر
+200.64 202.5 في صورة غير منظمة؛
+202.76 204.9 تبعثروا في الوديان والشعاب،
+205.09 207.62 واتجهوا صوب مكة مذعورين،
+207.73 210.66 لا يدرون كيف يدخلونها خجلًا‏.‏
+210.94 211.99 هكذا
+212.28 216.17 تلقت مكة أنباء الهزيمة الساحقة في ميدان بدر،
+217.06 220.31 وقد أثر ذلك فيهم أثرًا سيئًا جدًا،
+220.68 223.23 حتى منعوا النياحة على القتلى؛
+223.64 225.98 لئلا يشمت بهم المسلمون‏.‏
+226.33 229.98 ثم دخل رسول الله صلى الله عليه وسلم المدينة
+230.4 232.1 مظفرًا منصورًا
+232.41 235.66 قد خافه كل عدو له بالمدينة وحولها،
+236.18 238.18 فأسلم بشر كثير
+238.41 239.96 من أهل المدينة.
+
+# غزوة أحد - ١ [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F35_1.mp3?alt=media&token=cd6fdd23-492f-4c9e-9126-72a1eda8427c]
+
+## timing
+
+0.23 1.87 غزوة أحد
+2.17 3.87 استعداد قريش
+3.87 5.99 لمعركة ناقمة‏
+6.12 9.18 كانت مكة تحترق غيظاً على المسلمين
+9.43 11.78 مما أصابها في معركة بدر
+12.01 13.7 من مأساة الهزيمة
+13.81 15.81 وقتل الصناديد والأشراف،
+16.49 20.12 وكانت تجيش فيها نزعات الانتقام وأخذ الثأر،
+20.83 24.1 فاتفقت على أن تقوم بحرب على المسلمين
+24.33 25.71 تشفي غيظها
+25.97 28.02 وتروي غلة حقدها،
+28.25 30.02 وأخذت في الاستعداد
+30.2 32.38 وكان عكرمة بن أبي جهل،
+32.7 34.23 وصفوان بن أمية،
+34.39 36.06 وأبو سفيان بن حرب،
+36.27 38.17 وعبد الله بن أبي ربيعة
+38.32 41.61 أكثر زعماء قريش نشاطاً وتحمساً
+41.78 43.22 لخوض المعركة‏.‏
+43.4 45.16 ولما استدارت السنة
+45.67 48.12 كانت مكة قد استكملت عدتها،
+48.61 51.03 واجتمع إليها من المشركين
+51.03 53.04 ثلاثة آلاف مقاتل
+53.34 54.37 من قريش
+54.59 56.84 والحلفاء والأحابيش،
+57.62 58.86 وفي هذا الجيش
+59.04 60.86 ثلاثة آلاف بعير،
+61.07 62.3 ومائتا فرس ،
+62.56 64.62 ومعهم سبعمائة درع‏.‏
+65.18 68.68 وكانت القيادة العامة إلى أبي سفيان بن حرب،
+69.06 70.68 وقيادة الفرسان
+70.89 72.56 إلى خالد بن الوليد
+72.71 75.74 يعاونه عكرمة بن أبي جهل‏.‏
+76 77.16 أما اللواء
+77.16 79.39 فكان إلى بني عبد الدار‏.‏
+79.48 82.36 وتحرك الجيش المكي نحو المدينة،
+82.7 84.91 وكان العباس بن عبد المطلب
+85.26 87.92 يرقب حركات قريش العسكرية،
+88.21 92.84 فبعث رسالة مستعجلة إلى النبي صلى الله عليه وسلم
+93.05 95.54 ضمنها جميع تفاصيل الجيش‏.‏
+96.18 99.23 استعداد المسلمين للطوارئ‏‏
+99.43 102.6 وظلت المدينة في حالة استنفار عام
+103.05 105.3 لا يفارق رجالها السلاح
+105.58 107.28 حتى وهم في الصلاة،
+107.54 109.1 استعداداً للطوارئ‏.‏
+110.03 112.09 وقامت مفرزة من الأنصار
+112.44 114.18 فيهم سعد بن معاذ،
+114.18 115.91 وأسيد بن حضير،
+115.91 117.22 وسعد بن عبادة
+117.53 120.54 بحراسة رسول الله صلى الله عليه وسلم ،
+120.99 122.95 فكانوا يبيتون على بابه
+123.29 124.87 وعليهم السلاح‏.‏
+125 128.79 واصل جيش مكة سيره حتى اقترب من المدينة،
+129.1 131.16 ونزل قريباً من جبل أحد،
+131.3 133.7 في مكان يقال له‏:‏ عَينَيْن،
+134.05 137.76 فعسكر هناك يوم الجمعة السادس من شهر شوال
+138.07 139.84 سنة ثلاث من الهجرة‏.‏
+140.36 143.3 فلما علم النبي صلى الله عليه وسلم
+143.53 145.23 بنزول جيش مكي
+145.4 148.1 أمر الناس بالتهيؤ لعدوهم،
+148.46 149.77 ثم دخل بيته،
+150.15 152.88 ومعه صاحباه أبو بكر وعمر،
+153.29 154.96 فعمماه وألبساه،
+155.14 157.05 فتدجج بسلاحه
+157.32 158.59 وتقلد السيف،
+158.89 160.52 ثم خرج على الناس‏.‏
+160.81 164.23 وقسم النبي صلى الله عليه وسلم جيشه
+164.48 166.09 إلى ثلاث كتائب‏:‏
+166.41 167.96 1‏.‏ كتيبة المهاجرين،
+168.33 170.41 2‏.‏ كتيبة الأوس من الأنصار،
+170.75 172.79 3‏.‏ كتيبة الخزرج من الأنصار .
+173.22 176.1 وكان قوام الجيش ألف مقاتل
+176.43 178.11 فيهم مائة دارع،
+178.29 179.86 وخمسون فارسا
+180.47 182.07 وأذن بالرحيل،
+182.42 183.88 فتحرك الجيش
+183.88 185.05 نحو الشمال،
+
+# غزوة أحد - ٢ [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F35_2.mp3?alt=media&token=9e67ddaa-4ada-4fde-a5ac-ad79ca56d537]
+
+## timing
+
+0.3 2.37 تمرد عبد الله بن أبي
+2.37 3.83 وأصحابه‏
+4.26 8.24 فلما كان بمقربة من العدو يراهم ويرونه،
+8.63 11.52 تمرد عبد الله بن أبي المنافق،
+11.74 14.36 فانسحب بنحو ثلث العسكر
+14.47 16.27 ثلاثمائة مقاتل
+16.48 17.26 قائلاً‏:‏
+17.26 19.97 ما ندري علام نقتل أنفسنا ‏؟‏
+20.12 24.95 وكان هدفه أن يحدث البلبلة والإضطراب في جيش المسلمين
+25.09 27.52 على مرأى ومسمع من عدوهم
+27.8 32 حتى ينحاز عامة الجيش عن النبي صلى الله عليه وسلم
+32.31 35.01 وتنهار معنويات من يبقي معه
+35.27 38.24 بينما يتشجع العدو وتعلو همته
+38.83 40.49 وهمت طائفتان
+40.6 42.49 بنو حارثة من الأوس،
+42.68 44.7 وبنو سلمة من الخزرج
+44.88 46.06 أن تفشلا،
+46.39 48.49 ولكن الله تولاهما،
+48.55 51.74 فثبتتا بعدما سري فيهما الاضطراب،
+51.94 54.21 وهمتا بالرجوع والانسحاب،
+54.66 56.97 وعنهما يقول الله تعالي‏:‏ ‏
+57.4 61.99 {‏إِذْ هَمَّت طَّآئِفَتَانِ مِنكُمْ أَن تَفْشَلاَ
+62.24 64.47 وَاللهُ وَلِيُّهُمَا
+64.65 67.97 وَعَلَى اللهِ فَلْيَتَوَكَّلِ الْمُؤْمِنُونَ‏}‏ ‏[‏آل عمران‏:‏ 122‏]‏‏.‏
+68.33 72.74 وفي هؤلاء المنافقين يقول الله تعالى ‏:‏ ‏
+72.96 75.99 {‏وَلْيَعْلَمَ الَّذِينَ نَافَقُواْ
+76.19 81.73 وَقِيلَ لَهُمْ تَعَالَوْاْ قَاتِلُواْ فِي سَبِيلِ اللهِ أَوِ ادْفَعُواْ
+82.08 86.03 قَالُواْ لَوْ نَعْلَمُ قِتَالاً لاَّتَّبَعْنَاكُمْ
+86.41 90.51 هُمْ لِلْكُفْرِ يَوْمَئِذٍ أَقْرَبُ مِنْهُمْ لِلإِيمَانِ
+91.2 93.37 يَقُولُونَ بِأَفْوَاهِهِم
+93.56 95.9 مَّا لَيْسَ فِي قُلُوبِهِمْ
+96.14 99.06 وَاللهُ أَعْلَمُ بِمَا يَكْتُمُونَ‏}‏ ‏[‏آل عمران‏:‏ 167‏]‏‏.‏
+99.06 104.79 وواصل النبي صلى الله عليه وسلم سيره نحو العدو ببقية الجيش
+105.05 107.06 وهم سبعمائة مقاتل
+107.26 109.01 حتى نزل الشعب
+109.01 110.48 من جبل أحد
+110.59 112.5 خطة الدفاع‏
+112.67 117.04 وهناك عبأ رسول الله صلى الله عليه وسلم جيشه،
+117.36 119.84 وهيأهم صفوفاً للقتال،
+120.38 123.95 فانتخب منهم فصيلة من الرماة الماهرين،
+124.15 126.43 قوامها خمسون مقاتلاً،
+126.87 129.44 وأمرهم بالتمركز على جبل
+129.61 132.82 يقع على الضفة الجنوبية من وادي قناة
+133.25 134.79 ثم قال للرماة‏:‏ ‏‏
+134.9 136.79 (‏احموا ظهورنا،
+136.86 139.01 فإن رأيتمونا نقتل
+139.01 140.79 فلا تنصرونا،
+141.18 143.32 وإن رأيتمونا قد غنمنا
+143.32 145.07 فلا تشركونا‏
+145.46 148.82 ولا تبرحوا حتى أرسل إليكم)‏‏.‏
+148.82 151.85 فجعل على الميمنة المنذر بن عمرو،
+152.03 155.2 وجعل على الميسرة الزبير بن العوام،
+155.38 157.79 يسانده المقداد بن الأسود،
+158.21 159.79 وكان إلى الزبير
+160.01 163.37 مهمة الصمود في وجه فرسان خالد بن الوليد،
+163.69 165.96 وجعل في مقدمة الصفوف
+166.14 170.07 نخبة ممتازة من شجعان المسلمين ورجالاتهم
+170.44 172.89 المشهورين بالنجدة والبسالة.
+
+# غزوة أحد - ٣ [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F35_3.mp3?alt=media&token=a6f84513-bc58-4893-9db9-bef5b1092d76]
+
+## timing
+
+0.09 4.53 وحرض النبي صلى الله عليه وسلم أصحابه على القتال،
+4.97 6.83 وحضهم على المصابرة
+7.31 8.99 وتقارب الجمعان
+9.3 11.05 وتدانت الفئتان،
+11.25 13.39 وبدأت مراحل القتال،
+13.51 15.49 وكان أول وقود المعركة
+15.93 17.6 حامل لواء المشركين
+18.03 20.38 طلحة بن أبي طلحة العبدري،
+20.65 22.53 خرج يدعو إلى المبارزة،
+22.99 24.71 يتقدم إليه الزبير
+25.1 26.55 فألقاه عن جمله
+26.77 28.34 وذبحه بسيفه‏.‏
+28.56 32.07 وقال النبي صلى الله عليه وسلم في حقه‏:‏ ‏‏
+32.73 35.41 (‏إن لكل نبي حوارياً،
+35.8 37.79 وحواري الزبير‏)‏ ‏.‏
+38.32 40.43 ثم اندلعت نيران المعركة،
+40.59 42.66 واشتد القتال بين الفريقين
+43.12 47.76 وتعاقب بنو عبد الدار لحمل اللواء بعد قتل قائدهم طلحة
+47.94 50.21 وقاتل حمزة بن عبد المطلب
+50.58 52.69 قتال الليوث المهتاجة،
+52.91 54.93 حتى سقط شهيدا
+55.14 57.32 فقد كمن له وحْشِي بن حرب‏‏
+57.89 61.35 غلام جبير بن مُطْعِم في بعد مواقع المعركة
+61.54 64.88 بعد أن وعده سيده بالعتق إن قتل حمزة .
+65.48 69.03 فلما رآه عائدا من قتل صباء عبد العزّ ,
+69.18 70.52 رماه بحربته
+70.8 72.57 فأصابه في أحشاء .
+72.77 74.27 فمات منها .
+74.27 76.62 وقاتل يومئذ أبو بكر،
+76.89 78.5 وعمر بن الخطاب،
+78.5 80.03 وعلى بن أبي طالب،
+80.28 82.12 والزبير بن العوام،
+82.12 83.51 ومصعب بن عمير،
+83.81 85.65 وطلحة بن عبيد الله،
+85.81 87.67 وعبد الله بن جحش،
+87.71 89.27 وسعد بن معاذ،
+89.27 90.95 وسعد بن عبادة،
+90.95 92.7 وسعد بن الربيع،
+92.7 93.96 وأنس بن النضر
+93.96 95.4 وأمثالهم
+95.4 96.34 قتالاً
+96.34 98.41 فَلَّ عزائم المشركين،
+98.41 100.41 وفتَّ في أعضادهم‏.‏
+101.32 103.92 وكان من الأبطال المغامرين يومئذ
+104.17 105.76 حَنْظَلة الغَسِيل
+106.01 108.27 وهو حنظلة بن أبي عامر،
+108.71 110.84 كان حديث عهد بالعُرْس،
+111.16 113.17 فلما سمع هواتف الحرب
+113.42 114.92 وهو على امرأته
+115.32 117.58 قام من فوره إلى الجهاد،
+118.02 119.06 فقاتل
+119.28 121.42 حتى قتل شهيدا .
+121.67 124.87 الهزيمة تنزل بالمشركين‏‏
+125.22 129.58 وظل الجيش الإسلامي الصغير مسيطرًا على الموقف كله
+130.05 133.02 حتى خارت عزائم أبطال المشركين،
+133.42 135.67 كأن ثلاثة آلاف مشرك
+136.05 138.42 يواجهون ثلاثين ألف مسلم
+138.93 141.21 فأخذت قريش في الإنسحاب
+141.5 143.08 ولجأت إلى الفرار،
+143.35 144.49 ثم وقعت
+144.49 146.75 من أغلبية فصيلة الرماة
+147.1 148.68 غلطة فظيعة
+148.9 150.68 قلبت الوضع تماماً،
+150.89 154.37 وأدت إلى إلحاق الخسائر الفادحة بالمسلمين،
+154.6 159.28 فغادر أربعون رجلاً من هؤلاء الرماة مواقعهم من الجبل،
+159.49 161.64 ليشاركوه في جمع الغنائم‏.‏
+161.82 165.73 وانتهز خالد بن الوليد هذه الفرصة الذهبية،
+165.82 167.97 فاستدار بسرعة خاطفة
+167.97 170.92 حتى وصل إلى مؤخرة الجيش المسلمين،
+171.23 173.99 فلم يلبث أن أباد الرماة الباقين
+174.24 176.79 ثم انقض على المسلمين من خلفهم،
+176.95 178.79 وأحيط المسلمون
+178.88 180.79 من الأمام والخلف،
+
+# غزوة أحد - ٤ [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F35_4.mp3?alt=media&token=d0c3c514-1410-412d-a830-48099662940b]
+
+## timing
+
+0.08 2.08 موقف الرسول الباسل
+2.42 4.45 إزاء عمل التطويق‏
+4.54 8.42 وكان رسول الله صلى الله عليه وسلم حينئذ
+8.52 11 في مفرزة صغيرة من أصحابه
+11.13 12.87 في مؤخرة المسلمين ،
+13.27 16.79 إذ بوغت بفرسان خالد مباغتة كاملة،
+16.79 22.84 وهناك تجلت عبقرية الرسول صلى الله عليه وسلم وشجاعته المنقطعة النظير،
+23.28 25.84 فقد رفع صوته ينادي أصحابه‏:‏ ‏‏
+26.28 27.89 (عباد الله‏)‏،
+27.89 29.73 (عباد الله‏)‏،
+29.73 33.58 فعادت إلى جنود المسلمين روحهم المعنوية،
+33.6 35.59 ورشدهم وصوابهم،
+35.84 37.4 وأخذوا سلاحهم،
+37.63 40.67 يحاولون شق الطريق إلى مقر القيادة،
+41.04 43.36 فنجحوا في الإفلات من التطويق،
+43.54 45.78 وجالدوا بضراوة بالغة‏.‏
+45.96 51.46 وكانت هناك طائفة لم يكن يهمهم إلا رسول الله صلى الله عليه وسلم‏.‏
+51.96 53.7 وفى مقدمة هؤلاء
+53.95 55.63 أبو بكر الصديق،
+55.67 57.09 وعمر بن الخطاب،
+57.2 58.88 وعلي بن أبي طالب
+58.88 60.19 وغيرهم
+60.34 62.79 كانوا فى مقدمة المقاتلين،
+62.96 65.82 فلما أحسوا بالخطر على ذاته الشريفة
+66.06 66.83 صاروا
+66.92 68.83 فى مقدمة المدافعين‏.‏
+68.9 73.78 احتدام القتال حول رسول الله‏‏ صلى الله عليه وسلم
+73.78 77.64 أفرد رسول الله صلى الله عليه وسلم يوم أحد
+77.74 81.57 في سبعة من الأنصار ورجلين من قريش،
+81.87 83.92 فلما رهقوه قال‏:‏ ‏‏
+84.52 87.66 (‏من يردهم عنا وله الجنة ‏؟‏
+87.97 90.5 أو وهو رفيقي في الجنة ‏؟‏‏)‏
+90.69 94.51 فتقدم رجل من الأنصار فقاتل حتى قتل
+94.79 96.32 ثم رهقوه أيضاً
+96.62 99.29 فلم يزل كذلك حتى قتل السبعة،
+99.64 104.18 فقال رسول الله صلى الله عليه وسلم لصاحبيه القرشيين‏:‏ ‏‏
+104.44 106.67 (‏ما أنصفنا أصحابنا‏)‏ ‏.‏
+107.19 111.25 وبقي الرسول صلى الله عليه وسلم في القرشيين
+111.54 113.52 طلحة ابن عبيد الله
+113.52 115.49 وسعد بن أبي وقاص
+116.11 118.28 وطمع المشركون في القضاء عليه
+119.02 121.76 فرماه عتبة بن أبي وقاص بالحجارة
+122.16 123.46 فوقع لشقه،
+123.46 126.4 وأصيبت رباعيته اليمنى السفلى،
+126.4 128.58 وكُلِمَتْ شفته السفلي،
+128.58 130.02 فَشَجَّه في جبهته،
+130.02 132.57 وجاء عبد الله بن قَمِئَة،
+132.67 135.67 فضرب على عاتقه بالسيف ضربة عنيفة
+136.06 140.15 ثم ضرب على وجنته صلى الله عليه وسلم ضربة أخري
+140.36 143.99 حتى دخلت حلقتان من حلق المِغْفَر في وجْنَتِه،
+144.22 147.23 وكان صلى الله عليه وسلم يقول:‏ ‏‏
+147.84 150.06 ‏‏(‏اللهم اهد قومي
+150.24 152.25 فإنهم لا يعلمون‏)‏‏.‏
+152.48 154.62 وقام سعد بن أبي وقاص
+155.05 158.23 وطلحة بن عبيد الله ببطولة نادرة،
+158.52 161.16 وقام المسلمون ببطولات نادرة
+161.37 162.96 وتضحيات رائعة،
+162.99 168.11 وكان أبو طلحة يسور نفسه بين يدي رسول الله صلى الله عليه وسلم،
+168.33 171.5 ويرفع صدره ليقيه من سهام العدو‏.‏
+171.84 176.14 وقام أبو دجانة أمام رسول الله صلى الله عليه وسلم،
+176.43 178.27 فَتَرَّسَ عليه بظهره‏.‏
+178.31 181.43 والنبل يقع عليه وهو لا يتحرك‏.‏
+181.43 185.59 وتبع حاطب بن أبي بلتعة عتبة بن أبي وقاص
+185.92 188.19 الذي كسر الرَّباعية الشريفة
+188.65 191.18 فضربه بالسيف حتى طرح رأسه،
+191.62 194.31 وكان رسول الله صلى الله عليه وسلم
+194.48 196.69 يباشر الرماية بنفسه،
+196.69 198.85 وقاتل عبد الرحمن بن عوف
+198.85 201.45 وجرح عشرين جراحة أو أكثر،
+201.71 203.46 وقاتلت أم عمارة
+203.56 206.56 فاعترضت لابن قَمِئَة في أناس من المسلمين،
+206.56 209.2 فضربها ابن قمئة على عاتقها
+209.36 211.71 ضربة تركت جرحاً أجوف،
+211.71 214.07 وبقيت تقاتل حتى أصابها
+214.07 215.7 اثنا عشر جرحاً‏.‏
+215.94 219.28 وقاتل مصعب بن عمير بضراوة بالغة،
+219.49 221.22 وكان اللواء بيده،
+221.22 224.52 فضربوه على يده اليمني حتى قطعت،
+224.82 226.88 فأخذ اللواء بيده اليسري،
+227.1 228.32 حتى قطعت
+228.74 231.68 ثم برك عليه بصدره وعنقه
+231.7 232.95 حتى قتل.
+232.95 238.49 ثم شاع خبر مقتل النبي صلى الله عليه وسلم في المشركين والمسلمين‏.‏
+239.02 242.72 فخارت عزائم كثير من الصحابة المطوقين،
+242.72 244.81 وانهارت معنوياتهم،
+244.99 247.7 الرسول صلى الله عليه وسلم
+247.71 250.53 يواصل المعركة وينقذ الموقف‏
+250.94 252.59 ولما قتل مصعب
+253.12 257.68 أعطي رسول الله صلى الله عليه وسلم اللواء على بن أبي طالب،
+258.26 260.14 فقاتل قتالاً شديداً،
+260.48 263.42 واستطاع رسول الله صلى الله عليه وسلم
+263.77 266.44 أن يشق الطريق إلى جيشه المطوق،
+266.82 268.23 فأقبل إليهم
+268.4 270.22 فعرفه كعب بن مالك
+270.52 272.42 فنادي بأعلى صوته‏:‏
+272.49 274.21 يا معشر المسلمين
+274.38 275.38 أبشروا،
+275.47 279.4 هذا رسول الله صلى الله عليه وسلم،
+279.69 283.12 فلاذ إليه المسلمون حتى تجمع حوله
+283.27 285.73 نحو ثلاثين رجلاً من الصحابة‏.‏
+285.95 289.05 فأخذ رسول الله صلى الله عليه وسلم
+289.23 291.93 في الانسحاب المنظم إلى شعب الجبل،
+292.28 295.16 فتقدم عثمان بن عبد الله بن المغيرة
+295.34 297.12 أحد فرسان المشركين
+297.39 300.97 إلى رسول الله صلى الله عليه وسلم وهو يقول‏:‏
+300.97 302.76 لا نجوت إن نجا‏.‏
+302.76 306.57 وقام رسول الله صلى الله عليه وسلم لمواجهته،
+306.92 309.53 إلا أن الفرس عثرت في بعض الحفر،
+309.79 311.85 فنازله الحارث بن الصِّمَّة،
+312.01 314.15 فضرب على رجله فأقعده،
+314.4 317.09 ثم أجهز عليه وأرداه قتيلا
+317.61 320.18 ثم جاء أبي بن خلف ويقول‏:‏
+320.34 321.43 أين محمد ‏؟‏
+321.79 323.36 لا نجوتُ إن نجا‏.‏
+323.79 325.16 فلما دنا منه
+325.37 328.56 تناول رسول الله صلى الله عليه وسلم
+328.56 331.02 الحربة من الحارث بن الصمة،
+331.13 333.62 ثم استقبله فطعنه طعنة
+334.05 336.59 تدحرج منها عن فرسه مراراً‏.‏
+336.91 339.09 فلما رجع إلى قريش قال‏:‏
+339.09 340.66 آه
+341.04 343.42 قتلني والله محمد،
+343.42 344.46 فقالوا له‏:‏
+344.46 346.34 والله ما بك من بأس،
+346.34 347.26 قال‏:‏
+347.34 350.17 إنه قد كان قال لي بمكة‏:‏‏‏
+350.22 351.66 (‏أنا أقتلك‏)‏ ،
+351.66 354.36 فوالله لو بصق على لقتلني‏.‏
+354.36 356.71 فمات عدو الله بسَرِف .
+
+# غزوة أحد - ٥‎ [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F35_5.mp3?alt=media&token=75023f74-8803-49f5-bcf2-54845b728ed3]
+
+## timing
+
+0.09 3.71 واشتغل المشركون ونساؤهم بقتلي المسلمين،
+4.04 5.36 يمثلون بهم،
+5.68 8.91 ويقطعون الآذان والأنوف والفروج،
+8.91 10.56 ويبقرون البطون‏.‏
+11 13.95 وبقرت هند بنت عتبة كبد حمزة
+14.17 15.18 فلاكتها،
+15.36 17.22 فلم تستطع أن تسيغها
+17.63 18.82 فلفظتها،
+19.11 21.28 واتخذت من الآذان والأنوف
+21.64 23.44 خلاخيل وقلائد‏.‏
+23.62 25.84 وجاءت نسوة من المؤمنين
+25.93 28.55 إلى ساحة القتال بعد نهاية المعركة،
+28.89 29.67 منهن
+29.9 32.01 عائشة بنت أبي بكر
+32.11 33.1 وأم سليم،
+33.3 34.3 وأم أيمن,
+34.48 36.31 يسقين المقاتلين
+36.54 38.27 ويسعفن الجرح.
+38.95 41.44 جمع الشهداء ودفنهم‏‏
+42.14 46.19 وأشرف رسول الله صلى الله عليه وسلم على الشهداء
+46.45 47.27 فقال‏:‏ ‏‏
+47.61 49.73 (‏أنا شهيد على هؤلاء،
+50.46 53.23 إنه ما من جريح يُجْرَح في الله
+54.03 57.19 إلا والله يبعثه يوم القيامة،
+57.48 58.81 يَدْمَي جُرْحُه،
+59.15 60.86 اللون لون الدم،
+61.19 63.4 والريح ريح المِسْك‏)‏ ‏.‏
+64.47 68.36 وكان يدفن الاثنين والثلاثة في القبر الواحد،
+68.84 72.16 ويجمع بين الرجلين في ثوب واحد،
+72.51 73.36 وقال‏:‏
+74.31 77.17 ‏‏(‏أنا شهيد على هؤلاء يوم القيامة‏)‏ ‏.‏
+77.52 80.72 ودفن عبد الله بن عمرو بن حرام
+80.9 83.79 وعمرو بن الجموح في قبر واحد
+83.99 86.59 لما كان بينهما من المحبة ‏.‏
+87.02 90.76 ثم أمر بدفن حمزة مع عبد الله بن جحش
+90.99 92.69 قال ابن مسعود‏:‏
+92.83 97.09 ما رأينا رسول الله صلى الله عليه وسلم باكياً قط
+98.02 101.77 أشد من بكائه على حمزة بن عبد المطلب‏.‏
+102.73 104.25 وضعه في القبلة،
+104.84 106.65 ثم وقف على جنازته
+107.09 109.84 وانتحب حتى شهق من البكاء‏.‏
+109.98 114.05 ثم قال رسول الله صلى الله عليه وسلم‏ لأصحابه:‏ ‏‏
+114.4 115.38 (‏استووا
+116.17 119.64 حتى أثني على ربي عز وجل‏)‏،
+120.43 122.93 فصاروا خلفه صفوفاً،
+123.38 124.6 فقال‏:‏
+125.23 127.97 ‏‏(‏اللهم لك الحمد كله،
+129.27 132.12 اللهم لا قابض لما بسطت،
+133.17 135.57 ولا باسط لما قبضت،
+136.28 139 ولا هادي لمن أضللت،
+139.71 142.1 ولا مضل لمن هديت،
+142.15 145.04 ولا معطي لما منعت،
+145.56 148.61 ولا مانع لما أعطيت،
+148.84 151.84 ولا مقرب لما باعدت،
+152.1 154.91 ولا مبعد لما قربت‏.‏
+155.62 161.6 اللهم ابسط علينا بركاتك ورحمتك وفضلك ورزقك‏)‏‏.‏
+163.41 167.18 ولما فرغ رسول الله صلى الله عليه وسلم‏
+167.53 171.8 من دفن الشهداء والثناء على الله والتضرع إليه،
+171.93 174.41 انصرف راجعاً إلى المدينة.
+176.84 178.8 قتلى الفريقين‏‏
+180 184.46 اتفقت الروايات على أن قتلي المسلمين كانوا سبعين،
+184.89 187.83 وكانت الأغلبية الساحقة من الأنصار؛
+188.31 191.23 فقد قتل منهم خمسة وستون رجلاً،
+191.69 194.07 واحد وأربعون من الخزرج،
+194.41 196.83 وأربعة وعشرون من الأوس،
+197.32 199.36 وقتل رجل من اليهود‏.‏
+200.02 202.2 وأما شهداء المهاجرين
+202.4 204.47 فكانوا أربعة فقط‏.‏
+204.77 206.51 أما قتلي المشركين
+206.74 209.17 فإن الإحصاء الدقيق يفيد
+209.23 211.9 أن عددهم سبعة وثلاثون،
+212.15 213.34 والله أعلم ‏.‏
+213.51 216.08 حالة الطوارئ في المدينة‏‏
+216.27 220.45 بات المسلمون في المدينة بعد الرجوع من معركة أحد
+220.77 222.45 وهم في حالة الطوارئ،
+222.97 225.87 يحرسون أنقاب المدينة ومداخلها،
+226.33 228.55 ويحرسون قائدهم الأعلى
+228.8 232.43 رسول الله صلى الله عليه وسلم خاصة.
+
+# السرايا والبعوث بين أحد والأحزاب [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F36.mp3?alt=media&token=d48080ab-6894-4eda-ae78-9b88885912bc]
+
+## timing
+
+0.14 4.22 السرايا والبعوث بين أحد والأحزاب
+4.48 6.32 كان لمأساة أحد
+6.49 9.65 أثر سيئ على سمعة المؤمنين،
+10 11.65 فقد ذهبت ريحهم،
+11.89 14.38 وزالت هيبتهم عن النفوس،
+14.55 18.44 وزادت المتاعب الداخلية والخارجية عليهم
+18.66 21.84 وأحاطت الأخطار بالمدينة من كل جانب،
+22.1 26.16 وكاشف اليهود والمنافقون والأعراب المسلمين
+26.16 28.02 بالعداء السافر،
+28.4 31.98 وهمت كل طائفة منهم أن تنال من المؤمنين،
+32.1 34.89 بل طمعت في أن تقضي عليهم
+35 36.89 وتستأصل شأفتهم‏.‏
+37.35 40.75 فقد تهيأت بنو أسد للإغارة على المدينة‏.‏
+41.41 44.68 ثم قامت قبائل عَضَل وقَارَة بمكيدة
+44.92 47.56 سببت في قتل عشرة من الصحابة،
+48.31 51.15 وقامت بنو عامر بمكيدة مثلها
+51.42 54.12 سببت في قتل سبعين من الصحابة،
+54.12 55.6 في بئر مَعُونَة،
+55.91 58.49 وقامت بنو نضير بمكيدة
+58.67 62.01 تهدف إلى قتل النبي صلى الله عليه وسلم،
+62.42 64.98 وهمت بنو غَطَفَان بالغزو المدينة
+65.28 68.99 ولكن حكمة محمد صلى الله عليه وسلم
+69.21 71.26 صرفت وجوه التيارات،
+71.4 74.52 وأعادت للمسلمين هيبتهم المفقودة،
+74.78 77.69 وأكسبتهم العلو والمجد من جديد‏.‏
+78.1 81.33 فقد بعث رسول الله صلى الله عليه وسلم
+81.58 83.71 إلى بني أسد بن خزيمة
+83.91 87.55 سرية قوامها مائة وخمسون مقاتلاً
+87.86 90.94 فأصاب المسلمون إبلا وشاء لهم
+91.11 92.41 فاستاقوها،
+92.63 95.52 وعادوا إلى المدينة سالمين غانمين
+95.7 97.49 لم يلقوا حرباً‏.‏
+97.78 102.19 ثم بعث عبد الله بن أُنَيس‏‏ إلى خالد بن سفيان الهذلي
+102.77 105.34 الذي حشد الجموع لحرب المسلمين،
+105.83 107.08 وجاء برأسه،
+107.08 110.62 فوضعه بين يدي النبي صلى الله عليه وسلم
+111.14 113.46 وفي شهر صفر من السنة الرابعة
+113.81 115.6 غدر بنو لحيان
+115.76 118.66 بقراء رسول صلى الله عليه وسلم
+118.79 121.53 الذين بعثهم ليعلم المسلمين
+121.8 124.07 من عبر وقارة القرآن
+124.23 126.89 فقتل سبعة وأسر ثلاثة
+127.15 127.99 منهم
+128.18 130.82 خُبَيب وزيد بن الدَّثِنَّةِ
+131.1 132.82 فقتلوا واحدا منهم
+133.27 136.69 وانطلقوا بخبيب وزيد فباعوهما بمكة،
+137.16 140.01 وكانا قتلا من رءوسهم يوم بدر،
+140.32 143.92 فأما خبيب فمكث عندهم مسجوناً،
+144.19 145.9 ثم أجمعوا على قتله،
+146.21 148.99 فخرجوا به من الحرم إلى التنعيم،
+149.21 152.13 فلما أجمعوا على صلبه قال ‏:‏
+152.74 155.5 دعوني حتى أركع ركعتين،
+155.75 157.82 فتركوه فصلاهما،
+158.09 159.27 ثم قال‏:‏
+159.52 162.04 اللهم أحْصِهِمْ عَدَدًا،
+162.65 164.63 واقتلهم بَدَدًا ،
+165.34 167.11 ولا تُبْقِ منهم أحدا،
+168.46 171.75 إلى اللَّه أشكو غربتي بعد كربتي
+172.72 176.19 وما جمع الأحزاب لي عند مضجعي
+177.56 181 وقد خيروني الكفر والموت دونه
+181.54 185.38 فقد ذرفت عيناي من غير مدمع
+185.5 189.07 ولست أبالي حين أقتل مسلما
+189.35 193.01 على أي شق كان في اللَّه مصرع
+193.93 197.34 وذلك في ذات الإِله وإن يشأ
+197.86 199.08 يبارك
+199.33 201.87 على أوصال شلو
+202 203.09 ممزع
+203.27 205.64 فقال له أبو سفيان‏:‏
+205.69 208.69 أيسرك أن محمدا عندنا
+208.9 210.53 نضرب عنقه،
+210.55 212.3 وأنك في أهلك‏؟‏
+212.44 213.48 فقال‏:‏
+213.48 215.86 لا والله، ما يسرني أني في أهلي
+216.04 218.99 وأن محمداً في مكانه الذي هو فيه
+219.11 221.29 تصيبه شوكة تؤذيه‏.‏
+221.32 223.23 ثم صلبوه
+223.24 225.98 ووكلوا به من يحرس جثته،
+226.46 228.57 وأما زيد بن الدَّثِنَّة
+228.63 230.96 فابتاعه صفوان بن أمية
+231.14 232.88 فقتله بأبيه‏.
+
+# مأساة بئر مَعُونة‏ [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F37.mp3?alt=media&token=8d5fdca8-b8c8-4e81-bd70-bb7a8b25c592]
+
+## timing
+
+0.18 3.03 مأساة بئر مَعُونة‏
+4.05 8.01 وفي الشهر نفسه وقعت مأساة أخري أشد وأفظع
+8.18 9.76 ذهب ضحيتها
+10.02 12.95 سبعون رجلا من خيار المسلمين
+13.53 14.79 وفضلائهم
+14.79 16.87 وساداتهم وقرائهم،
+17.6 19.13 نزلوا عنذ بئر معونة
+19.24 20.43 وهي أرض
+20.71 23.75 بين بني عامر وحَرَّة بني سُلَيْم
+24.26 26.61 فلما علم بهم عدو الله
+26.64 28.3 عامر بن الطُّفَيْل،
+28.56 30.3 استنفر بني سليم،
+30.3 33.43 فأجابته عُصَيَّة ورِعْل وذَكَوان،
+33.86 38.33 فجاءوا حتى أحاطوا بأصحاب رسول الله صلى الله عليه وسلم،
+38.7 41.39 فقاتلوا حتى قتلوا عن آخرهم
+41.74 44.14 إلا كعب بن زيد بن النجار،
+44.47 46.96 فإنه حمل جريحا وبه رمق .
+47.33 49.92 فعاش حتى قتل يوم الخندق‏.‏
+50.29 53.5 وقد تألم النبي لأجل هذه المأساة،
+53.76 55.57 ولأجل مأساة الرجيع
+55.88 60.73 اللتين وقعتا خلال أيام معدودة ، تألما شديداً،
+61.42 63.66 وتغلب عليه الحزن والقلق ،
+63.91 67.2 حتى دعا على هؤلاء القوم والقبائل
+67.57 71.02 التي قامت بالغدر والفتك في أصحابه‏.‏
+71.06 72.8 ثلاثين صباحاً،
+73.18 75.78 يدعو في صلاة الفجر على رِعْل
+76.04 78.74 وذَكْوَان ولَحْيَان وعُصَية،
+79.07 80.15 ويقول‏:‏‏‏
+80.44 81.55 (‏عُصَية
+81.76 83.88 عَصَتْ الله ورسوله‏)‏.
+
+# غزوة بدر الثانية‏‏ [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F38.mp3?alt=media&token=1fe8f341-fd5b-4ca7-9461-2b912d6273ff]
+
+## timing
+
+0.09 2.53 غزوة بدر الثانية‏‏
+3.6 4.81 في شعبان
+4.86 6.67 سنة 4ه
+7.1 10.14 خرج رسول الله صلى الله عليه وسلم
+10.55 13.59 لموعده في ألف وخمسمائة،
+13.74 16.31 وكانت الخيل عشرة أفراس،
+16.75 18.35 وحمل لواءه
+18.51 20.35 على بن أبي طالب،
+20.48 21.99 وانتهي إلى بدر،
+22.25 24.94 فأقام بها ينتظر المشركين‏.‏
+25.24 27.09 فخرج أبو سفيان
+27.28 29.68 في ألفين من مشركي مكة،
+30.15 32.31 ومعهم خمسون فرساً،
+32.67 34.9 حتى انتهي إلى مَرِّ الظَّهْرَان
+35.15 37.19 على بعد مرحلة من مكة
+37.44 39.19 فأحس بالرعب،
+39.6 42.31 واستولت على مشاعره الهيبة،
+42.58 44.04 وخار عزمه،
+44.6 46.2 فاحتال للرجوع،
+46.41 47.76 وقال لأصحابه‏:‏
+48.01 49.86 يا معشر قريش،
+50.3 54.61 إنه لا يصلحكم إلا عام خصب ترعون فيه الشجر،
+54.77 56.87 وتشربون فيه اللبن،
+57.07 59.71 وإن عامكم هذا عام جدب،
+59.86 62.06 وإني راجع فارجعوا‏.‏
+62.06 63.1 فرجعوا .
+63.56 65.04 وأما المسلمون
+65.04 68.07 فأقاموا ببدر ثمانية أيام
+68.07 69.98 ينتظرون العدو،
+70.19 71.87 ثم رجعوا إلى المدينة
+72.12 75.44 وقد انتقل زمام المفاجأة إلى أيديهم،
+75.58 78.51 وتوطدت هيبتهم في النفوس،
+78.55 80.4 وسادوا على الموقف‏.‏
+80.98 83.02 وتعرف هذه الغزوة
+83.36 84.87 ببدر الموعد،
+85.05 86.47 وبدر الثانية،
+86.72 88.32 وبدر الآخرة،
+88.46 89.79 وبدر الصغرى‏.‏
+
+# غزوة الأحزاب [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F39.mp3?alt=media&token=7f2d58b2-8951-4942-8006-c21e1c42350f]
+
+## timing
+
+0.1 2.21 غزوة الأحزاب
+2.43 3.93 الخندق
+4.05 8.05 عاد اليهود لتآمر من جديد على المسلمين
+8.37 12.12 وأخذوا يعدون العدة، لتهيأة ضربة إليهم
+12.58 16.91 فخرج عشرون رجلاً من زعماء اليهود إلى قريش بمكة،
+17.26 19.61 يحرضونهم على غزو الرسول
+19.79 21.69 صلى الله عليه وسلم،
+22.02 23.83 ويوالونهم عليه،
+23.96 26.26 ووعدوهم من أنفسهم
+26.29 27.74 بالنصر لهم،
+27.83 29.74 فأجابتهم قريش،
+29.94 32.59 ثم خرج هذا الوفد إلى غَطَفَان،
+32.73 35.81 فدعاهم إلى ما دعا إليه قريشاً
+36.17 37.7 فاستجابوا لذلك،
+37.82 41.8 ثم طاف الوفد في قبائل العرب يدعوهم إلى ذلك
+41.9 44.13 فاستجاب له من استجاب،
+44.46 46.23 وخرجت من الجنوب
+46.42 49.96 قريش وكنانة وحلفاؤهم من أهل تهامة
+50.29 52.36 وقائدهم أبو سفيان
+52.56 54.34 في أربعة آلاف،
+54.52 57.79 ووافاهم بنو سليم بمَرِّ الظَّهْرَان،
+58.08 60.88 وخرجت من الشرق قبائل غطفان‏:‏
+60.96 62.81 بنو فَزَارة، يقودهم
+63.01 64.65 عُيينَة بن حِصْن،
+64.69 65.92 وبنو مُرَّة،
+65.95 67.89 يقودهم الحارث بن عوف،
+67.89 69.3 وبنو أشجع،
+69.3 70.41 يقودهم
+70.41 71.99 مِسْعَر بن رُحَيلَةِ،
+72.1 73.82 كما خرجت بنو أسد
+73.82 75.02 وغيرها‏.‏
+75.02 77.93 واتجهت هذه الأحزاب نحو المدينة
+77.93 82.38 وبعد أيام تجمع حول المدينة جيش عَرَمْرَم
+82.42 83.86 يبلغ عدده
+83.86 86.04 عشرة آلاف مقاتل،
+86.04 91.54 وسارع رسول الله صلى الله عليه وسلم إلى وضع خطة الدفاع عن المدينة،
+92.07 95.76 وبعد مناقشات جرت بين القادة وأهل الشوري
+96 97.75 اتفقوا على قرار
+97.99 100.04 قدمه الصحابي النبيل
+100.15 103.03 سلمان الفارسي رضي الله عنه‏.‏
+103.45 104.63 قال سلمان‏:‏
+104.65 106.04 يا رسول الله،
+106.37 108.35 إنا كنا بأرض فارس
+108.55 109.88 إذا حوصرنا
+109.88 111.45 خَنْدَقْنَا علينا‏.‏
+111.48 113.6 وكانت خطة حكيمة
+113.71 116.66 لم تكن تعرفها العرب قبل ذلك‏.‏
+116.82 121.72 وأسرع رسول الله صلى الله عليه وسلم إلى تنفيذ هذه الحظة،
+121.93 124.73 فوكل إلى كل عشرة رجال
+124.93 128.1 أن يحفروا من الخندق أربعين ذراعاً،
+128.81 132.67 وقام المسلمون بجد ونشاط يحفرون الخندق،
+133.14 135.96 ورسول الله صلى الله عليه وسلم
+136.33 139.66 يحثهم ويساهمهم في عملهم هذا‏.‏
+139.8 141.02 وهو يقول:
+141.75 145.03 ‏‏(‏اللهم إن العَيشَ عيشُ الآخرة،
+145.63 148.65 فاغفر للأنصار‏ والمهاجرة)‏‏.‏
+149.05 151.52 فيجيب له قائلين:
+152.04 154.97 نحن الذين بايعوا محمداً \*\*
+155.01 158.04 على الجهاد ما بقينا أبداً
+158.11 161.66 وواصل المسلمون عملهم في حفر الخندق،
+161.89 164.86 حتى تكامل حسب الخطة المنشودة،
+165.1 169.33 قبل أن يصل الجيش الوثني العرمرم إلى أسوار المدينة‏.‏
+169.96 175.94 وخرج رسول الله صلى الله عليه وسلم في ثلاثة آلاف من المسلمين،
+176.28 179.16 فجعلوا ظهورهم إلى جبل سَلْع
+179.22 180.45 فتحصنوا به،
+180.65 183.22 والخندق بينهم وبين الكفار‏.‏
+183.29 185.07 وكان شعارهم‏:‏ ‏
+185.07 186.65 حم
+186.65 188.34 لا ينصرون‏‏،
+188.46 192.98 ولما أراد المشركون مهاجمة المسلمين واقتحام المدينة،
+193.53 195.47 وجدوا خندقاً عريضاً
+195.69 197.81 يحول بينهم وبينها،
+198.46 201.54 فالتجأوا إلى فرض الحصار على المسلمين،
+202.26 206.24 وقام عمرو بن عبد وُدّ وعكرمة بن أبي جهل
+206.65 209.26 وضرار بن الخطاب وغيرهم،
+209.48 212.4 فتيمموا مكاناً ضيقاً من الخندق
+212.59 213.74 فاقتحموه،
+214 216.97 وخرج إليهم على بن أبي طالب
+217.06 219.27 في نفر من المسلمين
+219.47 221.43 فقتل علي عمرا
+221.62 223.98 وانهزم الباقون هاربين،
+224.59 228.41 وقتل في هذه الغزوة ستة من المسلمين،
+228.54 230.66 وعشرة من المشركين
+230.74 233.75 ورمي سعد بن معاذ رضي الله عنه
+233.81 236.25 بسهم فقطع منه الأكْحَل،
+236.42 240.94 ونقض كعب بن أسد القريظي زعم بني قريظة عهده،
+241.12 243.74 مع النبي صلى الله عليه وسلم
+244.01 247.32 برئ مما كان بينه وبين المسلمين،
+247.74 250.38 ودخل مع المشركين في المحاربة
+250.44 251.86 ضد المسلمين‏.‏
+251.97 256.68 وقام رجل من يهود باستطلاع حول حصن حسان بن ثابت،
+256.97 259.29 وفي الحصن النساء والصبيان،
+259.41 262.32 فرأته صفية بنت عبد المطلب
+262.51 265.28 عامة النبي صلى الله عليه وسلم
+265.42 267.02 فأخذت عامودا
+267.08 269.95 ونزلت من الحصن إليه فضربته به
+269.95 271.33 حتى قتلت .
+271.58 273 وكان المسلمون
+273.06 275.32 يدعون الله تعإلى‏:‏ ‏‏
+275.42 277.82 (‏اللهم استر عوراتنا
+278.11 279.9 وآمن روعاتنا‏)‏،
+280.09 285.35 ودعا رسول الله صلى الله عليه وسلم على الأحزاب، فقال‏:‏ ‏‏
+286.02 288.55 (‏اللهم منزل الكتاب،
+288.71 290.65 سريع الحساب،
+290.83 292.65 اهزم الأحزاب،
+293.17 295.93 اللهم اهزمهم وزلزلهم‏)‏‏.‏
+296.06 299.64 وقد سمع الله دعاء رسوله والمسلمين،
+300.34 303.01 فأرسل الله عليهم جنداً من الريح
+303.71 306 فجعلت تقوض خيامهم،
+306.36 308.1 لا تدع لهم قِدْرًا
+308.36 310.03 إلا كفأتها،
+310.2 312.39 ولا حبلا أو وتدا
+312.55 314.04 إلا قلعت .
+314.34 316.15 ولا يقر لهم قرار،
+316.33 319.82 وأرسل جنداً من الملائكة يزلزلونهم،
+319.9 321.98 ويلقون في قلوبهم
+322.13 323.75 الرعب والخوف‏.‏
+324.27 329.43 وأرسل رسول الله صلى الله عليه وسلم في تلك الليلة الباردة
+329.74 331.53 حذيفة بن اليمان
+331.53 333.3 يأتيه بخبرهم،
+333.74 336.18 فوجدهم على هذه الحال،
+336.32 338.36 وقد تهيأوا للرحيل،
+338.73 342.03 فرجع إلى رسول الله صلى الله عليه وسلم،
+342.43 344.8 فأخبره برحيل القوم،
+345.26 348.42 فأصبح رسول الله صلى الله عليه وسلم
+348.75 351.63 وقد رد الله عدوه بغيظهم
+351.66 353.58 لم ينالوا خيراً
+353.62 355.72 وكفاه الله قتالهم،
+356.01 357.72 فصدق وعده،
+357.8 359.42 وأعز جنده،
+359.54 360.99 ونصر عبده،
+361.15 363.55 وهزم الأحزاب وحده،
+363.61 366.06 فرجع إلى المدينة وقال:
+366.5 369.67 (‏الآن نغزوهم، ولا يغزونا،
+369.84 371.91 نحن نسير إليهم‏)‏‏.‏
+372.07 374.86 وكانت غزوة الخندق في شوال
+374.99 376.91 سنة خمس للهجرة .
+377.17 379.23 ودام الحصار نحو شهر.
+
+# غزوة بني المُصطلق [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F40.mp3?alt=media&token=098e429a-c23f-4ea2-9693-3e3e11aa7b1b]
+
+## timing
+
+0.13 2.14 غزوة بني المُصطلق
+2.18 4.6 أو غزوة المريسيع
+4.73 6.14 في شعبان
+6.2 8.61 سنة 6 ه
+8.66 14.01 وقعت فيها وقائع أحدثت البلبلة والاضطراب في المجتمع الإسلامي،
+14.51 17.19 وتمخضت عن افتضاح المنافقين،
+17.74 21.17 كانت هذه الغزوة في شعبان سنة ست من الهجرة
+21.42 23.1 على أصح القوال .
+23.67 24.88 وسببها
+24.97 27.83 أنه بلغه صلى الله عليه وسلم
+28.15 29.88 أن رئيس بني المصطلق
+30.15 32.34 الحارث بن أبي ضِرَار
+32.54 34.04 سار في قومه
+34.04 36.09 ومن قدر عليه من العرب
+36.32 38.75 يريدون حرب رسول الله
+38.75 42.32 ولما بلغ الحارث بن أبي ضرار ومن معه
+42.53 45.8 مسير رسول الله صلى الله عليه وسلم
+45.96 48.05 خافوا خوفاً شديداً
+48.42 51.58 وتفرق عنهم من كان معهم من العرب،
+51.76 55.06 وانتهي رسول الله صلى الله عليه وسلم
+55.06 56.58 إلى المُرَيْسِيع
+56.58 59.02 اسم لماء من مياههم
+59.02 60.47 فصَفَّ أصحابه،
+60.68 64.16 ثم أمرهم رسول الله صلى الله عليه وسلم
+64.47 66.91 فحملوا حملة رجل واحد،
+67.11 68.48 فكانت النصرة
+68.64 70.43 وانهزم المشركون،
+70.43 71.98 وقتل من قتل،
+71.98 75.85 وسبى رسول الله صلى الله عليه وسلم النساء
+75.85 78.14 والذراري والنعم والشاء،
+78.14 80.14 وكان من جملة السبي‏:‏
+80.14 83.12 جُوَيْرِيَة بنت الحارث سيد القوم .
+
+# وقعة الحديبية - ١ [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F41_1.mp3?alt=media&token=d65c6c17-11b4-4eed-961d-b3d3906c2ed6]
+
+## timing
+
+0 2.29 وقعة الحديبية
+2.57 4.19 في ذي القعدة
+4.19 6.52 سنة 6 للهجرة
+6.69 10.89 أري رسول الله صلى الله عليه وسلم في المنام،
+10.89 12.89 وهو بالمدينة،
+12.89 16.18 أنه دخل هو وأصحابه المسجد الحرام،
+16.53 18.58 وأخذ مفتاح الكعبة،
+18.58 21.05 وطافوا واعتمروا،
+21.33 22.91 وحلق بعضهم
+22.91 24.91 وقصر بعضهم،
+25.24 27.57 فأخبر بذلك أصحابه
+27.57 28.66 ففرحوا،
+28.94 32.51 وحسبوا أنهم داخلو مكة عامهم ذلك،
+32.96 34.52 وأخبر أصحابه
+34.52 36.45 أنه معتمر
+36.45 38.11 فتجهزوا للسفر‏.‏
+38.11 43.05 وركب رسول الله صلى لله عليه وسلم ناقته القَصْواء،
+43.37 46.57 وخرج يوم الإثنين غرة ذي القعدة
+46.57 48.57 سنة 6 للهجرة
+48.57 51.02 ومعه زوجته أم سلمة،
+51.02 53.49 في ألف وأربعمائة،
+53.49 55.49 ولم يخرج معه بسلاح،
+55.49 57.22 إلا السيوف في القُرُب‏.‏
+57.22 59.55 وتحرك في اتجاه مكة،
+59.55 61.55 فلما كان بذي الحُلَيْفَة
+61.77 63.71 قَلَّد الهدي وأشْعَرَه،
+63.71 65.26 وأحرم بالعمرة؛
+65.26 67.26 ليأمن الناس من حربه،
+67.26 72.1 وكانت قريش لما سمعت بخروج النبي صلى الله عليه وسلم
+72.53 75.03 قررت صد المسلمين عن البيت
+75.35 77.18 وأرسلت مائتي فارس
+77.39 79.4 بقيادة خالد بن الوليد
+79.51 81.27 في الطريق الرئيسي
+81.27 83.35 الذي يوصل إلى مكة‏.‏ ‏‏
+83.35 86.74 وأخذ رسول الله صلى الله عليه وسلم
+86.74 89.38 طريقاً وَعْرًا بين شعاب،
+89.59 93.08 وترك الطريق الرئيسي الذي يفضي إلى الحرم
+93.3 94.99 ماراً بالتنعيم،
+94.99 97.88 حتى إذا كان بثنية المرار
+97.88 99.54 بركت راحلته،
+99.54 100.67 فقال الناس‏:‏
+100.67 102.03 خلأت القصواء
+102.03 104.04 لقد بركت وخرنت
+104.42 107.34 فقال النبي صلى الله عليه وسلم‏:‏
+107.68 109.64 ‏(‏ما خلأت القصواء،
+109.79 111.68 وما ذات لها بخلق،
+111.99 112.88 ولكن
+112.88 114.94 حبسها حابس الفيل‏)‏،
+115.12 117.33 ثم زجرها فوثبت به،
+117.87 120.55 فعدل حتى نزل بأقصي الحديبية،
+120.98 125 فجاء بديل بن وَرْقَاء الخزاعي في نفر من خزاعة،
+125.35 126.16 فقال‏:‏
+126.89 129.01 إني تركت كعب ابن لؤي،
+129.14 132.04 وهم مقاتلوك وصادَوك عن البيت‏.‏
+132.2 135.5 فقال رسول الله صلى الله عليه وسلم‏:‏ ‏
+136.04 138.37 (‏إنا لم نجئ لقتال أحد،
+138.66 141.11 ولكن جئنا معتمرين،
+141.42 143.83 وإن قريشاً قد نهكتهم الحرب
+144.05 145.46 وأضرت بهم،
+146 148.3 فإن أبوا إلا القتال
+148.59 150.66 فوالذي نفسي بيده
+150.98 154.48 لأقاتلنهم على أمري هذا
+154.66 156.88 حتى تنفرد سالفتي،
+157.22 159.61 أو لينفذن الله أمره‏)‏‏.‏
+159.98 165.91 فعاد بديل إلى قريش فأخبرهم ما قال رسول الله صلى الله عليه وسلم ‏.‏
+166.56 168.97 ثم أرسلوا رجلا من كنانة
+169.2 171.23 اسمه الحُلَيْس بن علقمة‏:‏
+171.62 174.3 فلما رجع إلى أصحابه قال:
+174.95 177.56 رأيت البدن قد قلدت وأشعرت،
+177.73 179.56 وما أري أن يصدوا،
+180.04 182.94 فأرسلت قريش رسلا يفاوضون
+183.5 184.73 فكان منهم
+185.03 187.4 عروة بن مسعود الثقفي‏
+187.86 190.84 فكلم النبي صلى الله عليه وسلم ,
+191.16 193.7 ثم رجع إلى أصحابه فقال:
+193.78 195.04 أي قوم،
+195.71 198.02 والله لقد وفدت على الملوك،
+198.47 201.19 على قيصر وكسري والنجاشي،
+201.81 205.11 والله ما رأيت ملكاً يعظمه أصحابه
+205.3 208.5 ما يعظم أصحاب محمد محمداً،
+208.84 211.69 وقد عرض عليكم خطة رُشْدٍ
+211.78 213 فاقبلوها‏.‏
+213.27 217.94 ثم دعى رسول الله صلى الله عليه وسلم عثمان بن عفان
+218.24 220.79 وأرسله إلى قريش، وقال‏:‏
+221.33 224.02 أخبرهم أنا لم نأت لقتال،
+224.17 226.66 وإنما جئنا عماراً،
+226.82 228.77 وادعهم إلى الإسلام،
+228.91 232.36 وأمره أن يأتي رجالاً بمكة مؤمنين،
+232.66 234.38 ونساء مؤمنات،
+234.84 236.65 فيبشرهم بالفتح،
+237.04 239.62 ويخبرهم أن الله عز وجل
+240.03 241.77 مظهر دينه بمكة،
+242.36 245.63 حتى لا يستخفي فيها أحد بالإيمان‏.‏
+246.62 248.78 فانطلق عثمان إلى قريش
+249.17 251.4 واحتبسته قريش عندها
+251.84 253.55 فشاع بين المسلمين
+253.77 255.32 أن عثمان قتل،
+255.39 260.66 فقال رسول الله صلى الله عليه وسلم لما بلغته تلك الإشاعة‏:‏ ‏
+261.1 264.26 (‏لا نبرح حتى نناجز القوم‏)‏،
+265.21 267.68 ثم دعا أصحابه إلى البيعة،
+268.12 271.79 فثاروا إليه يبايعونه على ألا يفروا،
+272.29 274.9 وبايعته جماعة على الموت،
+275.22 278.36 وأخذ رسول الله صلى الله عليه وسلم
+278.75 280.8 بيد نفسه وقال:
+281.04 283.28 هذه عن عثمان.
+283.49 287.29 ولما تمت البيعة جاء عثمان فبايع
+287.7 292.89 ولم يتخلف عن هذه البيعة إلا رجل من المنافقين يقال له
+293.38 294.83 جذ بن قيس.
+295.21 300.02 أخذ رسول الله صلى الله عليه وسلم هذه البيعة تحت شجرة،
+300.31 304.28 وهي بيعة الرضوان التي أنزل الله فيها‏:‏
+305.02 311.02 ‏{‏لَقَدْ رَضِيَ اللَّهُ عَنِ الْمُؤْمِنِينَ إِذْ يُبَايِعُونَكَ تَحْتَ الشَّجَرَةِ‏}‏الآية ‏[‏الفتح‏:‏ 18‏]‏
+
+# وقعة الحديبية - ٢ [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F41_2.mp3?alt=media&token=bd2c195e-2c9a-48ab-880b-c568d90882e7]
+
+## timing
+
+0.08 1.89 إبرام الصلح
+1.89 3.52 وبنوده‏‏
+3.91 6.71 وعرفت قريش خراجة الموقف،
+7.15 14.01 فأسرعت إلى بعث سُهَيْل بن عمرو لعقد الصلح مع النبي صلى الله عليه وسلم ،
+14.53 17.76 فلما رآه عليه السلام قال‏:‏
+18.11 20.39 ‏(‏قد سهل لكم أمركم‏)‏،
+20.81 22.9 أراد القوم الصلح
+23.03 25.23 حين بعثوا هذا الرجل،
+25.53 28.51 فجاء سهيل فتكلم طويلاً،
+29.07 31.64 ثم اتفقا على قواعد الصلح،
+32.01 32.89 وهي:‏
+33.46 36.95 1. يرجع الرسول صلى الله عليه وسلم من عامه،
+37.03 38.67 فلا يدخل مكة،
+38.95 42.01 وإذا كان العام القابل دخلها المسلمون
+42.23 44.6 فأقاموا بها ثلاثاً،
+44.6 46.54 معهم سلاح الراكب،
+46.66 48.29 السيوف في القُرُب،
+48.29 50.93 ولا تتعرض قريش لهم
+50.93 52.17 بأي نوع من
+52.17 54.04 أنواع التعرض‏.‏
+54.13 57.29 2‏.‏ وضع الحرب بين الطرفين عشر سنين،
+57.55 59.73 يأمن فيها الناس،
+59.92 64.23 3‏.‏ من أحب أن يدخل في عقد محمد وعهده دخل فيه،
+64.74 68.31 ومن أحب أن يدخل في عقد قريش وعهدهم
+68.57 69.58 دخل فيه،
+70.25 74.12 وتعتبر القبيلة التي تنضم إلى أي الفريقين
+74.37 76.38 جزءاً من ذلك الفريق،
+76.52 80.49 فأي عدوان تتعرض له أي من هذه القبائل
+80.84 83.75 يعتبر عدواناً على ذلك الفريق‏.‏
+84.61 87.05 4‏.‏ من أتي محمداً من قريش
+87.31 89.15 من غير إذن وليه
+89.2 90.7 رده عليهم،
+90.93 94.06 ومن جاء قريشاً ممن مع محمد
+94.23 95.79 لم يرد عليه‏.‏
+95.79 99.92 وكان علي بن أبي طالب الذي كتب كتاب الصلح
+100.5 102.11 ولما تم الصلح
+102.4 106.68 دخلت خزاعة في عهد رسول الله صلى الله عليه وسلم
+107.1 109.87 ودخلت بنو بكر في عهد قريش‏.‏
+110.37 112.9 فكانت المعاهدة فتحا عظيما
+113.45 116.22 تمثل باعتراف قريش بالمسلمين
+116.29 118.12 وعجزها عن حربهم
+118.36 122.55 وتخليها عن صدارتها الدنيوية وزعامتها الدينية
+123.03 125.98 وكان هدف المسلمين من حروبهم
+126.26 130.24 ألحرية الكاملة للناس في العقيدة والدين
+130.97 133.56 {‏فَمَن شَاء فَلْيُؤْمِن
+133.85 136.24 وَمَن شَاء فَلْيَكْفُر}‏ ‏[‏الكهف‏:‏ 29‏]‏‏.‏
+136.44 138.16 لا يحول بينهم
+138.16 140.69 وبين ما يريدون أي قوة
+140.86 144.9 وقد حصل هذا الهدف بجميع أجزائه ولوازمه،
+145.61 148.73 وقد كسب المسلمون لأجل هذه الحرية
+148.98 150.95 نجاحاً كبيراً في الدعوة،
+151.59 153.91 فبينما كان عدد المسلمين
+154.36 157.47 لا يزيد على ثلاثة آلاف قبل الهدنة
+158.01 160.97 صار عدد الجيش الإسلامي في سنتين
+161.26 162.51 عند فتح مكة
+162.81 164.46 عشرة آلاف‏.‏
+165.48 167.09 أما البند الثاني
+167.42 170.96 فهو جزء ثان لهذا الفتح المبين،
+171.55 174.69 فالمسلمون لم يكونوا بادئين بالحروب،
+175.11 177.4 وإنما بدأتها قريش،
+178 180.24 يقول الله تعالى‏:‏ ‏
+181.22 184.88 {‏وَهُم بَدَؤُوكُمْ أَوَّلَ مَرَّةٍ‏}‏ ‏[‏التوبة‏:‏ 13‏]‏،
+185.25 188.41 فالعقد بوضع الحرب عشر سنين
+188.72 191.92 حد لغطرسة قريش وصدها ،
+192.4 195.06 ودليل على فشل من بدأ الحرب
+195.34 197.23 وضعفه وانهياره‏.‏
+198.12 199.64 أما البند الأول
+199.83 203.61 فهو حد لصد قريش عن المسجد الحرام،
+203.8 205.03 فهو أيضاً
+205.13 206.79 فشل لقريش،
+207.25 209.17 إن هدنة الحديبية
+209.5 214 كانت بداية طور جديد في الحياة الإسلام والمسلمين
+214.93 220.74 فقد كانت قريش أقوى قوة وأعندها وألدها في علاء الإسلام
+221.48 226.16 وبإنسحابها من ميدان الحرب إلى رحاب الأمن والسلام
+226.75 231.12 إنكسر أقوى جناح من أحنحة ثلاثة
+231.69 234.35 قريس وغطفان واليهود .
+235.53 242.08 ولما كانت قريش ممثلة للوثانية والزعامتها في ربوع جزيرة العرب .
+242.84 245.92 إنخفضت حدة مشاعر الوثنيين
+246.6 250.53 وانهارت نزاعاتها لعدائية إلى حد كبير
+251.53 256.81 ولذلك لا نرى لغطفان إستهزازا كبيرا بعد هذه الهدنة
+256.89 258.51 وجل ما جاء
+258.8 262.07 إنما جاء من قبل إغراء اليهود‏.‏
+262.29 263.65 أما اليهود
+263.96 267.24 فقد جعلوا خيبر بعد جلائهم عن يثرب
+267.65 269.98 وكرا للدس والتآمر،
+271.23 273.05 كانت شياطينهم
+273.21 275.13 تبيض هناك وتفرخ،
+275.52 277.22 وتؤجج نار الفتنة،
+277.78 280.76 وتغري الأعراب الضاربة حول المدينة،
+281.04 284.97 وتبيت للقضاء على النبي صلى الله عليه وسلم
+285.14 286.81 و على المسلمين،
+287.38 290.07 أو لإلحاق الخسائر الفادحة بهم،
+290.3 293.33 ولذلك كان أول إقدام حاسم
+293.59 296.99 من النبي صلى الله عليه وسلم بعد هدنة
+297.32 300.3 هو شن الحرب الفاصلة على هذا الوكر‏.‏
+301.15 304.06 أعطت الهدنة للمسلمين فرصة كبيرة
+304.42 307.22 لنشر الدعوة الإسلامية وإبلاغها،
+307.85 310.9 فتضاعف نشاط المسلمين في هذا المجال،
+311.01 313.82 وظهر على نشاطهم العسكري
+
+# مكاتبة الملوك والأمراء [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F42.mp3?alt=media&token=fd21db1b-0e75-4fbf-bc9d-9c687a10714e]
+
+## timing
+
+0.26 3.34 مكاتبة الملوك والأمراء
+3.56 6.34 في أواخر السنة السادسة للهجرة
+6.81 10.97 حين رجع رسول الله صلى الله عليه وسلم من الحديبية
+11.38 14.16 كتب إلى الملوك يدعوهم إلى الإسلام‏.‏
+14.85 16.99 واختار من أصحابه رسلاً
+17.21 19.03 لهم خبرة ومعرفة
+19.44 21.16 وأرسلهم إلى الملوك،
+21.38 24.77 فأرسل كتابا إلى النجاشي ملك الحبشة
+24.99 27.22 مع عمرو بن أمية الضَّمْرِي
+27.22 33.32 ولما بلغ عمرو بن أمية كتاب النبي صلى الله عليه وسلم إلى النجاشي
+33.76 35.32 أخذه النجاشي،
+35.54 37.41 ووضعه على عينه،
+37.62 39.99 ونزل عن سريره إلى الأرض،
+40.22 43.56 وأسلم على يد جعفر بن أبي طالب،
+43.89 47.98 وكتب إلى النبي صلى الله عليه وسلم بذلك.
+48.22 51.73 وأرسل كتابا إلى المقوقس ملك مصر‏:‏
+52.09 55.37 واختار لحمله حاطب بن أبي بَلْتَعَة‏.‏
+55.78 57.61 فقال المقوقس‏:‏
+58.87 61.63 إني قد نظرت في أمر هذا النبي،
+62.33 63.51 فوجدته
+63.76 66.29 لا يأمر بمزهود فيه‏.‏
+66.58 69.04 ولا ينهي عن مرغوب فيه،
+69.33 71.8 ولم أجده بالساحر الضال،
+71.85 73.75 ولا الكاهن الكاذب،
+73.79 75.18 ووجدت معه
+75.33 77.93 آية النبوة بإخراج الخبء
+77.97 79.8 والإخبار بالنجوي،
+80.05 81.38 وسأنظر‏.‏
+82.07 85.61 وأخذ كتاب النبي صلى الله عليه وسلم،
+86.01 88.39 فجعله في حُقِّ من عاج،
+88.7 90.05 وختم عليه،
+90.31 92.61 ودفع به إلى جارية له،
+93.09 96.21 ثم دعا كاتباً له يكتب بالعربية،
+96.98 100.52 فكتب إلى رسول الله صلى الله عليه وسلم‏:‏
+100.76 102.52 كتابا جاء فيه
+103.5 105.94 ‏(‏بسم الله الرحمن الرحيم‏.‏
+109.52 111.88 من المقوقس عظيم القبط،
+112.66 114.02 سلام عليك،
+114.67 116.28 أما بعد‏:‏
+116.35 118.33 فقد قرأت كتابك،
+118.51 120.4 وفهمت ما ذكرت فيه،
+120.72 122.37 وما تدعو إليه،
+122.65 125.09 وقد علمت أن نبياً بقي،
+125.17 128.13 وكنت أظن أنه يخرج بالشام،
+128.47 130.38 وقد أكرمت رسولك،
+130.69 133.02 وبعثت إليك بجاريتين،
+133.21 135.96 لهما مكان في القبط عظيم،
+136.18 137.52 وبكسوة،
+137.75 141.05 وأهديت إليك بغلة لتركبها،
+141.17 142.94 والسلام عليك‏)‏‏.‏
+143.11 146.05 ولم يزد على هذا ولم يسلم،
+146.28 147.79 والجاريتان
+147.82 149.65 مارية، وسيرين،
+149.73 151.45 والبغلة دُلْدُل،
+151.5 153.61 بقيت إلى زمن معاوية ،
+153.86 156.82 واتخذ النبي صلى الله عليه وسلم
+157.05 158.82 مارية سرية له،
+159.3 161.8 وهي التي ولدت له إبراهيم‏.‏
+162.05 163.33 وأما سيرين
+163.49 166.45 فأعطاها لحسان بن ثابت الأنصاري‏.‏
+167.29 170.4 وأرسل كتابا إلى قيصر ملك الروم‏:‏
+170.97 175.27 روى البخاري ضمن حديث طويل نص الكتاب الذي كتبه
+175.58 178.04 النبي صلى الله عليه وسلم
+178.24 180.35 إلى ملك الروم هرقل،
+180.45 181.73 وهو هذا‏:‏
+182.05 184.1 ‏(‏بسم الله الرحمن الرحيم‏.‏
+184.13 187.06 من محمد عبد الله ورسوله
+187.42 188.51 إلى هرقل
+188.51 189.95 عظيم الروم،
+190.48 193.14 سلام على من اتبع الهدي،
+193.57 195.25 أسلم تسلم،
+195.77 198.79 أسلم يؤتك الله أجرك مرتين،
+199.15 200.7 فإن توليت
+200.8 203.93 فإن عليك إثم الأريسيين ‏
+204.39 205.39 يعني
+205.57 208.03 الفلاحين والخدم والقادة
+209.17 211.6 بسم الله الرحمن الرحيم
+212.43 220 {‏ يَا أَهْلَ الْكِتَابِ تَعَالَوْاْ إِلَى كَلَمَةٍ سَوَاء بَيْنَنَا وَبَيْنَكُمْ
+221.33 226.92 أَلاَّ نَعْبُدَ إِلاَّ اللّهَ وَلاَ نُشْرِكَ بِهِ شَيْئًا
+227.64 233.16 وَلاَ يَتَّخِذَ بَعْضُنَا بَعْضاً أَرْبَابًا مِّن دُونِ اللّهِ
+233.63 235.59 فَإِن تَوَلَّوْاْ
+235.85 239.67 فَقُولُواْ اشْهَدُواْ بِأَنَّا مُسْلِمُونَ‏}‏‏)‏ ‏[‏آل عمران‏:‏64‏]‏‏.‏
+239.94 244.06 واختار صلى الله عليه وسلم لحمل هذا الكتاب
+244.41 246.82 دَحْيَة بن خليفة الكلبي،
+247.08 249.1 ليدفعه إلى قيصر،
+249.89 250.99 وكان هرقل
+251.32 253.32 قد سأل أبا سفيان
+253.32 256.01 عندما كان فتجارة له بالشام،
+256.27 258.87 عن النبي صلى الله عليه وسلم
+259.54 261.52 فأعلمه أبو سفيان
+261.82 264.09 نسبه شريفا وصدقه
+264.33 266.29 والدين الذي جاء به
+266.84 268.71 فقال له قيصر
+268.84 272.63 ذكرت أنه يأمركم أن تعبدوا الله،
+272.96 275.07 ولا تشركوا به شيئاً
+275.57 278.35 وينهاكم عن عبادة الأوثان،
+278.35 281.38 ويأمركم بالصلاة والصدق والعفاف،
+282.17 284.62 فإن كان ما تقول حقاً
+284.72 287.83 فسيملك موضع قدمي هاتين،
+288.34 291.04 وقد كنت أعلم أنه خارج،
+291.19 293.06 ولم أكن أظنه
+293.2 294.33 أنه منكم،
+294.55 296.13 فلو كنت أعلم
+296.35 299.37 أني أخلص إليه لتجشمت لقاءه،
+299.77 301.46 ولو كنت عنده
+301.64 303.75 لغسلت عن قدميه‏.‏
+304.35 308.96 ثم دعا بكتاب رسول الله صلى الله عليه وسلم فقرأ،
+309.49 311.77 فلما فرغ من قراءة
+312.06 314.13 ارتفعت الأصوات عنده
+314.38 315.76 وكثر اللغط.
+316.79 320.89 وأرسل عليه السلام كتبا أخرى إلى حاكم البحرين
+321.14 323.12 وكسرى ملك فارس‏
+323.28 324.84 وصاحب اليمامة‏
+325.13 327.58 وصاحب دمشق وغيرهم
+328.24 329.68 وبهذه الكتب
+330.05 332.38 كان النبي صلى الله عليه وسلم
+332.59 336.01 قد أبلغ دعوته إلى أكثر ملوك الأرض،
+336.31 338.49 فمنهم من آمن به
+338.69 341.03 ومنهم من كفر .
+
+# النشاط العسكري بعد صلح الحديبية - ١ [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F43_1.mp3?alt=media&token=013aab70-fb5a-480a-8913-925be65cd8ce]
+
+## timing
+
+0.09 1.94 النشاط العسكري
+2.04 3.8 بعد صلح الحديبية
+3.88 6.46 الخروج إلى خيبر‏
+6.76 10.64 أقام رسول الله صلى الله عليه وسلم بالمدينة
+10.79 12.89 حين رجع من الحديبية
+13.17 15.61 ذا الحجة وبعض المحرم،
+16.3 19.38 ثم خرج في بقية المحرم إلى خيبر‏.‏
+19.83 21.18 إذ كانت وعدا
+21.32 23.77 وعدها الله تعالى بقوله‏:‏ ‏
+23.94 29.31 {‏وَعَدَكُمُ اللَّهُ مَغَانِمَ كَثِيرَةً تَأْخُذُونَهَا
+29.7 32.09 فَعَجَّلَ لَكُمْ هَذِهِ‏}‏ ‏[‏الفتح‏:‏ 20‏]‏
+32.33 34.76 يعني صلح الحديبية،
+35.32 37.26 وبالمغانم الكثيرة
+37.26 38.91 يعني خيبر‏.‏
+39.63 44.5 فلما أراد رسول الله صلى الله عليه وسلم الخروج إلى خيبر
+44.87 47.11 أعلن ألا يخرج معه
+47.35 49.58 إلا راغب في الجهاد،
+49.97 51.19 فلم يخرج
+51.19 53.12 إلا أصحاب الشجرة
+53.35 55.55 وهم ألف وأربعمائة‏.‏
+55.55 59.13 فأرسل رأس المنافقين عبد الله بن أبي
+59.13 60.66 إلى يهود خيبر‏:‏
+60.66 64.4 أن محمداً قصد قصدكم، وتوجه إليكم،
+64.65 66.43 فخذوا حذركم،
+66.47 67.89 ولا تخافوا منه
+68.1 70.68 فإن عددكم وعدتكم كثيرة،
+70.88 72.41 وقوم محمد
+72.53 74.48 شرذمة قليلون،
+74.74 76.79 عزّل لا سلاح معهم
+76.91 78.13 إلا قليل،
+78.13 80.73 فلما علم ذلك أهل خيبر،
+80.83 83.46 أرسلوا كنانة بن أبي الحقيق
+83.58 87.24 وهَوْذَة بن قيس إلى غطفان يستمدونهم ؛
+87.74 90.33 لأنهم كانوا حلفاء يهود خيبر،
+90.72 93.35 ومظاهرين لهم على المسلمين،
+93.94 96.5 وشرطوا لهم نصف ثمار خيبر
+96.53 98.93 إن هم غلبوا على المسلمين‏.‏
+99.38 102.22 نزل رسول صلى الله عليه وسلم
+102.63 104.75 واديا يقال له‏:‏ الرجيع،
+104.88 106.97 فتهيأت غطفان
+107.1 110.4 وتوجهوا إلى خيبر، لإمداد اليهود،
+110.57 112.96 فلما كانوا ببعض الطرق
+113.15 116.12 سمعوا من خلفهم حساً ولغطاً،
+116.2 121.16 فظنوا أن المسلمين أغاروا على أهاليهم وأموالهم فرجعوا،
+121.74 125.37 وخلوا بين رسول الله صلى الله عليه وسلم
+125.44 126.71 وبين خيبر‏.‏
+127.11 131.25 وبات المسلمون الليلة الأخيرة قريبًا من خيبر،
+131.33 133.76 ولا تشعر بهم اليهود،
+134.21 138.74 وكان النبي صلى الله عليه وسلم إذا أتي قومًا بليل
+138.99 141.48 لم يقربهم حتى يصبح،
+141.95 143.24 فلما أصبح
+143.52 145.53 صلي الفجر أول الصبح،
+146.25 147.81 وركب المسلمون،
+148.12 151.78 فخرج أهل خيبر بمجارفهم ومكاتلهم،
+152.13 153.42 ولا يشعرون،
+153.73 155.49 بل خرجوا لأرضهم،
+155.85 158.41 فلما رأوا الجيش قالوا‏:‏
+159 159.77 محمد،
+160.2 162.31 والله محمد والجيش ،
+162.67 165.19 ثم رجعوا هاربين إلى مدينتهم،
+165.82 168.44 فقال النبي صلى الله عليه وسلم‏:‏ ‏
+168.78 170.19 (‏الله أكبر،
+170.33 171.63 خربت خيبر،
+171.87 173.16 الله أكبر،
+173.41 174.75 خربت خيبر،
+174.98 177.45 إنا إذا نزلنا بساحة قوم
+177.65 180.02 فساء صباح المنذرين‏)‏‏.‏
+180.64 183.44 ولما دنا من خيبر وأشرف عليها قال‏:‏
+183.61 184.18 " قفوا ".
+184.57 186.78 فوقف الجيش، فقال‏:‏
+187.49 190.98 " اللهم رب السموات السبع وما أظللن،
+191.49 194.48 ورب الأرضين السبع وما أقللن،
+195.21 197.87 ورب الشياطين وما أضللن،
+198.56 202.71 فإنا نسألك خير هذه القرية، وخير أهلها،
+202.98 204.61 وخير ما فيها،
+205.42 208.44 ونعوذ بك من شر هذه القرية،
+208.58 210.27 ومن شر أهلها،
+210.4 211.96 وشر ما فيها،
+212.84 214.75 أقدموا، بسم الله
+215.08 217.34 ولما كانت ليلة الدخول
+217.63 218.53 قال :‏ ‏
+218.8 223.01 "لأعطين الراية غدًا رجلاً يحب الله ورسوله
+223.23 225.55 ويحبه الله ورسوله".
+226.18 228.37 فلما أصبح الناس
+228.45 231.79 غدوا على رسول الله صلى الله عليه وسلم،
+232.21 234.73 كلهم يرجو أن يعطاها،
+235 236.1 فقال‏:‏ ‏
+236.38 238.3 (‏أين علي بن أبي طالب‏؟‏‏)‏
+238.61 239.59 فقالوا‏:‏
+239.61 241.02 يا رسول الله،
+241.02 242.82 هو يشتكي عينيه،
+242.82 243.77 قال‏:‏
+243.86 245.49 ‏(‏فأرسلوا إليه‏)‏،
+246.08 247.61 فأتي به
+247.97 252 فبصق رسول الله صلى الله عليه وسلم في عينيه،
+252.12 254.34 ودعا له، فبرئ،
+254.89 256.76 كأن لم يكن به وجع،
+257.16 258.67 فأعطاه الراية،
+258.8 259.95 فقال‏:‏
+260.31 262.06 ‏(‏انفذ على رسلك،
+262.4 264.43 حتى تنزل بساحتهم،
+264.82 266.73 ثم ادعهم إلى الإسلام،
+266.89 270.53 وأخبرهم بما يجب عليهم من حق الله فيه،
+270.8 274.44 فوالله، لأن يهدي الله بك رجلا واحدًا
+274.83 278.18 خير لك من أن يكون لك حمر النعم‏)‏‏.‏
+278.41 281.34 وكانت خيبر منقسمة إلى شطرين،
+281.7 283.83 شطر فيها خمسة حصون‏,
+284.09 286.45 وشطر الثاني يعرف بالكتيبة،
+286.63 288.18 ففيه ثلاثة حصون
+288.94 292.38 وفي خيبر حصون وقلاع غير هذه الثمانية،
+293.06 294.29 والقتال المرير
+294.59 297.12 إنما دار في الشطر الأول منها،
+297.44 298.77 أما الشطر الثاني
+299.14 300.59 فحصونها الثلاثة
+300.91 302.99 مع كثرة المحاربين فيها
+303.2 304.02 سلمت
+304.02 305.2 دونما قتال‏.‏
+
+# النشاط العسكري بعد صلح الحديبية - ٢ [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F43_2.mp3?alt=media&token=9b95eebe-844b-4429-bd31-9c39b1c40e9b]
+
+## timing
+
+0.12 2.03 وفتح حصن ناعم‏‏
+2.36 6.74 وأول حصن هاجمه المسلمون من هذه الحصون الثمانية
+6.98 8.53 هو حصن ناعم‏.‏
+8.69 11.1 وكان هذا الحصن حصن مرحب
+11.31 12.81 البطل المعروف.‏
+13.35 16.07 خرج علي بن أبي طالب رضي الله عنه
+16.07 18.07 بالمسلمين إلى هذا الحصن،
+18.62 20.7 ودعا اليهود إلى الإسلام،
+20.92 22.67 فرفضوا هذه الدعوة،
+22.74 26.33 وبرزوا إلى المسلمين ومعهم ملكهم مرحب،
+26.62 28.96 فلما خرج إلى ميدان القتال
+29.11 31.75 دعا إلى المبارزة وهو يقول‏:‏
+32.18 35.64 قد عَلِمتْ خيبر أني مَرْحَب
+35.65 39.09 شَاكِي السلاح بطل مُجَرَّب
+39.21 42.13 إذا الحروب أقبلتْ تَلَهَّب
+42.73 44.99 فبرز له عامر بن الأكوع
+44.99 45.95 فقال‏:‏
+46.12 50.02 قد علمت خيبر أني عامر \*\*
+50.13 54.16 شاكي السلاح بطل مُغَامِر
+54.23 56.08 فاختلفا ضربتين،
+56.38 58.91 فوقع سيف مرحب في ترس عامر،
+59.08 61.26 وذهب عامر يسفل له،
+61.45 63.27 وكان سيفه قصيرًا،
+63.4 66.29 فتناول به ساق اليهودي ليضربه،
+66.53 68.54 فيرجع ذُبَاب سيفه
+68.72 70.48 فأصاب عين ركبته
+70.74 71.83 فمات منه،
+72.22 75.54 وقال فيه النبي صلى الله عليه وسلم‏:‏ ‏
+76.1 78.03 (‏إن له لأجرين
+78.26 80.03 وجمع بين إصبعيه
+80.46 83.01 إنه لجَاهِدٌ مُجَاهِد،
+83.08 85.63 قَلَّ عربي مَشَي بها مِثْلَه‏)‏‏.‏
+85.92 89.46 ثم دعى مرحب إلى البراز مرة أخري
+89.84 92.52 فبرز له على بن أبي طالب‏.‏
+92.76 94.05 وهو يقول:
+94.45 97.26 أنا الذي سمتني أمي حَيْدَرَهْ
+97.61 100.28 كلَيْثِ غابات كَرِيه المَنْظَرَهْ
+100.78 103.28 أُوفِيهم بالصَّاع كَيْل السَّنْدَرَهْ
+103.28 104.24 يعني
+104.24 107.25 أقتلكم قتلا واسع ذريعا
+107.83 109.99 فضرب رأس مرحب فقتله،
+110.7 112.54 ثم كان الفتح على يديه‏.‏
+112.92 115.48 ودار القتال المرير حول حصن
+115.64 117.92 وانهارت مقاومة اليهود،
+118.09 121.12 فتسللوا من هذا الحصن إلى حصن الصَّعْب،
+121.44 123.75 واقتحم المسلمون حصن ناعم‏.‏
+125.13 127.11 ثم تتال فتح الحصون
+128.07 130.4 فاقتحموها واحدا تلو الآخر
+131.2 133.45 ودار قتال مرير في داخلها
+134.16 136.98 انهزم أمامه اليهود هزيمة منكرة،
+137.54 140.79 تاركين للمسلمين نساءهم وذراريهم‏.‏
+141.63 144.76 فتح الشطر الثاني من خيبر‏
+145.23 149.89 تحول رسول الله صلى الله عليه وسلم إلى الشطر الثاني من خيبر
+150.12 152.28 فلما أيقنوا بالهلكة
+152.3 155.69 سألوا رسول الله صلى الله عليه وسلم الصلح‏.‏
+155.96 159.22 على حقن دماء مَنْ في حصونهم من المقاتلة،
+159.66 161.54 وترك الذرية لهم،
+161.76 164.84 ويخرجون من خيبر وأرضها بذراريهم،
+165.03 168.43 ويخلون بين رسول الله صلى الله عليه وسلم
+168.78 171.26 وبين ما كان لهم من مال وأرض،
+171.39 173.32 وعلى الصفراء والبيضاء
+173.53 174.03 أي
+174.09 175.53 الذهب والفضة
+175.61 177.03 والكُرَاع
+177.04 178.34 أي الخيل
+178.95 180.1 والْحَلْقَة
+180.24 182.42 أي السلاح بكافة أنواع
+182.56 184.84 إلا ثوبًا على ظهر إنسان ،
+185.02 188.28 فقال رسول الله صلى الله عليه وسلم‏:‏ ‏
+188.57 192.49 (‏وبرئت منكم ذمة الله وذمة رسوله
+192.57 194.35 إن كتمتموني شيئا‏)‏،
+194.6 196.56 فصالحوه على ذلك ،
+196.77 199.21 وتم تسليم الحصون إلى المسلمين،
+199.55 201.71 وبذلك تم فتح خيبر‏.‏
+202.43 205.39 وسبي رسول الله صلى الله عليه وسلم
+205.65 208.25 صفية بنت حيي بن أخطب،
+208.79 211.82 وكانت تحت كنانة بن أبي الحقيق،
+212.14 215.21 وكانت عروسًا حديثة عهد بالدخول‏.‏
+215.69 217.98 فعرض عليها الإسلام فأسلمت،
+218.36 221.06 فأعتقها وتزوجها،
+221.06 222.38 بعد أن حلت،
+223.19 225 قسمة الغنائم‏‏
+225.19 228.37 وأراد رسول الله صلى الله عليه وسلم
+228.55 230.51 أن يجلي اليهود من خيبر،
+230.76 231.85 فقالوا‏:‏
+232.31 233.46 يا محمد،
+234.18 237.16 دعنا نكون في هذه الأرض، نصلحها،
+237.41 238.72 ونقوم عليها،
+239.24 241.24 فنحن أعلم بها منكم،
+241.57 251.08 فأعطاهم خيبر على أن لهم الشطر من كل زرع، ومن كل ثمر، ما بدا لرسول الله صلى الله عليه وسلم أن يقرهم،
+251.65 253.72 وكان عبد الله بن رواحة
+253.79 255.38 يقدره عليهم‏.‏
+256.4 260.22 قدوم جعفر بن أبي طالب والأشعريين‏‏
+260.32 261.9 وفي هذه الغزوة
+262.19 266.26 قدم عليه ابن عمه جعفر بن أبي طالب وأصحابه،
+266.76 268.49 ومعهم الأشعريون
+268.77 270.58 أبو موسى وأصحابه
+270.82 272.24 من أرض الخبشة‏.‏
+272.85 275.59 فأسهم لهم من الغنائم وقال :
+275.99 278.8 ‏(‏والله ما أدري بأيهما أفرح‏؟‏
+279.21 280.68 بفتح خيبر
+280.82 282.4 أم بقدوم جعفر‏)‏‏.‏
+282.8 286.89 ولما اطمأن رسول الله صلى الله عليه وسلم بخيبر بعد فتحها
+287.33 289.67 أهدت له زينب بنت الحارث،
+290.07 292.38 امرأة سَلاَّم بن مِشْكَم،
+292.67 294.22 شاة مَصْلِيَّةً،
+294.38 294.93 أي
+295.02 296 مشوية .
+296.6 297.51 وقد سألت
+297.52 301.36 أي عضو أحب إلى رسول الله صلى الله عليه وسلم‏؟‏
+301.82 303.03 فقيل لها‏:‏
+303.16 304.28 الذراع،
+304.6 306.76 فأكثرت فيها من السم،
+307.14 309.25 ثم سمت سائر الشاة،
+309.68 311.18 ثم جاءت بها،
+311.57 316.15 فلما وضعتها بين يدي رسول الله صلى الله عليه وسلم
+316.52 318.12 تناول الذراع،
+318.22 320.11 فَلاَكَ منها مضغة
+320.31 321.61 فلم يسغها،
+321.79 323 ولفظها،
+323.18 325.27 ثم قال‏ عليه السلام :‏ ‏
+325.68 328.91 (‏إن هذا العظم ليخبرني أنه مسموم‏)‏،
+329.39 330.66 ثم دعا بها
+330.76 331.63 فاعترفت،
+331.88 332.78 فقال‏:‏
+333.03 334.97 (‏ما حملك على ذلك‏؟‏‏)‏
+335.38 336.27 قالت‏:‏
+336.54 339 قلت‏:‏ إن كان ملكًا استرحت منه،
+339.38 340.91 وإن كان نبيًا
+341 342.03 فسيخبر،
+342.39 344.03 فتجاوز عنها‏.‏
+344.37 347.46 وكان معه بِشْر بن البراء بن مَعْرُور،
+347.68 350.48 أخذ منها أكلة فأساغها،
+350.7 352.07 فمات منها‏.‏
+352.47 354.07 فلما مات بشر
+354.3 355.95 قتلها قصاصا‏.‏
+357.02 359.38 وجملة من استشهد من المسلمين
+359.64 361.29 في معارك خيبر
+361.47 363.37 ستة عشر رجلاً،
+363.63 365.39 أربعة من قريش
+365.54 367.5 وواحد من أشْجَع،
+367.65 369.44 وواحد من أسْلَم،
+369.71 371.65 وواحد من أهل خيبر
+371.84 373.85 والباقون من الأنصار‏.‏
+374.1 375.62 أما قتلي اليهود
+375.79 379.28 فعددهم ثلاثة وتسعون قتيلاً‏.‏
+
+# معركة مؤتة - ١ [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F44_1.mp3?alt=media&token=37980932-1154-4216-8d2e-6f7052cb6926]
+
+## timing
+
+0.19 1.88 معركة مؤتة
+3.08 6.27 وهذه المعركة أكبر لقاء مُثْخِن،
+6.75 9.84 وأعظم حرب دامية خاضها المسلمون
+10.22 13.3 في حياة رسول الله صلى الله عليه وسلم،
+14.13 16.2 وهي مقدمة وتمهيد
+16.56 18.5 لفتوح بلدان النصاري،
+19.47 21.29 وقعت في جمادي الأولي
+21.71 23.3 سنة 8 ه،
+23.75 24.84 وفق أغسطس
+24.95 25.93 أو سبتمبر
+26.23 29.38 سنة 926 م‏.‏
+30.24 30.95 ومؤتة ‏
+31.28 33.85 هي قرية بأدني بلقاء الشام،
+34.24 36.46 بينها وبين بيت المقدس
+36.61 37.65 مرحلتان‏.‏
+38.46 40.43 سبب المعركة‏
+40.55 42.65 وسبب هذه المعركة
+43.14 46.16 أن رسول الله صلى الله عليه وسلم
+46.36 51.48 بعث الحارث بن عمير الأزدي بكتابه إلى عظيم بُصْرَي‏.‏
+51.59 54.6 فعرض له شُرَحْبِيل بن عمرو الغساني
+54.98 58.11 وكان عاملاً على البلقاء من أرض الشام
+58.11 59.53 من قبل قيصر
+59.59 61.61 فأوثقه رباطاً،
+61.89 64.36 ثم قدمه، فضرب عنقه‏.‏
+64.71 68.12 فاشتد ذلك على رسول الله صلى الله عليه وسلم
+68.77 70.82 فجهز إليهم جيشاً
+70.95 73.59 قوامه ثلاثة آلاف مقاتل ،
+73.88 76.05 وهو أكبر جيش إسلامي
+76.32 79.98 لم يجتمع قبل ذلك إلا في غزوة الأحزاب‏.‏
+80.82 82.65 أمراء الجيش
+82.77 87.64 ووصية رسول الله صلى الله عليه وسلم إليهم‏
+87.92 92.29 أمر رسول الله صلى الله عليه وسلم على هذا البعث
+92.32 93.79 زيد بن حارثة،
+93.84 94.78 وقال‏:‏ ‏
+95.26 96.62 (‏إن قتل زيد
+96.62 97.56 فجعفر،
+97.97 99.56 وإن قتل جعفر
+99.74 101.63 فعبد الله بن رواحة‏)‏ ،
+102.1 104.46 وعقد لهم لواء أبيض،
+104.68 107.11 ودفعه إلى زيد بن حارثة‏.‏
+107.34 108.76 وقال لهم‏:‏ ‏
+109.33 110.85 (‏اغزوا بسم الله،
+111.3 112.88 في سبيل الله،
+113.2 115.28 مَنْ كفر بالله،
+115.49 116.96 لا تغدروا،
+117.14 118.74 ولا تغيروا،
+118.92 121.82 ولا تقتلوا وليداً ولا امرأة،
+122.1 126.56 ولا كبيراً فانياً، ولا منعزلاً بصومعة،
+126.88 129.47 ولا تقطعوا نخلاً ولا شجرة،
+129.77 131.75 ولا تهدموا بناء‏)‏‏.‏
+132.12 133.8 ثم خرج القوم،
+134.16 138.55 وخرج رسول الله صلى الله عليه وسلم مشيعاً لهم
+138.71 141.15 حتى بلغ ثنية الوداع،
+141.68 143.66 فوقف وودّعهم‏.‏
+143.79 145.76 وتحرك الجيش الإسلامي،
+146.1 149.17 في اتجاه الشمال حتى نزل مَعَان،
+149.22 150.38 من أرض الشام،
+150.99 153.07 مما يلي الحجاز الشمإلى،
+153.29 154.62 وحينئذ
+154.76 157.82 نقلت إليهم الاستخبارات بأن هرقل
+158.06 162.51 نازل بمآب من أرض البلقاء في مائة ألف من الروم،
+162.82 165.67 وانضم إليهم من لَخْم وجُذَام
+165.67 169.04 وبَلْقَيْن وبَهْرَاء وبَلِي مائة ألف‏.‏
+169.19 172.43 لم يكن المسلمون أدخلوا في حسابهم
+172.51 175.16 لقاء مثل هذا الجيش العرمرم
+175.56 177.95 فأقاموا في مَعَان ليلتين
+178.01 179.81 يفكرون في أمرهم،
+179.99 182.09 وينظرون ويتشاورون،
+182.3 183.61 ثم قالوا‏:‏
+183.78 187.43 نكتب إلى رسول الله صلى الله عليه وسلم،
+187.43 189.92 فنخبره بعدد عدونا،
+189.99 192.21 فإما أن يمدنا بالرجال،
+192.21 194.47 وإما أن يأمرنا بأمره
+194.47 195.86 فنمضي له‏.‏
+195.91 199.16 ولكن عبد الله بن رواحة عارض هذا الرأي،
+199.38 201.44 وشجع الناس، قائلاً‏:‏
+201.89 203.28 يا قوم،
+203.39 205.94 والله إن التي تكرهون
+205.94 208.56 لَلَّتِي خرجتم تطلبون‏:‏
+208.59 209.79 الشهادة،
+209.83 214.59 وما نقاتل الناس بعدد ولا قوة ولا كثرة،
+214.69 218.04 ما نقاتلهم إلا بهذا الدين
+218.21 220.4 الذي أكرمنا الله به،
+220.82 222.4 فانطلقوا،
+222.56 225.15 فإنما هي إحدي الحسنيين،
+225.56 227.18 إما ظهور
+227.18 228.84 وإما شهادة‏.‏
+229.02 230.32 وأخيراً
+230.72 234.56 استقر الرأي على ما دعا إليه عبد الله بن رواحة‏.‏
+235.14 237.46 فتحركوا إلى أرض العدو،
+237.46 239.82 فلقيتهم جموع هرقل
+239.86 242.15 بقرية من قرى البلقاء
+242.15 243.36 يقال لها‏:‏
+243.43 244.44 ‏مشارف
+244.58 245.76 ثم دنا العدو،
+245.97 248.14 وانحاز المسلمون إلى مؤتة،
+248.28 249.8 فعسكروا هناك،
+249.8 251.64 وتعبأوا للقتال،
+251.81 254.14 وهناك في مؤتة التقي الفريقان،
+254.31 256.45 وبدأ القتال المرير،
+256.68 259.03 فأخذ الراية زيد بن حارثة
+259.03 262.31 حِبُّ رسول الله صلى الله عليه وسلم
+262.59 265.25 وجعل يقاتل بضراوة بالغة،
+265.41 267.8 حتى هلك في رماح القوم،
+267.8 269.22 وخر صريعاً‏.‏
+269.22 270.38 وحينئذ
+270.74 273.17 أخذ الراية جعفر بن أبي طالب،
+273.6 276.96 وطفق يقاتل قتالاً منقطع النظير،
+277.21 279.03 حتى قطعت يمينه،
+279.37 280.91 فأخذ الراية بشماله،
+281.26 282.6 ولم يزل بها
+282.7 284.78 حتى قطعت شماله،
+284.78 286.97 فاحتضنها بعضديه،
+287.13 289.8 فلم يزل رافعاً إياها حتى قتل‏.‏
+289.88 293.18 وأثابه الله بجناحيه جناحين في الجنة،
+293.48 295.63 يطير بهما حيث يشاء ؛
+295.84 298.67 ولذلك سمي بجعفر الطيار،
+298.73 300.75 وبجعفر ذي الجناحين‏.‏
+301 302.3 قال ابن عمر‏:‏
+302.51 304.56 كنت فيهم في تلك الغزوة،
+304.84 307.16 فالتمسنا جعفر بن أبي طالب
+307.31 309.01 فوجدناه في القتلي،
+309.32 313.78 ووجدنا ما في جسده بضعاً وتسعين من طعنة ورمية‏.‏
+314.09 318.19 ولما قتل جعفر أخذ الراية عبد الله بن رواحة،
+318.46 320.76 وتقدم بها، وهو على فرسه،
+321.16 322.95 فجعل يستنزل نفسه،
+323.25 326.51 ويتردد بعض التردد، حتى حاد حيدة
+326.87 327.84 ثم قال‏:‏
+328.06 331.16 أقسمت يا نفس لتنزلنه
+331.19 334.12 كارهة أو لتطاوعنه
+334.17 336.66 إن أجلب الناس وشدوا الرنة
+336.97 340.01 مالي أراك تكرهين الجنة
+340.01 341.59 ثم نزل،
+341.76 345.61 فأتاه ابن عم له بعَرْق من لحم فقال‏:‏
+345.73 347.42 شد بهذا صلبك،
+347.42 351.74 فإنك قد لقيت في أيامك هذه ما لقيت،
+351.89 354.98 فأخذه من يده فانتهس منه نَهْسَة،
+355.43 357.12 ثم ألقاه من يده،
+357.31 359.97 ثم أخذ سيفه فتقدم،
+360.07 362.02 فقاتل حتى قتل‏.‏
+
+# معركة مؤتة - ٢ [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F44_2.mp3?alt=media&token=bace7a73-9058-4112-981c-c3827ffe5dd7]
+
+## timing
+
+0.1 4.01 الراية إلى سيف من سيوف الله‏‏
+4.17 7.65 فاصطلح الناس بعد مقتل القادة الثلاثة
+7.85 9.52 على خالد بن الوليد،
+9.94 12.97 فأخذ الراية وقاتل قتالاً مريراً،
+13.44 16.4 فقد روي البخاري عن خالد بن الوليد
+16.4 17.11 قال‏:‏
+17.33 21.09 لقد انقطعت في يدي يوم مؤتة تسعة أسياف،
+21.55 24.8 فما بقي في يدي إلا صفيحة يمانية‏.‏
+25.12 28.8 قال رسول الله صلى الله عليه وسلم يوم مؤتة
+29.21 30.75 مخبراً بالوحي،
+31.13 34.65 قبل أن يأتي إلى الناس الخبر من ساحة القتال‏:‏ ‏
+35.6 37.84 (‏أخذ الراية زيد فأصيب،
+38.19 40.46 ثم أخذ جعفر فأصيب،
+40.98 43.53 ثم أخذ ابن رواحة فأصيب
+44.24 47.9 وعيناه صلى الله عليه وسلم تذرفان
+48.12 51.51 حتى أخذ الراية سيف من سيوف الله،
+51.6 54.03 حتى فتح الله عليهم‏)‏‏.‏
+55 56.67 وفي ذلك الوقت
+57.21 62.91 أظهر خالد بن الوليد مهارته ونبوغه في تخليص المسلمين مما كانوا فيه‏.‏
+63.78 66.59 ونجح في الصمود أمام جيش الرومان
+66.59 68.93 في أول يوم من القتال‏.‏
+69.02 72.91 وكان يشعر بمسيس الحاجة إلى مكيدة حربية
+72.97 75.23 تلقي الرعب في قلوب الرومان
+75.23 77.69 حتى ينجح في الانحياز بالمسلمين
+77.84 81 من غير أن يقوم الرومان بحركات المطاردة‏.‏
+81.02 84.27 لأن الإفلات من براثنهم صعب جداً
+84.27 86 لو انكشف المسلمون.
+86.12 88.48 فلما أصبح اليوم الثاني
+88.5 90.22 غير أوضاع الجيش،
+90.22 91.92 وعبأه من جديد،
+91.92 94.37 فجعل مقدمته مؤخره ،
+94.37 96.05 وميمنته ميسرة،
+96.13 97.41 وعلى العكس،
+97.41 99.22 فلما رآهم الأعداء
+99.3 101.38 أنكروا حالهم، وقالوا‏:‏
+101.68 103.04 جاءهم مدد،
+103.04 104.45 جاءهم مدد،
+104.57 105.52 فرعبوا،
+105.8 109.89 وصار خالد بعد أن تراءي الجيشان، وتناوشا ساعة
+110.17 112.85 يتأخر بالمسلمين قليلاً قليلاً،
+113.25 114.96 مع حفظ نظام جيشه،
+115.23 119.43 ولم يتبعهم الرومان ظناً منهم أن المسلمين يخدعونهم،
+119.76 123.66 ويحاولون القيام بمكيدة ترمي بهم في الصحراء‏.‏
+123.92 126.48 وهكذا انحاز العدو إلى بلاده،
+126.81 130.05 ولم يفكر في القيام بمطاردة المسلمين
+130.24 133 ونجح المسلمون في الانحياز سالمين،
+133.18 135.05 حتى عادوا إلى المدينة‏.‏
+135.21 137.54 واستشهد يومئذ من المسلمين
+137.54 139.04 اثنا عشر رجلاً،
+139.28 140.52 أما الرومان،
+140.52 142.64 فلم يعرف عدد قتلاهم،
+142.81 146.2 غير أن تفصيل المعركة يدل على كثرتهم‏.‏
+147.01 148.86 أثر المعركة‏‏
+149.35 151 كانت هذه المعركة
+151.19 154.29 وإن لم يحصل المسلمون بها على الثأر،
+154.7 157.22 كبيرة الأثر لسمعة المسلمين،
+157.75 159.22 فقد كانت الرومان
+159.31 162.26 أكبر وأعظم قوة على وجه الأرض،
+162.69 167.54 فكان لقاء هذا الجيش الصغير من ثلاثة آلاف مقاتل
+168.02 171.38 مع ذلك الجيش الضخم العرمرم الكبير
+171.63 173.97 من مائتين ألف مقاتل
+174.5 179.09 ثم الرجوع عن الغزو من غير أن تلحق به خسارة تذكر‏.‏
+179.36 180.52 عجيبة
+180.52 182.19 من عجائب الدهر،
+182.4 188.12 وكان يؤكد أن المسلمين من طراز آخر غير ما ألفته العرب وعرفته،
+188.92 191.82 وأنهم مؤيدون ومنصورون من عند الله،
+191.87 194.55 وأن صاحبهم رسول الله حقاً‏.‏
+194.76 199.81 ولذلك نري القبائل اللدودة التي كانت لا تزال تثور على المسلمين
+200.07 203.02 جنحت بعد هذه المعركة إلى الإسلام،
+203.19 208.58 فأسلمت بنو سُلَيْم وأشْجَع وغَطَفَان وذُبْيَان وفَزَارَة وغيرها‏.‏
+209.02 213.13 وكانت هذه المعركة بداية اللقاء الدامي مع الرومان،
+213.28 217.43 فكانت توطئة وتمهيداً لفتوح البلدان الرومانية،
+217.67 220.73 واحتلال المسلمين الأراضي البعيدة النائية‏.‏
+
+# غزوة فتح مكة - ١ [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F45_1.mp3?alt=media&token=cc384900-1759-4fe8-8549-867a6ca34540]
+
+## timing
+
+0.13 2.17 غزوة فتح مكة
+2.35 3.75 قال ابن القيم‏:‏
+4.22 10.94 هو الفتح الأعظم الذي أعز الله به دينه ورسوله وجنده وحزبه الأمين،
+11.81 16.93 واستنقذ به بلده وبيته الذي جعله هدي للعالمين،
+16.99 19.79 من أيدي الكفار والمشركين،
+19.95 22.79 وهو الفتح الذي استبشر به أهل السماء،
+23.07 26.52 وضربت أطناب عِزِّه على مناكب الجوزاء،
+26.96 29.75 ودخل الناس به في دين الله أفواجاً،
+30.3 33.7 وأشرق به وجه الأرض ضياء وابتهاجاً .‏
+34.11 35.75 سبب الغزوة‏‏
+36.25 41.16 قيام بني بكر حلفاء قريش في شهر شعبان سنة 8 ه،
+41.68 46.35 بالإغارة على خزاعة حلفاء النبي صلى الله عليه وسلم ليلاً،
+47.11 48.61 فأصابوا منهم رجالاً،
+49.27 51.85 وأعانت قريش بني بكر بالسلاح،
+52.31 56.49 وقاتل معهم رجال من قريش مستغلين ظلمة الليل،
+56.99 59.34 حتى حازوا خزاعة إلى الحرم،
+59.96 62.56 وأسرع عمرو بن سالم الخزاعي،
+62.8 67.66 فخرج حتى قدم على رسول الله صلى الله عليه وسلم بالمدينة،
+68.02 69.42 فوقف عليه،
+69.56 72.82 وهو جالس في المسجد بين ظهراني الناس
+73.07 73.9 فقال‏:‏
+74.06 77.64 يا ربي إني ناشد محمدا
+77.99 79.64 حلف أبينا
+79.91 82.14 وأبيه الأتلدي
+82.38 84.22 قد كنتم ولدا
+84.34 86.25 وكنا والدا .
+86.51 88.09 ثمتها أسلمنا
+88.33 90.18 ولم ننزع يدى
+90.52 94.31 فنصر هداك الله نصرا بيدا
+94.57 98.4 وادع عباد الله يأتو مددا
+98.76 102.04 إن قريشا اخلفوك الموعدا
+102.33 106.07 ونقضو ميثاقك المؤكدا
+106.66 109.27 وجعلو لي في كداء رصدا
+109.47 112.57 وزعمو أن لست أدعو أحدا
+112.73 114.19 وهم أذل
+114.23 115.83 وأقل عددا
+115.89 119.23 هم بيتونا بالوتير هجدا
+119.58 120.87 وقتلونا
+120.98 122.84 ركعا وسجدا
+122.84 126.42 فقال رسول الله صلى الله عليه وسلم‏:‏ ‏
+126.89 129.56 (‏نصرت يا عمرو بن سالم‏)‏،
+130.03 133.41 ثم عرضت له سحابة من السماء، فقال‏:‏ ‏
+133.94 138.71 (‏إن هذه السحابة لتستهل بنصر بني كعب‏)‏‏.‏
+139.42 140.9 أبو سفيان
+141.2 144.32 يخرج إلى المدينة ليجدد الصلح‏
+144.97 149.12 ما فعلته قريش وحلفاؤها كان غدراً محضاً
+149.45 151.51 ونقضاً صريحاً للميثاق،
+151.82 154.45 فلما أحست قريش بغدرها،
+154.71 155.68 خافت
+155.97 158.09 وشعرت بعواقبه الوخيمة،
+158.74 161.74 فقررت أن تبعث قائدها أبا سفيان
+161.98 164.05 ليقوم بتجديد الصلح‏.‏
+164.35 168.1 وقد أخبر رسول الله صلى الله عليه وسلم أصحابه
+168.4 170.34 بما ستفعله قريش
+170.51 172.04 إزاء غدرتهم‏.‏
+172.35 173.14 قال‏:‏ ‏
+173.5 177.35 (‏كأنكم بأبي سفيان قد جاءكم ليشد العَقْدَ،
+177.57 179.15 ويزيد في المدة‏)‏‏.‏
+179.44 181.58 وقدم أبو سفيان المدينة،
+182.13 185.04 فدخل على ابنته أم حبيبة،
+185.37 190.03 فلما ذهب ليجلس على فراش رسول الله صلى الله عليه وسلم
+190.39 191.54 طوته عنه،
+191.67 192.66 فقال‏:‏
+192.94 194.2 يا بنية،
+194.58 196.91 أرغبت بي عن هذا الفراش،
+197.15 198.79 أم رغبت به عني‏؟‏
+199.04 200.05 قالت‏ له:‏
+200.56 204.02 بل هو فراش رسول الله صلى الله عليه وسلم،
+204.26 206.55 وأنت رجل مشرك نجس‏.‏
+206.87 211.69 ثم خرج حتى أتي رسول الله صلى الله عليه وسلم فكلمه،
+212.16 213.92 فلم يرد عليه شيئاً،
+214.53 218.52 ثم ذهب إلى أبي بكر ثم أتي عمر بن الخطاب
+218.78 221.23 ثم إلى علي بن أبي طالب،
+221.55 223.6 يسألهم أن يشفع له
+223.88 226.82 إلى رسول الله صلى الله عليه وسلم
+227.26 230.04 فلم يجب أحد إلى ما سأل.
+230.32 231.46 وحيئذ
+231.9 235.12 أظلمت الدنيا أمام عيني أبي سفيان،
+235.45 236.7 فركب بعيره،
+236.96 238.64 وانطلق إلى مكة‏.‏
+239.05 243.75 ثم أمر رسول الله صلى الله عليه وسلم أصحابه بالجهاز،
+244.11 246.66 وأعلمهم أنه سائر إلى مكة،
+247.09 248.14 وقال‏:‏ ‏
+248.73 252.56 (‏اللّهم خذ العيون والأخبار عن قريش
+252.72 255.27 حتى نبغتها في بلادها‏)‏‏.‏
+255.72 257.44 وأخذ الله العيون،
+257.74 259.56 فلم يبلغ إلى قريش
+259.93 263.05 أي خبر من أخبار تجهز المسلمين
+263.27 265.82 وتهيئهم للزحف والقتال‏.‏
+
+# غزوة فتح مكة - ٢ [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F45_2.mp3?alt=media&token=f45e70f7-1473-4ba7-8383-2402c932cd72]
+
+## timing
+
+0.13 1.93 الجيش الإسلامي
+2.19 4.79 يتحرك نحو مكة‏‏
+4.91 7.95 ولعشر خلون من شهر رمضان المبارك
+8.19 9.95 سنة 8 ه،
+10.29 13.74 غادر رسول الله صلى الله عليه وسلم المدينة
+13.92 15.5 متجهاً إلى مكة،
+15.74 19.57 في عشرة ألاف من الصحابة رضي الله عنهم،
+19.71 21.51 ولما كان بالجُحْفَة
+21.9 24.83 لقيه عمه العباس بن عبد المطلب،
+25.12 29.09 وكان قد خرج بأهله وعياله مسلماً مهاجراً،
+29.37 33.91 ثم لما كان رسول الله صلى الله عليه وسلم بجبل الأبواء
+34.11 35.65 بين مكة والمدينة
+36.05 39.23 لقيه ابن عمه أبو سفيان ابن الحارث
+39.49 42.55 وابن عمته عبد الله بن أبي أمية،
+42.88 44.01 فأسلما .
+44.5 49.01 وركب العباس بغلة رسول الله صلى الله عليه وسلم البيضاء،
+49.38 50.81 وخرج يلتمس
+51.06 53.3 لعله يجد بعض الحَطَّابة
+53.59 55.47 أو أحداً يخبر قريشاً
+55.81 56.67 ليخرجوا
+56.83 58.65 يستأمنون رسول الله
+58.87 60.78 صلى الله عليه وسلم
+60.94 62.38 قبل أن يدخلها‏.‏
+62.52 65.47 وكان الله قد عمي الأخبار عن قريش،
+65.82 68.09 فهم على وَجَلٍ وترقب،
+68.47 69.87 وكان أبو سفيان
+70.19 72.24 يخرج يتجسس الأخبار،
+72.72 77.4 فرأيه العباس فجاء به إلى رسول الله صلى الله عليه وسلم .
+77.68 79.28 فأسلم بين يدي
+79.65 80.86 قال العباس‏:‏
+81.17 82.48 يا رسول الله،
+82.81 84.35 إن أبا سفيان
+84.67 86.53 رجل يحب الفخر
+86.98 88.68 فاجعل له شيئاً‏.‏
+89.08 90.62 قال‏ عليه السلام :‏
+90.99 91.92 ‏(‏نعم،
+92.34 95.89 من دخل دار أبي سفيان فهو آمن،
+96.21 99.72 ومن أغلق عليه بابه فهو آمن،
+99.94 103.56 ومن دخل المسجد الحرام فهو آمن‏)‏‏.‏
+103.93 108.02 وفي صباح يوم الأربعاء للسابع عشر من شهر رمضان
+108.3 110.12 سنة 8 ه
+110.31 115.02 غادر رسول الله صلى الله عليه وسلم مر الظهران إلى مكة،
+115.49 117.01 فأسرع أبو سفيان
+117.27 118.89 حتى دخل مكة،
+119.2 120.98 وصرخ بأعلى صوته‏:‏
+121.5 123.45 يا معشر قريش،
+124.22 128.17 هذا محمد، قد جاءكم فيما لا قبل لكم به‏.‏
+128.79 131.55 فمن دخل دار أبي سفيان
+131.91 133.33 فهو آمن‏.‏
+133.67 135.56 ومن أغلق بابه
+135.84 137.2 فهو آمن،
+137.38 139.81 ومن دخل المسجد الحرام
+140.03 141.43 فهو آمن‏.‏
+141.65 144.99 فتفرق الناس إلى دورهم وإلى المسجد،
+145.48 148.84 فتجمع سفهاء قريش وأخِفَّاؤها
+149.12 151.03 مع عكرمة بن أبي جهل،
+151.31 152.97 وصفوان بن أمية،
+153.19 155.44 وسهيل بن عمرو بالخَنْدَمَة
+155.89 157.63 وهو جبل عند مكة
+157.83 159.47 ليقاتلوا المسلمين‏.‏
+160.22 162.83 أما رسول الله صلى الله عليه وسلم
+163.12 165.73 فمضي حتى انتهي إلى ذي طوي
+166.09 167.79 وهو موضع عند مكة
+168.12 168.97 وهناك
+169.19 170.47 وزع جيشه،
+170.67 174.23 وكان خالد بن الوليد على المُجَنَّبَةِ اليمني
+174.7 177.43 فأمره أن يدخل مكة من أسفلها،
+177.7 181.32 وكان الزبير بن العوام على المُجَنَّبَةِ اليسري،
+181.79 185.41 ومعه راية رسول الله صلى الله عليه وسلم،
+185.86 188.55 فأمره أن يدخل مكة من أعلاها
+188.89 191.2 وأن يغرز رايته بالحَجُون،
+191.49 193.55 ولا يبرح حتى يأتيه‏.‏
+194.4 197.58 وكان أبو عبيدة على الرجالة والحُسَّر
+198.05 200.6 وهم الذين لاسلاح معهم
+201.06 203.33 فأمره أن يأخذ بطن الوادي
+203.7 205.76 حتى ينصب لمكة
+206.09 207.67 بين يدي رسول الله
+207.97 209.71 صلى الله عليه وسلم‏.‏
+
+# غزوة فتح مكة - ٣ [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F45_3.mp3?alt=media&token=e88f59de-1583-4023-b626-d03499613f82]
+
+## timing
+
+0.18 2.02 الجيش الإسلامي
+2.22 4.05 يدخل مكة‏
+4.37 10.51 وتحركت كل كتيبة من الجيش الإسلامي على الطريق التي كلفت الدخول منها‏.‏
+11.15 13.08 فأما خالد وأصحابه
+13.38 16.9 فلم يلقهم أحد من المشركين إلا أناموه‏.‏
+17.33 19.15 وأما سفهاء قريش
+19.44 22.27 فلقيهم خالد وأصحابه بالخَنْدَمَة
+22.78 25.08 فناوشوهم شيئا من قتال،
+25.41 28.3 فأصابوا من المشركين اثني عشر رجلاً،
+28.65 30.13 فانهزم المشركون،
+30.65 36.18 وأقبل خالد يجوس مكة حتى وافى رسول الله صلى الله عليه وسلم
+36.42 37.38 على الصفا‏.‏
+37.92 39.1 أما الزبير
+39.36 44.46 فتقدم حتى نصب راية رسول الله صلى الله عليه وسلم بالحَجُون
+44.63 45.98 عند مسجد الفتح،
+46.43 48.13 وضرب له هناك قبة،
+48.64 49.73 فلم يبرح
+49.99 53.84 حتى جاءه رسول الله صلى الله عليه وسلم‏.‏
+54.37 57.12 الرسول صلى الله عليه وسلم
+57.26 59.29 يدخل المسجد الحرام
+59.53 62.18 ويطهره من الأصنام‏
+62.36 65.81 ثم نهض رسول الله صلى الله عليه وسلم،
+66.25 70.57 والمهاجرون والأنصار بين يديه وخلفه وحوله،
+70.95 72.77 حتى دخل المسجد،
+73.4 76.03 فأقبل إلى الحجر الأسود، فاستلمه،
+76.52 79.64 ثم طاف بالبيت، وفي يده قوس،
+80.22 84.03 وكان حول البيت ثلاثمائة وستون صنما،
+84.4 86.38 فجعل يطعنها بالقوس،
+86.64 88.99 وهو يردد قول الله تعالى:
+89.28 92.37 {‏جَاء الْحَقُّ وَزَهَقَ الْبَاطِلُ
+92.7 95.31 إِنَّ الْبَاطِلَ كَانَ زَهُوقًا‏}‏‏[‏الإسراء‏:‏81‏]‏، ‏
+95.45 99.56 {جَاء الْحَقُّ وَمَا يُبْدِئُ الْبَاطِلُ وَمَا يُعِيدُ‏}‏ ‏[‏سبأ‏:‏49‏]‏
+99.56 102.86 والأصنام تتساقط على وجوهها‏.‏
+103.39 105.68 وكان طوافه على راحلته،
+105.94 108.07 ولم يكن محرماً يومئذ،
+108.37 109.97 فاقتصر على الطواف،
+110.44 112.83 ودخل الكعبة فرأي فيها الصور،
+113.11 115.3 فأمر بها فمحيت‏.‏
+115.88 117.3 ثم صلي هناك‏.‏
+117.4 118.88 ثم دار في البيت،
+119.12 120.8 وكبر في نواحيه،
+121.09 122.38 ووحد الله،
+122.71 127.34 ثم فتح الباب، وقريش قد ملأت المسجد صفوفاً
+127.59 129.92 ينتظرون ماذا يصنع‏؟‏
+130.12 132.71 فقال صلى الله عليه وسلم ‏:‏
+133.05 136.68 ‏(‏لا إله إلا الله وحده لا شريك له،
+137.1 138.44 صدق وعده،
+138.77 140.18 ونصر عبده،
+140.51 142.63 وهزم الأحزاب وحده،
+143.16 146.44 ألا كل مأثُرَة أو مال أو دم
+146.6 149.07 فهو تحت قدمي هاتين،
+149.27 151.18 إلا سِدَانَة البيت
+151.48 153.06 وسِقاية الحاج،
+153.51 156.4 ألاوقتيل الخطأ شبه العمد
+156.56 157.92 السوط والعصا
+158.16 159.99 ففيه الدية مغلظة،
+159.99 161.51 مائة من الإبل
+161.91 164.95 أربعون منها في بطونها أولاد‏ها.‏
+165.37 166.95 يا معشر قريش
+167.09 172.3 إن الله قد أذهب عنكم نخوة الجاهلية وتعظمها بالآباء،
+172.62 174.47 الناس من آدم،
+174.55 176.47 وآدم من تراب
+176.98 179.18 ثم تلا هذه الآية‏:‏ ‏
+180.24 182.34 {‏يا أيها الناس
+182.63 186.53 إنا خلقناكم من ذكر وأنثى
+186.88 191.33 وجعلناكم شعوبا وقبائل لتعارفوا
+191.72 195.04 إن أكرمكم عند الله أتقاكم
+195.38 198.36 إن الله عليم خبير‏}‏‏.‏
+198.72 200.04 ثم قال‏:‏ ‏
+200.36 202.07 (‏يا معشر قريش
+202.47 204.96 ما ترون أني فاعل بكم‏؟‏‏)‏
+205.47 206.4 قالوا‏:‏
+206.56 207.49 خيرًا،
+207.69 209.07 أخ كريم
+209.27 210.81 وابن أخ كريم،
+210.91 211.8 قال‏:‏ ‏
+212.15 215.61 (‏فإني أقول لكم كما قال يوسف لإخوته‏:‏ ‏
+216.04 218.45 {‏لاَ تَثْرَيبَ عَلَيْكُمُ‏ } اليوم‏
+218.69 219.7 اذهبوا
+219.97 221.87 فأنتم الطلقاء‏)‏‏.‏
+222.5 226.69 وأهدر رسول الله صلى الله عليه وسلم يومئذ
+227.03 230.37 دماء تسعة نفر من أكابر المجرمين،
+230.76 232.28 وأمر بقتلهم
+232.48 235.01 وإن وجدوا تحت أستار الكعبة،
+235.56 236.21 وهم
+236.61 238.39 عبد العزى بن خطل،
+238.7 240.66 وعبدالله بن أبي سرح،
+240.96 242.93 وعكرمة بن أبي جهل،
+243.25 245.84 والحارث بن نفيل بن وهب،
+246.07 247.81 ومقيس بن صبابة،
+248.09 250 وهبار بن الأسود،
+250.56 251.78 وقينتان
+252 253.58 كانتا لابن الأخطل،
+253.9 258.14 وكانت تغنيان بهجو النبي صلى الله عليه وسلم،
+258.67 259.53 وسارة
+259.73 261.41 التي كانت مولاة
+261.67 263.78 لبعض بني عبد المطلب .
+
+# أخذ البيعة [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F46.mp3?alt=media&token=04b3c825-5de7-47ce-a200-459f4cb5de44]
+
+## timing
+
+0.14 1.99 أخذ البيعة
+2.23 7.96 وحين فتح الله مكة على رسول الله صلى الله عليه وسلم والمسلمين ،
+8.49 10.65 تبين لأهل مكة الحق ،
+11.19 14.72 وعلموا أن لا سبيل إلى النجاح إلا الإسلام ،
+15.26 16.55 فأذعنوا له
+16.77 18.28 واجتمعوا للبيعة ،
+19.1 22.87 فجلس رسول الله صلى الله عليه وسلم على الصفا
+23.05 24.4 يبايع الناس .
+24.72 27.17 وعمر بن الخطاب أسفل منه،
+27.17 28.57 يأخذ على الناس،
+29.18 32.52 فبايعوه على السمع والطاعة فيما استطاعوا.
+32.96 38.04 وأقام رسول الله صَلَّى الله عليه وسلم بمكة تسعة عشر يومًا،
+38.37 40.37 يجدد معالم الإسلام،
+40.75 43.43 ويرشد الناس إلى الهدى والتقى.
+44.02 46.78 وبث سراياه للدعوة إلى الإسلام،
+47.09 50.02 ولكسر الأوثان التي كانت حول مكة،
+50.4 52.15 فكسرت كلها،
+52.69 54.98 ونادى مناديه بمكة:
+55.62 58.68 "من كان يؤمن بالله واليوم الآخر
+58.99 61.53 فلا يدع في بيته صنمًا
+61.81 63.16 إلا كسره".
+
+# السرايا والبعوث [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F47.mp3?alt=media&token=1e2e9b57-4fea-4604-bd42-81c720da02b4]
+
+## timing
+
+0 3.11 السرايا والبعوث
+3.25 7.46 ولما اطمأن رسول الله صلى الله عليه وسلم بعد الفتح
+7.74 11.63 بعث خالد بن الوليد إلى العزى ليهدمها
+12.01 14.85 وكانت لقريش وجميع بني كنانة
+15.33 17.1 وهي أعظم أصنامهم‏.‏
+17.37 21.05 فخرج إليها خالد في ثلاثين فارسًا فهدمها‏.‏
+21.36 25.9 ثم بعث عمرو بن العاص في الشهر نفسه إلى سواع ليهدمه
+26.33 28.8 وهو صنم لهذيل برهاط،
+28.96 31.13 على ثلاثة أميال من مكة،
+31.35 32.31 فهدمه .
+32.91 35.73 ثم بعث سعد بن زيد بن الأشهلي
+36 38.24 في عشرين فارسًا إلى مناة
+38.58 40.58 وكانت للأوس والخزرج
+40.83 42.55 وغسان وغيرهم،
+42.69 43.82 فهدمها .
+44.5 50.68 آخر مرحلة من مراحل حياة الرسول صلى الله عليه وسلم‏.‏
+50.72 54.96 وهي تمثل النتائج التي أثمرتها دعوته الإسلامية
+55.19 56.72 بعد جهاد طويل
+56.93 58.59 وعناء ومتاعب
+58.82 61.31 وقلاقل وفتن واضطرابات
+61.59 63.86 ومعارك وحروب دامية
+64.06 67.44 واجهتها طيلة بضعة وعشرين عامًا‏.‏
+67.83 73.05 وكان فتح مكة هو أخطر كسب حصل عليه المسلمون في هذه الأعوام،
+73.86 76.21 تغير لأجله مجرى الأيام،
+76.61 78.66 وتحول به جو العرب،
+79.49 83.63 فقد كان الفتح حدًا فاصلا بين مدة السابقة عليه
+83.99 85.35 وبين ما بعده،
+85.95 87.28 فإن قريشًا
+87.71 90.71 كانت في نظر العرب حماة الدين وأنصاره،
+91.53 93.91 والعرب في ذلك تبع لهم،
+94.38 98.49 فخضوع قريش يعتبر القضاء الأخير على الدين الوثني
+98.89 100.53 في جزيرة العرب‏.‏
+
+# غزوة حنين [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F48.mp3?alt=media&token=bfd063a7-0039-4830-a365-acc3c520819b]
+
+## timing
+
+0 2 غزوة حنين
+2.14 6.88 جاء فتح مكة عقب ضربة خاطفة شده لها العرب،
+7.2 10.73 وبوغتت القبائل المجاورة بالأمر الواقع
+10.87 17.39 ولذلك لم تمتنع من الاستسلام إلا بعض القبائل الشريسة القوية المتغطرسة،
+17.72 21.05 وفي مقدمتها بطون هوازن وثقيف،
+21.17 24.74 واجتمعت إليها نصر وجشم وسعد بن بكر
+24.92 26.81 وناس من بني هلال
+26.97 29.23 وكلها من قيس عيلان
+29.62 32.89 رأت هذه البطون من نفسها عزًا وأنفة
+33.09 35.9 أن تقابل هذا الانتصار بالخضوع،
+36.2 39.01 فاجتمعت إلى مالك بن عوف النصري،
+39.29 40.95 وقررت المسير
+41.03 42.95 إلى حرب المسلمين.
+43.28 46.03 الرسول صلى الله عليه وسلم
+46.45 49.22 يغادر مكة إلى حنين
+49.46 51.01 وفي يوم السبت
+51.35 54.34 السادس من شوال سنة 8 ه
+54.74 60.48 غادر رسول اللّه صلى الله عليه وسلم مكة في اثني عشر ألفاً من المسلمين ؛
+61.06 62.51 عشرة آلاف
+62.75 65.24 ممن كانوا خرجوا معه لفتح مكة،
+65.62 67.38 وألفان من أهل مكة‏.‏
+67.74 70.47 وأكثرهم حديثو عهد بالإسلام
+70.94 72.47 ولما كان عشية
+72.76 74.47 جاء فارس، فقال‏:‏
+74.69 77.24 إني طلعت جبل كذا وكذا،
+77.48 80.87 فإذا أنا بهوازن على بكرة أبيهم
+80.97 83.96 بِظُعُنِهم ونَعَمِهم وشائهم
+84.12 88.5 فتبسم رسول اللّه صلى الله عليه وسلم وقال‏:‏
+89.02 92.85 "تلك غنيمة المسلمين غدًا إن شاء اللّه".
+92.97 97.08 وقال بعض المسلمين لما رأوا كثرة الجيش‏:‏
+97.3 98.97 لن نُغْلَبَ اليوم،
+99.27 102.86 فشق ذلك على رسول اللّه صلى الله عليه وسلم.‏
+103.41 106.07 فلما انتهى الجيش الإسلامي إلى حنين،
+106.15 109.02 وكان مالك بن عوف قد سبقهم،
+109.29 111.99 فأدخل جيشه بالليل في ذلك الوادي،
+112.52 117.71 وفرق كُمَنَاءه في الطرق والمداخل والشعاب والأخباء والمضايق،
+118.06 119.78 وأصدر إليهم أمره
+119.98 122.91 بأن يرشقوا المسلمين أول ما طلعوا،
+123.45 125.78 ثم يشدوا شدة رجل واحد‏.‏
+126.36 127.55 وبالسَّحَر
+127.89 131.5 عبأ رسول اللّه صلى الله عليه وسلم جيشه،
+131.76 133.77 وعقد الألوية والرايات،
+133.97 135.84 وفرقها على الناس،
+135.84 137.4 وفي عَمَاية الصبح
+137.78 140.19 استقبل المسلمون وادي حنين،
+140.35 142.34 وشرعوا ينحدرون فيه،
+142.68 147.29 وهم لا يدرون بوجود كمناء العدو في مضايق هذا الوادي،
+147.43 149.24 فبينما هم ينحطون
+149.42 151.73 إذا تمطر عليهم النبال،
+151.85 156.04 وإذا كتائب العدو قد شدت عليهم شدة رجل واحد،
+156.37 158.49 فانشمر المسلمون راجعين،
+158.49 160.68 لا يلوي أحد على أحد،
+160.78 163.07 وكانت هزيمة منكرة،
+163.37 168.49 وانحاز رسول اللّه صلى الله عليه وسلم جهة اليمين وهو يقول‏:‏
+168.79 170.87 ‏" هَلُمُّوا إليَّ أيها الناس،
+171.05 172.38 أنا رسول الله،
+172.62 174.65 أنا محمد بن عبد اللّه".
+174.97 178.54 ولم يبق معه في موقفه إلا عدد قليل
+178.72 181.01 من المهاجرين وأهل بيته.‏
+181.27 182.47 وحينئذ
+182.75 186.07 ظهرت شجاعة النبي صلى الله عليه وسلم
+186.25 187.99 التي لا نظير لها،
+188.47 191.93 فقد طفق يركض بغلته قبل الكفار
+192.11 193.29 وهو يقول‏:‏
+193.55 195.14 " أنا النبي لا كَذِبْ
+195.46 197.22 أنا ابن عبد المطلب".
+197.87 201 ثم نزل رسول اللّه صلى الله عليه وسلم
+201.18 203.3 فاستنصر ربه قائلاً‏:
+203.69 208.54 "اللّهم أنزل نصرك , اللّهم أنزل نصرك".
+209.55 211.35 رجوع المسلمين
+211.53 213.56 واحتدام المعركة:‏
+214.12 218.23 وأمر رسول اللّه صلى الله عليه وسلم عمه العباس
+218.6 220.18 وكان جَهِيَر الصوت
+220.44 222.07 أن ينادي الصحابة،
+222.49 223.89 قال العباس‏:‏
+224.24 225.76 فقلت بأعلى صوتي‏:‏
+226.02 228.11 أين أصحاب السَّمُرَة‏؟‏
+228.29 229.11 قال‏:‏
+229.25 234.57 فو الله لكأن عَطْفَتَهُم حين سمعوا صوتي عَطْفَة البقر على أولادها،
+235.09 236.02 فقالوا‏:‏
+236.14 238.84 يا لبيك، يا لبيك.‏
+239.21 242.02 حتى إذا اجتمع إليه منهم مائة
+242.28 244.34 استقبلوا الناس واقتتلوا‏.‏
+244.64 248.5 وتلاحقت كتائب المسلمين واحدة تلو الأخرى
+249.04 252.27 وتجالد الفريقان مجالدة شديدة،
+252.49 257.59 ونظر رسول اللّه صلى الله عليه وسلم إلى ساحة القتال،
+257.77 259.96 وقد استحر واحتدم،
+260.2 261.24 فقال‏:
+261.66 264.59 "الآن حَمِي الوَطِيسُ ".
+265.29 269.35 ثم أخذ رسول اللّه صلى الله عليه وسلم قبضة من تراب
+269.81 272.78 فرمى بها في وجوه القوم وقال‏:‏
+273.22 275.09 "شاهت الوجوه "،
+275.61 280.59 فما خلق اللّه إنساناً إلا ملأ عينيه تراباً من تلك القبضة،
+281.07 284.02 فلم يزل حَدُّهُم كَلِيلاً وأمرهم مُدْبِرًا‏.
+284.44 286.93 وما هي إلا ساعات قلائل
+287.11 289.82 حتى انهزم العدو هزيمة منكرة،
+290.1 292.13 وقتل من ثَقِيف وحدهم
+292.31 293.59 نحو السبعين،
+293.87 298.37 وحاز المسلمون ما كان مع العدو من مال وسلاح وظُعُن‏.
+298.69 302.56 وهذا هو التطور الذي أشار إليه سبحانه وتعالى
+302.84 304.07 في قوله‏:‏
+304.37 311.05 {‏‏وَيَوْمَ حُنَيْنٍ إِذْ أَعْجَبَتْكُمْ كَثْرَتُكُمْ فَلَمْ تُغْنِ عَنكُمْ شَيْئًا
+311.89 317.89 وَضَاقَتْ عَلَيْكُمُ الأَرْضُ بِمَا رَحُبَتْ ثُمَّ وَلَّيْتُم مُّدْبِرِينَ
+319.08 324.47 ثُمَّ أَنَزلَ اللّهُ سَكِينَتَهُ عَلَى رَسُولِهِ وَعَلَى الْمُؤْمِنِينَ
+325.02 327.59 وَأَنزَلَ جُنُودًا لَّمْ تَرَوْهَا
+328.09 334.21 وَعذَّبَ الَّذِينَ كَفَرُواْ وَذَلِكَ جَزَاء الْكَافِرِينَ}. سورة التوبة‏(25، 26‏).‏
+335.39 337.46 حركة المطاردة
+338.04 339.99 انهزم العدو إ إلى طائف
+340.11 341.23 وإلى نَخْلَة،
+341.45 342.86 وإلى أوْطاس،
+343.26 346.87 فأرسل النبي صلى الله عليه وسلم إلى أوطاس
+347.11 349.24 طائفة من المطاردين
+349.5 352.17 فَتَنَاوَشَ الفريقان القتال قليلاً،
+352.81 354.82 ثم انهزم جيش المشركين،
+355.4 358.15 وطاردت طائفة أخري من المسلمين
+358.41 361.14 فلول المشركين الذين سلكوا نخلة،
+361.72 365.35 وأما معظم فلول المشركين الذين لجأوا إلى الطائف،
+365.75 367.46 فتوجه إليهم
+367.6 370.77 رسول اللّه صلى الله عليه وسلم بنفسه
+371.11 372.77 بعد أن جمع الغنائم‏.‏
+373.42 376.33 فكانت من السبي ستة آلاف رأس،
+376.67 379.64 و من الإبل أربعة وعشرين ألفاً،
+380.16 383.43 و من الغنم أكثر من أربعين ألف شاة،
+384.02 386.59 وأربعة آلاف أوقية فضة،
+387.27 390.84 أمر رسول اللّه صلى الله عليه وسلم بجمعها،
+391.15 393.03 ثم حبسها بالجِعْرَانَة،
+393.29 396.72 ولم يقسمها حتى فرغ من غزوة الطائف‏.‏
+
+# غزوة الطائف‏‏ [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F49.mp3?alt=media&token=dab7ab39-96d5-48aa-92f5-1bf6a8ef4f12]
+
+## timing
+
+0 2.02 غزوة الطائف‏‏
+2.56 4.89 وهذه الغزوة في الحقيقة
+5.1 7.18 امتداد لغزوة حنين،
+7.45 11.79 وذلك أن معظم فلول هَوَازن وثَقِيف دخلوا الطائف
+12.08 15.17 مع القائد العام مالك بن عوف النَّصْرِي
+15.42 16.86 وتحصنوا بها،
+17.33 20.62 فسار إليهم رسول الله صلى الله عليه وسلم
+20.62 22.62 بعد فراغه من حنين
+22.91 25.95 وجمع الغنائم بالجعرانة، في الشهر نفسه
+26.2 28.46 شوال سنة 8 ه‏.‏
+28.74 30.01 فحاصرهم
+30.16 32.82 ودام الحصار مدة غير قليلة،
+33.35 37.27 ووقعت في هذه المدة مراماة، ومقاذفات،
+37.58 42.28 ونصب النبي صلى الله عليه وسلم المنجنيق على أهل الطائف،
+42.55 44.32 وقذف به القذائف،
+44.8 47.9 ونادى مناديه صلى الله عليه وسلم‏:‏
+48.05 50.69 أيما عبد نزل من الحصن
+50.96 53.44 وخرج إلينا فهو حر،
+53.82 56.35 فخرج إليهم ثلاثة وعشرون
+56.84 58.55 فأعتقهم رسول اللّه
+59.27 60.78 ولما طال الحصار
+61.09 62.46 واستعصي الحصن،
+62.6 67.8 وأصيب المسلمون بما أصيب من رشق النبال وبسكك الحديد المحماة
+68.39 71.43 عزم رسول اللّه صلى الله عليه وسلم
+71.72 73.7 على رفع الحصار والرحيل،
+74.35 76.48 فأمر عمر بن الخطاب
+76.67 78.33 فأذن في الناس،
+78.45 80.74 إنا قافلون غداً إن شاء اللّه،
+80.74 82.33 فثقل عليهم
+82.52 84.93 ولما ارتحلوا واستقلوا قال‏:‏
+85.08 86.02 قولوا‏:‏ ‏
+86.38 89.04 (‏آيبون تائبون عابدون،
+89.44 91.48 لربنا حامدون‏)‏‏.‏
+91.92 92.92 وقيل‏:‏
+93.34 94.79 يا رسول اللّه،
+94.81 96.24 ادع على ثقيف،
+96.51 100.22 فقال‏ رسول اللّه صلى الله عليه وسلم:‏
+100.89 103.26 ‏(‏اللّهم اهد ثقيفا،
+103.49 104.77 وائت بهم‏)‏‏.‏
+105.15 107.79 قسمة الغنائم بالجِعْرَانَة‏‏
+108.29 113.33 عاد رسول اللْه صلى الله عليه وسلم بعد رفع الحصار عن الطائف
+113.81 115.45 فمكث بالجعرانة
+115.74 117.31 بضع عشرة ليلة
+117.63 119.31 لا يقسم الغنائم،
+119.58 121.04 ويتأني بها،
+121.25 124.93 يبتغي أن يقدم عليه وفد هوازن تائبين
+125.26 127 فيحرزوا ما فقدوا،
+127.61 129 فلم يجئه أحد،
+129.47 131.11 فبدأ بقسمة المال،
+131.57 135.7 ليسكت المتطلعين من رؤساء القبائل وأشراف مكة،
+136.56 138.77 فكان المؤلفة قلوبهم
+139.14 140.63 أول من أعطي
+140.84 143.06 وحظي بالأنصبة الجزلة‏.‏
+143.94 145.77 وبعد توزيع الغنائم
+146.08 148.29 أقبل وفد هوازن مسلماً،
+148.81 152.14 فسألوه أن يمن عليهم بالسبي والأموال ،
+152.4 155.62 وأدلوا إليه بكلام ترق له القلوب
+155.96 159.99 فقال رسول اللّه صلى الله عليه وسلم‏ لأصحابه:‏ ‏
+160.74 164.18 (‏إن هؤلاء القوم قد جاءوا مسلمين،
+164.68 166.87 وقد كنت استأنيت سَبْيَهُمْ،
+167.33 168.77 وقد خيرتهم
+169.11 172.21 فلم يعدلوا بالأبناء والنساء شيئاً،
+172.88 175.46 فمن كان عنده منهن شيء
+175.74 178.04 فطابت نفسه بأي ردة
+178.46 179.55 فليردها.
+179.78 184.98 فقال الناس‏:‏ قد طيبنا لرسول اللّه صلى الله عليه وسلم‏.‏
+185.88 189.05 العمرة والانصراف إلى المدينة‏
+189.49 194.88 ولما فرغ رسول اللّه صلى الله عليه وسلم من قسمة الغنائم في الجِعْرَانة
+195.43 197.25 أهلَّ معتمراً منها،
+197.73 198.82 فأدي العمرة،
+199.29 202.24 وانصرف بعد ذلك راجعاً إلى المدينة
+202.51 205.79 بعد أن ولي على مكة عَتَّاب بن أسيد،
+206.16 208.15 وكان رجوعه إلى المدينة
+208.41 210.13 لست ليال بقيت
+210.27 211.34 من ذي القعدة
+211.57 213.63 سنة 8 ه‏.
+215.87 217.88 البعوث والسرايا
+217.93 220.65 بعد الرجوع من غزوة الفتح
+221.93 225.01 وبعد الرجوع من هذا السفر الطويل الناجح
+225.35 230.24 أقام رسول اللّه صلى الله عليه وسلم بالمدينة يستقبل الوفود،
+230.68 232.02 ويبعث العمال،
+232.46 233.86 ويبث الدعاة،
+234.3 238.73 ويَكْبِتُ من بقي فيه الاستكبار عن الدخول في دين اللّه،
+239.09 241.1 والاستسلام للأمر الواقع
+241.62 243.26 الذي شاهدته العرب‏.‏
+243.83 246.76 فما هو إلا أن استهل هلال المحرم
+247.14 249.13 من سنة 9ه،
+249.65 254.75 حتّى بعث رسول اللَّه صلى الله عليه وسلم المصدقين إلى القبائل.
+255.74 257.95 ثم بعث عدة من السرايا
+258.3 261.41 لييسود الأمن على عامة مناطق الجزيرة
+
+# غزوة تبوك - ١ [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F50_1.mp3?alt=media&token=22c21824-02f6-4c4f-9b7a-7f7a596e487f]
+
+## timing
+
+0 1.51 غزوة تبوك
+1.75 4.56 في رجب سنة 9ه
+5.27 7.11 بعد غزوة فتح مكة
+7.45 10.05 دخل الناس في دين اللّه أفواجاً
+10.51 12.57 وانتهت المتاعب الداخلية،
+12.88 15.78 واستراح المسلمون لتعليم شرائع اللهّّ،
+16.03 17.68 وبث دعوة الإسلام‏.‏
+18.35 20.09 بوقيت قوة الرومان
+20.31 23.66 أكبر قوة عسكرية ظهرت على وجه الأرض
+23.81 25.44 في ذلك الزمان .
+25.69 29.99 ولم يكن قيصر ليصرف نظره عما كان لمعركة مؤتة
+30.48 33.16 من الأثر الكبير لصالح المسلمين،
+33.85 36.31 وعما كان يطمح إليه بعد ذلك
+36.64 40.16 كثير من قبائل العرب من استقلالهم عن قيصر،
+40.58 42.53 ومواطأتهم للمسلمين،
+43.01 45.28 مما يهدد الثغور الشامية
+45.49 47.15 التي تجاور العرب،
+47.8 50.71 فكان يريد القضاء على قوة المسلمين
+51 54.38 قبل أن تتجسد في صورة خطر عظيم
+54.59 56.38 لا يمكن القضاء عليها،
+56.83 58.79 ونظراً إلى هذه المصالح،
+59.25 62.52 لم يقض قيصر بعد معركة مؤتة سنة كاملة
+62.75 66.23 حتى أخذ يهيئ الجيش من الرومان والعرب
+66.56 69.61 التابعة لهم من آل غسان وغيرهم،
+70.47 73.95 وبدأ يجهز لمعركة دامية فاصلة‏.‏
+74.53 75.98 فبلغ المسلمين
+76.3 77.34 أن هرقل
+77.64 82.02 قد هيأ جيشاً عرمرما قوامه أربعون ألف مقاتل،
+82.42 85.69 أعطي قيادته لعظيم من عظماء الروم،
+85.84 91.48 وأنه أجلب معهم قبائل لَخْمٍ وجُذَامٍ وغيرهما من متنصرة العرب،
+91.48 94.27 وأن مقدمتهم بلغت إلى البلقاء،
+94.45 95.42 وهكذا
+95.59 98.59 تمثل أمام المسلمين خطر كبير‏.‏
+98.8 103.58 وزاد في خطورة الموقف‏ أن الزمان كان فصل القيظ الشديد،
+104.27 108.99 وكان الناس في عسرة وجدب من البلاء وقلة من الظهر،
+109.74 111.67 وكانت الثمار قد طابت،
+112.26 115.68 فكانوا يحبون المقام في ثمارهم وظلالهم،
+116.08 118.8 ولكن الرسول صلى الله عليه وسلم
+119.37 124.55 كان ينظر إلى الظروف والتطورات بنظر أدق وأحكم من هذا كله،
+124.99 129.18 لذلك قرر القيام مع ما كان فيه من العسرة والشدة
+129.66 133.96 بغزوة فاصلة يخوضها المسلمون ضد الرومان في حدودهم،
+134.32 135.7 ولا يمهلونهم
+135.85 138.49 حتى يزحفوا إلى دار الإسلام‏.‏
+139.31 142.16 فأمر الصحابة أن يتجهزوا للقتال،
+142.41 144.43 وبعث إلى القبائل من العرب
+144.66 147.03 وإلى أهل مكة يستنفرهم‏.‏
+147.45 148.75 وأعلن أنه
+148.91 150.76 يريد لقاء الرومان،
+150.76 152.54 وجلي للناس أمرهم ؛
+152.81 154.95 ليتأهبوا أهبة كاملة،
+155.14 157.03 وحضهم على الجهاد،
+157.14 161.29 ونزلت قطعة من سورة براءة تثيرهم على الجلاد،
+161.6 163.41 وتحثهم على القتال،
+163.95 167.24 ورغبهم رسول اللّه صلى الله عليه وسلم
+167.51 169.02 في بذل الصدقات،
+169.26 172.3 وإنفاق كرائم الأموال في سبيل اللّه‏.‏
+172.51 176.22 المسلمون يتسابقون إلى التجهز للغزو‏‏
+176.45 180.47 وبدأ الناس يتجهزون للقتال بسرعة بالغة،
+181.15 184.56 وأخذت القبائل والبطون تهبط إلى المدينة
+184.86 186.95 من كل صوب وناحية،
+187.69 189.83 ولم يرض أحد من المسلمين
+190.16 192.32 أن يتخلف عن هذه الغزوة
+192.85 195.11 إلا الذين في قلوبهم مرض
+195.51 197.36 وإلا ثلاثة نفر
+198.01 200.84 حتى كان يجيء أهل الحاجة والفاقة
+201.3 204.65 يستحملون رسول اللّه صلى الله عليه وسلم ؛
+204.99 207.32 ليخرجوا إلى قتال الروم،
+207.67 209.52 فإذا قال لهم‏:‏ ‏
+209.98 216.86 {‏لاَ أَجِدُ مَا أَحْمِلُكُمْ عَلَيْهِ تَوَلَّواْ وَّأَعْيُنُهُمْ تَفِيضُ مِنَ الدَّمْعِ حَزَنًا
+217.38 220.63 أَلاَّ يَجِدُواْ مَا يُنفِقُونَ‏}‏ ‏[‏التوبة‏:‏92‏]‏‏.‏
+220.72 224.99 كما تسابق المسلمون في إنفاق الأموال وبذل الصدقات،
+225.41 228.48 فكان عثمان بن عفان قد جهز عيراً للشام،
+228.73 231.91 مائتا بعير بأقتابها وأحلاسها،
+232.15 233.53 ومائتا أوقية،
+233.68 234.95 فتصدق بها،
+235.14 239.15 ثم تصدق بمائة بعير بأحلاسها وأقتابها،
+239.4 244.69 ثم جاء بألف دينار فنثرها في حجره صلى الله عليه وسلم،
+244.71 249.44 فكان رسول اللّه صلى الله عليه وسلم يقلبها ويقول‏:‏
+249.86 253.16 ‏(‏ما ضَرَّ عثمان ما عمل بعد اليوم‏)‏ ،
+253.16 255.3 ثم تصدق وتصدق
+255.42 259.85 حتى بلغ مقدار صدقته تسعمائة بعير ومائة فرس
+260.04 261.27 سوى النقود‏.‏
+
+# غزوة تبوك - ٢ [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F50_2.mp3?alt=media&token=853b6a14-558d-4d54-bab2-21281226fc24]
+
+## timing
+
+0.06 4.21 وجاء عبد الرحمن بن عوف بمائتي أوقية فضة،
+4.65 7.02 وجاء أبو بكر بماله كلّه
+7.4 10.38 ولم يترك لأهله إلا اللّه ورسوله
+10.88 11.87 وكانت
+12.1 13.87 أربعة آلاف درهم
+14.26 16.6 وهو أول من جاء بصدقته‏.‏
+16.92 19.2 وجاء عمر بنصف ماله،
+19.58 21.99 وجاء العباس بمال كثير،
+22.5 26.65 وجاء طلحة وسعد بن عبادة ومحمد بن مسلمة،
+27.09 28.79 كلهم جاءوا بمال‏.‏
+29.16 33.15 وجاء عاصم بن عدي بتسعين وَسْقًا من التمر،
+33.55 35.67 والوسق ستون صاعا .
+36.21 38.58 وتتابع الناس بصدقاتهم
+38.83 40.61 قليلها وكثيرها،
+40.91 44.2 حتى كان منهم من أنفق مُدّا أو مدين
+44.47 46.47 لم يكن يستطيع غيرها‏.‏
+46.95 50.2 وبعثت النساء ما قدرن عليه من السوار
+50.51 54.16 ومعاضد وخلاخل وقُرْط وخواتم‏.‏
+54.58 56.57 ولم يمسك أحد يده،
+56.83 58.65 ولم يبخل بماله
+58.75 60.7 إلا المنافقون ‏
+60.85 67.1 {‏الَّذِينَ يَلْمِزُونَ الْمُطَّوِّعِينَ مِنَ الْمُؤْمِنِينَ فِي الصَّدَقَاتِ
+67.85 72.85 وَالَّذِينَ لاَ يَجِدُونَ إِلاَّ جُهْدَهُمْ فَيَسْخَرُونَ مِنْهُمْ‏}‏‏[‏التوبة‏:‏ 79‏]‏‏.‏
+73.08 74.27 وهكذا
+74.63 76.56 تجهز الجيش للخروج ،
+76.98 82.55 وخلف رسول اللّه صلى الله عليه وسلم على أهله على بن أبي طالب،
+82.55 84.76 وأمره بالإقامة فيهم،
+84.82 87.27 وغَمَصَ عليه المنافقون،
+87.52 89.03 أي طعن في دينه
+89.2 90.92 واتّهمه بالنفاق
+91.17 95.12 فخرج فلحق برسول الله صلى الله عليه وسلم :
+95.56 99.71 (‏ألا ترضى أن تكون مني بمنزلة هارون من موسي،
+100.21 103.4 إلا أنه لا نبي بعدي‏)‏‏.‏
+103.65 109.19 ثم تحرك رسول اللّه صلى الله عليه وسلم نحو الشمال يريد تبوك،
+109.96 112.39 ومعه ثلاثون ألف مقاتل،
+112.67 116.53 وكانت في الجيش قلة شديدة في الزاد والمراكب،
+117.39 121.52 فكان ثمانية عشر رجلاً يعتقبون بعيراً واحداً،
+122.5 124.94 وربما أكلوا أوراق الأشجار
+125.48 127.68 حتى تورمت شفاههم،
+128.21 130.2 واضطروا إلى ذبح البعير
+130.53 132.02 مع قلتها
+132.27 135.02 ليشربوا ما في كروشها من الماء،
+135.57 136.53 ولذلك
+136.8 138.63 سمي هذا الجيش
+139.07 140.63 جيش العُسْرَةِ‏.‏
+141.44 144.82 واشتدت في الطريق حاجة الجيش إلى الماء
+145.15 149.01 حتى شكوا إلى رسول اللّه،
+149.51 150.77 فدعا اللّه،
+151.11 155.13 فأرسل اللّه سحابة فأمطرت حتى ارتوي الناس،
+155.7 157.98 واحتملوا حاجاتهم من الماء‏.‏
+158.42 161.07 ثم نزل الجيش الإسلامي بتبوك،
+161.28 162.66 فعسكر هناك،
+162.95 165.99 وقام رسول اللّه صلى الله عليه وسلم
+166.23 167.59 فيهم خطيباً،
+167.95 169.85 فخطب خطبة بليغة،
+170.04 172.01 أتي بجوامع الكلم،
+172.27 175.2 وحض على خير الدنيا والآخرة،
+175.26 176.86 وحذر وأنذر،
+177.09 178.74 وبشر وأبشر،
+178.93 181.32 حتى رفع معنوياتهم،
+181.53 182.75 وجبر بها
+182.75 185.25 ما كان فيهم من النقص والخلل
+185.48 187.38 من حيث قلة الزاد
+187.47 188.64 والمادة
+188.64 189.92 والمؤنة‏.‏
+190.32 192.61 وأما الرومان وحلفاؤهم
+192.94 196.69 فلما سمعوا بزحف رسول اللّه صلى الله عليه وسلم
+197.03 198.54 أخذهم الرعب،
+198.85 201.5 فلم يجترئوا على التقدم واللقاء،
+202.06 204.77 بل تفرقوا في البلاد داخل حدودهم،
+205.08 206.4 فكان لذلك
+206.74 210.47 أحسن أثر بالنسبة إلى سمعة المسلمين العسكرية،
+210.74 213.51 في داخل الجزيرة وأرجائها النائية،
+213.85 219.09 وحصل بذلك المسلمون على مكاسب سياسية كبيرة خطيرة،
+219.43 221.99 بما لم يكونوا يحصلون عليها
+222.24 225.19 لو وقع هناك اصطدام بين الجيشين‏.‏
+225.86 229.72 وأيقنت القبائل التي كانت تعمل لحساب الرومان
+230.08 233.06 أن اعتمادها على سادتها الأقدمين
+233.33 234.76 قد فات أوانه،
+235.16 237.71 فانقلبت لصالح المسلمين،
+238.3 239.27 وهكذا
+239.6 242.07 توسعت حدود الدولة الإسلامية،
+242.29 245.46 حتى لاقت حدود الرومان مباشرة،
+245.96 247.91 وشهد عملاء الرومان
+248.1 249.4 نهايتهم
+249.49 251.14 إلى حد كبير‏.‏
+
+# الرجوع إلى المدينة‏‏ [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F51.mp3?alt=media&token=14a9e92b-8359-492a-a15c-300f00d4b3c5]
+
+## timing
+
+0.11 2.43 الرجوع إلى المدينة‏‏
+2.55 6.96 ورجع الجيش الإسلامي من تبوك مظفرين منصورين،
+7.23 8.96 لم ينالوا كيداً،
+9.22 11.97 وكفي الله المؤمنين القتال،
+12.12 18.56 ولما لاحت للنبي صلى الله عليه وسلم معالم المدينة من بعيد قال‏:‏
+18.93 20.81 ‏(‏هذه طَابَةُ،
+21.09 22.71 وهذا أحُدٌ،
+22.97 26.08 جبل يحبنا ونحبه‏)‏،
+26.29 28.5 وتسامع الناس بمقدمه،
+28.93 34.21 فخرج النساء والصبيان والولائد يقابلن الجيش بحفاوة بالغة
+35.18 37.03 واستغرقت هذه الغزوة
+37.27 38.53 خمسين يوماً،
+39.19 41.73 أقام منها عشرين يوماً في تبوك،
+41.89 45.4 والبواقي قضاها في الطريق جيئة وذهوبًا‏.‏
+45.91 47.23 وكانت هذه
+47.53 50.81 آخر غزواته صلى الله عليه وسلم‏.‏
+52.36 54.22 المُخَلَّفون‏‏
+54.5 58.71 ولما دخل رسول اللّه صلى الله عليه وسلم المدينة
+59 62.34 بدأ بالمسجد، فصلي فيه ركعتين،
+62.84 64.46 ثم جلس للناس،
+64.93 66.53 فأما المنافقون
+66.62 69.06 وهم بضعة وثمانون رجلاً
+69.56 73.16 فجاءوا يعتذرون بأنواع شتي من الأعذار،
+73.75 75.65 وطفقوا يحلفون له،
+75.94 78.05 فقبل منهم علانيتهم،
+78.47 79.62 وبايعهم،
+79.85 81.29 واستغفر لهم،
+81.71 84.24 ووكل سرائرهم إلى اللّه‏.‏
+84.43 88.1 وأما النفر الثلاثة من المؤمنين الصادقين
+88.48 90 وهم كعب بن مالك،
+90.4 92.22 ومُرَارَة بن الربيع،
+92.44 94.11 وهلال بن أمية
+94.3 95.7 فاختاروا الصدق،
+96.25 101.29 فأمر رسول اللّه صلى الله عليه وسلم الصحابة ألا يكلموهم .
+101.81 104.67 وضاقت عليهم الأرض بما رحبت،
+104.98 107.18 وضاقت عليهم أنفسهم،
+107.48 111.04 حتى تمت على مقاطعتهم خمسون ليلة،
+111.18 113.72 ثم أنزل اللّه توبتهم‏:‏ ‏
+113.84 116.48 {‏وَعَلَى الثَّلاَثَةِ الَّذِينَ خُلِّفُواْ
+116.95 121.01 حَتَّى إِذَا ضَاقَتْ عَلَيْهِمُ الأَرْضُ بِمَا رَحُبَتْ
+121.4 123.99 وَضَاقَتْ عَلَيْهِمْ أَنفُسُهُمْ
+124.42 128.65 وَظَنُّواْ أَن لاَّ مَلْجَأَ مِنَ اللّهِ إِلاَّ إِلَيْهِ
+128.88 131.4 ثُمَّ تَابَ عَلَيْهِمْ لِيَتُوبُواْ
+131.7 135.04 إِنَّ اللّهَ هُوَ التَّوَّابُ الرَّحِيمُ‏}‏ ‏[‏التوبة‏:‏118‏]‏‏.‏
+135.21 136.89 وفرح المسلمون،
+137.25 141.09 وفرح الثلاثة فرحاً لا يقاس مداه وغايته،
+141.39 144.62 وكان أسعد يوم من أيام حياتهم‏.‏
+145.17 147.51 وأما الذين حبسهم العذر
+147.86 150.14 فقد قال فيهم‏ تعالى :‏
+150.49 158.79 {‏لَّيْسَ عَلَى الضُّعَفَاء وَلاَ عَلَى الْمَرْضَى وَلاَ عَلَى الَّذِينَ لاَ يَجِدُونَ مَا يُنفِقُونَ
+159.04 163.11 حَرَجٌ إِذَا نَصَحُواْ لِلّهِ وَرَسُولِهِ‏}‏ ‏[‏التوبة‏:‏ 91‏]‏‏.‏
+163.8 167.38 وقال فيهم رسول اللّه صلى الله عليه وسلم
+167.57 169.58 حين دنا من المدينة‏:‏ ‏
+170.22 173.63 (‏إن بالمدينة رجالاً ما سرتم مَسِيراً،
+173.9 177.73 ولا قطعتم وادياً إلا كانوا معكم،
+177.87 179.83 حبسهم العُذْرُ‏)‏،
+180.14 181.08 قالوا‏:‏
+181.17 182.54 يا رسول اللّه،
+182.65 184.02 وهم بالمدينة‏؟‏
+184.18 184.94 قال‏:‏ ‏
+185.05 186.99 (‏وهم بالمدينة‏)‏‏.‏
+187.32 189.09 أثر الغزوة‏‏
+190.51 195.03 وكان لهذه الغزوة أعظم أثر في بسط نفوذ المسلمين
+195.45 197.8 وتقويته على جزيرة العرب،
+198.33 200.29 واستكان المنافقون
+200.65 205.03 وتوافدة القبائل إلى رسول اللّه صلى الله عليه وسلم
+205.5 208 تعلن إسلامها وولاءها له
+208.39 210.88 نظرة على الغزوات
+211.45 217.24 إذا نظرنا إلى غزوات النبي صلى الله عليه وسلم وبعوثه وسراياه،
+217.87 220.27 لا يمكن لنا إلا أن نقول‏:‏
+220.83 223.68 إن النبي صلى الله عليه وسلم
+224.03 227.03 كان أكبر قائد عسكري في الدنيا،
+227.36 231.3 وأسدهم وأعمقهم فراسة وتيقظاً،
+232.18 235.49 إنه صاحب عبقرية فذة في هذا الوصف،
+235.76 240.47 كما كان سيد الرسل وأعظمهم في صفة النبوة والرسالة،
+240.77 246.9 فقد أثبت أن له نوعاً آخر من القيادة غير ما عرفتها الدنيا في القواد‏.‏
+247.72 250.77 ولم يقع ما وقع في أُحد وحنين
+250.97 254.55 إلا من بعض الضعف في أفراد الجيش في حنين
+254.76 257.24 أو من جهة معصيتهم أوامره
+257.63 261.18 وعدم التقيد والالتزام بالحكمة والخطة
+261.6 264.1 اللتين كان أوجبهما عليهم
+264.28 266.47 من حيث الوجة العسكرية‏.‏
+267.14 272.47 وقد تجلت عبقريته صلى الله عليه وسلم في هاتين الغزوتين
+272.86 274.81 عند هزيمة المسلمين،
+275.33 277.58 فقد ثبت مجابهاً للعدو،
+277.64 279.82 واستطاع بحكمته الفذة
+280.05 282.29 أن يخيبهم في أهدافهم
+282.42 284 كما فعل في أحد
+284.41 286.16 أو يغير مجري الحرب
+286.38 288.97 حتى يبدل الهزيمة انتصاراً
+289.09 290.48 كما في حنين
+290.83 293.15 مع أن مثل هذا التطور الخطير،
+293.38 295.77 ومثل هذه الهزيمة الساحقة
+295.77 298.21 تأخذان بمشاعر القواد،
+298.36 300.37 وتتركان على أعصابهم
+300.57 301.73 أسوأ أثر،
+301.92 303.7 لا يبقي لهم بعد ذلك
+303.76 306.29 إلا هم النجاة بأنفسهم‏.‏
+306.48 310.76 واستطاع بهذه الغزوات فرض الأمن وبسط السلام،
+311.03 312.7 وإطفاء نار الفتنة،
+312.97 316.72 وكسر شوكة الأعداء في صراع الإسلام والوثنية،
+317.6 320.68 وقد أنشأ طائفة كبيرة من القواد،
+320.96 325.7 الذين لاقوا بعده الفرس والرومان في ميادين العراق والشام،
+326.26 328.46 ففاقوهم في تخطيط الحروب
+328.67 330.65 وإدارة دفة القتال،
+331.52 334.52 كما استطاع رسول اللّه صلى الله عليه وسلم
+335.05 339.46 أن يوفر السكني والأرض والحرف والمشاغل للمسلمين،
+339.85 343.45 وهيأ السلاح والكُرَاع والعدة والنفقات،
+343.8 345.43 حصل على كل ذلك
+345.71 348.18 من غير أن يقوم بمثقال ذرة
+348.53 352.68 من الظلم والطغيان والبغي والعدوان على عباد اللّه‏.‏
+352.96 355.75 كما شرع للحروب قواعد شريفة
+356.13 359.24 ألزم التقيد بها على جنوده وقوادها،
+359.54 362.37 وكان رسول اللّه صلى الله عليه وسلم
+362.61 365.65 إذا أمر أميراً على جيش أو سرية
+365.85 369.2 أوصاه في خاصته بتقوي اللّه عز وجل،
+369.47 372.29 ومن معه من المسلمين خيراً،
+372.64 374 ثم قال‏:‏ ‏
+374.49 376.32 (‏اغزوا بسم اللّه،
+376.54 378.25 في سبيل اللّه،
+378.55 380.9 قاتلوا من كفر باللّه،
+381.33 382.28 اغزوا،
+382.47 386.8 فلا تغلوا، ولاتغدروا، ولا تمثلوا،
+387.07 389.82 ولا تقتلوا وليداً‏ ولا إمرة
+390.11 394.13 ولا كبيرا فانيا ولا منعزلاً بصومعة،
+394.22 397.01 ولا تقطعوا نخلاً ولا شجرة،
+397.35 399.45 ولا تهدموا بناءً
+399.92 403.33 وكان صلى الله عليه وسلم يأمر بالتيسير
+403.62 404.66 ويقول‏:‏ ‏
+404.93 407.11 (‏يسروا ولا تعسروا،
+407.63 410.03 وسكنوا ولا تنفروا‏)‏‏.‏
+410.77 413.21 وكان إذا جاء قوماً بِلَيْل
+413.48 415.71 لم يُغِرْ عليهم حتى يُصبِح،
+415.97 418.98 ونهي أشد النهي عن التحريق في النار،
+419.22 421.02 ونهي عن قتل الصبر،
+421.42 423.54 وقتل النساء وضربهن،
+423.86 425.54 ونهي عن النهب.
+
+# حج أبي بكر رضي الله عنه [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F52.mp3?alt=media&token=daaf0e5e-363c-4516-a056-e380f03af35a]
+
+## timing
+
+0.14 3.03 حج أبي بكر رضي الله عنه
+3.35 7.11 وفي ذي القعدة أو ذي الحجة من السنة نفسها
+8.06 13.39 بعث رسول اللّه صلى الله عليه وسلم أبا بكر الصديق رضي الله عنه
+14.06 15.44 أميراً على الحج،
+16.21 18.46 ليقيم بالمسلمين المناسك‏.‏
+19.36 24.61 ثم نزلت أوائل سورة براءة بنقض المواثيق ونبذها على سواء،
+25.63 28.61 فبعث رسول اللّه صلى الله عليه وسلم
+29.05 32.26 على بن أبي طالب ليؤدي عنه ذلك،
+32.72 35.19 وأقام أبو بكر للناس حجهم،
+35.64 37.66 حتى إذا كان يوم النحر،
+38.14 40.91 قام على بن أبي طالب عند الجمرة،
+41.2 46.13 فأذن في الناس بالذي أمره رسول اللّه صلى الله عليه وسلم،
+47.05 49.61 ونبذ إلى كل ذي عهد عهده،
+50.3 52.34 وأجل لهم أربعة شهور،
+53.04 57.27 وكذلك أجل أربعة أشهر لمن لم يكن له عهد،
+57.59 60.99 وأما الذين لم ينقصوا المسلمين شيئاً،
+61.19 63.43 ولم يظاهروا عليهم أحداً
+63.8 66.1 فأبقي عهدهم إلى مدتهم‏.‏
+66.92 69.42 وبعث أبو بكر رضي الله عنه
+69.66 71.65 رجالاً ينادون في الناس‏:‏
+72.02 75.39 ألا لا يحج بعد هذا العام مشرك،
+75.64 78.25 ولا يطوف بالبيت عُرْيَان‏.‏
+78.42 84.32 وكان هذا النداء بمثابة إعلان نهاية الوثنية في جزيرة العرب،
+84.77 88.26 وأنها لا تُبْدِئُ ولا تُعِيدُ .‏
+
+# حجة الوداع [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F53.mp3?alt=media&token=c7d1c190-965a-444a-b09c-6be8db4cf7e5]
+
+## timing
+
+0.09 2.02 حجة الوداع
+2.19 6.42 وشاء اللّه أن يري رسوله صلى الله عليه وسلم
+6.92 11.31 ثمار دعوته، التي عاني في سبيلها ألواناً من المتاعب
+11.77 13.43 بضعاً وعشرين عاماً،
+13.9 18.79 فيجتمع في أطراف مكة بأفراد قبائل العرب وممثليها،
+19.58 22.38 فيأخذوا منه شرائع الدين وأحكامه،
+22.63 26.39 ويأخذ منهم الشهادة على أنه أدي الأمانة،
+26.87 28.23 وبلغ الرسالة،
+28.58 29.74 ونصح الأمة‏.‏
+30.15 36.96 فقد أعلن النبي صلى الله عليه وسلم بقصده لهذه الحجة المبرورة المشهودة،
+37.71 40.18 فقدم المدينة بشر كثير
+40.68 43.84 كلهم يلتمس أن يأتم برسول اللّه
+44 46.14 صلى الله عليه وسلم‏.‏
+46.74 50.24 وفي يوم السبت لأربع بقين من ذي القعدة
+50.75 54.15 تهيأ النبي صلى الله عليه وسلم للرحيل ،
+54.77 56.18 وقَلَّد بُدْنَه،
+56.78 58.27 وانطلق بعد الظهر،
+58.92 62.71 حتى بلغ ذا الحُلَيْفَة قبل أن يصلي العصر،
+63.32 65 فصلاها ركعتين،
+65.3 66.6 وبات هناك
+67.03 69.4 فلما أصبح قال لأصحابه‏:‏ ‏
+70.32 73.86 (‏أتاني الليلة آت من ربي فقال‏:‏
+74.38 76.77 صَلِّ في هذا الوادي المبارك
+77.13 79.21 وقل‏:‏ عمرة في حجة‏)‏‏.‏
+79.56 81.97 وفي اليوم الثامن من ذي الحجة
+82.19 83.78 توجه إلى مني،
+84.16 89.04 فصلي بها الظهر والعصر والمغرب والعشاء والفجر
+89.32 90.81 خمس صلوات
+91.24 92.8 ثم مكث قليلاً
+92.97 94.82 حتى طلعت الشمس،
+95.04 97.6 فأجاز حتى أتي عرفة،
+98.07 100.91 فوجد القبة قد ضربت له بَنَمِرَة،
+101.23 102.46 فنزل بها،
+102.79 104.87 حتى إذا زالت الشمس
+105.13 107.48 أمر بالقَصْوَاء فرحلت له،
+107.87 109.54 فأتي بطن الوادي،
+109.79 112.54 وقد اجتمع حوله مائة ألف
+112.75 114.59 وأربعة وعشرون
+114.78 117.03 أو أربعة وأربعون
+117.24 118.8 ألفاً من الناس،
+118.8 122.57 فقام فيهم خطيباً،
+123.03 126.17 وألقى خطبة جامعة قال فيها‏:‏
+126.72 128.05 ‏(‏أيها الناس،
+129.01 130.98 إنه لا نبي بعدي،
+131.66 133.76 ولا أمة بعدكم،
+134.72 136.59 ألا فاعبدوا ربكم،
+137.12 139.16 وصلوا خمسكم،
+139.54 141.33 وصوموا شهركم،
+142.23 144.58 وأدوا زكاة أموالكم،
+144.88 147.34 طيبة بها أنفسكم،
+148.33 150.56 وتحجون بيت ربكم،
+151.32 153.9 وأطيعوا أولات أمركم،
+154.59 156.76 تدخلوا جنة ربكم‏)‏‏.‏
+157 159.08 ‏(‏وأنتم تسألون عني،
+159.53 161.48 فما أنتم قائلون‏؟‏‏)‏
+161.8 162.7 قالوا‏:‏
+162.85 166.85 نشهد أنك قد بلغت وأديت ونصحت‏.‏
+167.48 171.36 فقال بأصبعه السبابة يرفعها إلى السماء،
+171.7 173.67 وينكتها إلى الناس‏:‏
+174.34 175.91 ‏(‏اللهم اشهد‏
+176.24 177.79 اللهم اشهد‏
+177.96 179.55 اللهم اشهد‏ ) .
+179.84 182.98 ثم نزل عليه قوله تعالى‏:‏
+183.96 187 ‏{‏الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ
+187.82 190.73 وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِي
+191.15 194.12 وَرَضِيتُ لَكُمُ الإِسْلاَمَ دِينًا‏}‏ ‏[‏المائدة‏:‏ 3‏]‏،
+194.4 196.67 ولما قضي مناسكه
+197.04 200.04 حث الركاب إلى المدينة المطهرة،
+200.38 202.94 ليستأنف الكفاح والكدح
+203.11 204.38 لله
+206.29 208.29 وفي سبيل الله‏.‏
+
+# آخر البعوث‏ [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F54.mp3?alt=media&token=d416e7c4-dd44-48ec-97bb-36fe592d50a5]
+
+## timing
+
+0.09 1.89 آخر البعوث‏
+2.49 6.89 أخذ رسول الله صلى الله عليه وسلم يجهز جيشاً كبيراً
+7.18 8.06 في صفر
+8.39 10.86 في سنة 11ه،
+11.54 14.76 وأمر عليه أسامة بن زيد بن حارثة،
+15.23 20.38 وأمره أن يوطئ الخيل تُخُوم البلقاء والداروم من أرض فلسطين،
+20.72 22.97 يبغي بذلك إرهاب الروم
+23.22 27.57 وإعادة الثقة إلى قلوب العرب الضاربين على الحدود،
+28.26 31.21 وانتدب الناس ينتظمون في الجيش،
+31.5 33.67 حتى خرجوا ونزلوا الجُرْف،
+33.76 35.82 على فَرْسَخ من المدينة،
+36.31 41.26 إلا أن الأخبار المقلقة عن مرض رسول الله صلى الله عليه وسلم
+41.73 43.6 أكرهتهم على التريث،
+43.9 46.61 حتى يعرفوا ما يقضي الله به،
+47.18 49.62 وقد قضي الله أن يكون هذا
+49.99 54.36 أول بعث ينفذ في خلافة أبي بكر الصديق‏.‏
+
+# إلى الرفيق الأعلي [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F55.mp3?alt=media&token=de5fcac1-7e71-4cfc-bbed-5dcf80eb76c4]
+
+## timing
+
+0 2.66 إلى الرفيق الأعلي
+3.25 5.24 طلائع التوديع‏
+5.99 10.06 لما تكاملت الدعوة وسيطر الإسلام على الموقف،
+11.02 17.92 أخذت طلائع التوديع للحياة والأحياء تطلع من مشاعره صلى الله عليه وسلم،
+18.79 21.66 وتنضح بعباراته وأفعاله‏.‏
+23.09 26.2 فقد اعتكف في رمضان من السنة العاشرة
+26.74 28.17 عشرين يوماً،
+28.99 32.13 وتدارسه جبريل القرآن مرتين،
+33.18 35.49 وقال في حجة الوداع‏:‏ ‏
+36.52 38 (‏إني لا أدري
+38.65 41.84 لعلى لا ألقاكم بعد عامي هذا
+42.28 44.5 بهذا الموقف أبداً‏)‏،
+45.6 48.37 وقال وهو عند جمرة العقبة‏:‏ ‏
+49.61 52.04 (‏خذوا عني مناسككم،
+52.58 53.82 فلعلي
+54.38 57.02 لا أحج بعد عامي هذا‏)‏،
+58.01 62.69 وأنزلت عليه سورة النصر في أوسط أيام التشريق،
+63.46 66.15 فعرف أنه الوداع
+66.85 69.29 وأنه نويت إليه نفسه‏.‏
+70.2 72.05 وفي أوائل صفر
+72.91 76.49 خرج النبي صلى الله عليه وسلم إلى أحد،
+76.49 81.29 فصلي على الشهداء كالمودع للأحياء والأموات،
+82.25 85.64 وفي اليوم التاسع والعشرين من شهر صفر
+86.79 89.18 أخذه صداع في رأسه،
+89.81 91.49 واتقدت الحرارة،
+92.17 96.83 وقد صلي النبي صلى الله عليه وسلم بالناس وهو مريض
+97.23 98.83 11 يوماً،
+99.4 101.32 وجميع أيام المرض
+101.65 103.73 كانت 31،
+104.01 106.28 أو 41 يوماً‏.‏
+106.59 111.22 وثقل برسول الله صلى الله عليه وسلم المرض،
+111.78 113.87 فانتقل إلى بيت عائشة
+114.36 117.73 فقضي عندها آخر أسبوع من حياته‏.‏
+118.52 119.88 ويوم الأربعاء
+120.21 122.64 قبل خمسة أيام من الوفاة،
+123.16 126.03 اتقدت حرارة العلة في بدنه،
+126.71 128.26 فاشتد به الوجع
+128.61 129.83 وغمي،
+130.69 134.32 والنبي صلى الله عليه وسلم مع ما كان به
+134.62 136.14 من شدة المرض
+136.8 139.84 كان يصلي بالناس جميع صلواته
+140.31 142.32 حتى قبل الوفاة
+142.6 144.32 بأربعة أيام .
+144.85 148.5 وقد صلي بالناس ذلك اليوم صلاة المغرب،
+148.92 150.5 وعند العشاء
+150.77 152.45 زاد ثقل المرض،
+152.83 155.68 بحيث لم يستطع الخروج إلى المسجد‏.‏
+156.5 159.85 فأرسل إلى أبي بكر أن يصلي بالناس،
+160.13 162.42 فصلي أبو بكر تلك الأيام
+162.61 167.03 17 صلاة في حياته صلى الله عليه وسلم،
+167.22 170.08 وقبل يوم من الوفاة يوم الأحد
+170.68 174.64 أعتق النبي صلى الله عليه وسلم غلمانه،
+175.32 178.59 وتصدق بسبعة دنانير كانت عنده ،
+179.25 181.64 ووهب للمسلمين أسلحته،
+182.36 185.26 وكانت درعه صلى الله عليه وسلم
+185.76 190.01 مرهونة عند يهودي بثلاثين صاعاً من الشعير‏.‏
+
+# آخر يوم من الحياة [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F56.mp3?alt=media&token=4f943374-ed12-4b01-bdd2-75b1b00279d1]
+
+## timing
+
+0 3.23 آخر يوم من الحياة‏
+3.56 5.44 روي أنس بن مالك‏:‏
+5.99 10.5 أن المسلمين بينا هم في صلاة الفجر يوم الاثنين
+10.91 13.22 وأبو بكر يصلي بهم
+13.97 17.96 لم يفجأهم إلا رسول الله صلى الله عليه وسلم
+18.5 20.55 كشف ستر حجرة عائشة
+21.09 24.38 فنظر إليهم، وهم في صفوف الصلاة،
+25.04 26.93 ثم تبسم يضحك،
+27.23 30 فنكص أبو بكر على عقبيه ؛
+30.31 31.48 ليصل الصف،
+32.23 35.74 وظن أن رسول الله صلى الله عليه وسلم
+36.08 38.06 يريد أن يخرج إلى الصلاة‏.‏
+38.77 40.05 فقال أنس‏:‏
+40.33 47.16 وهَمَّ المسلمون أن يفتتنوا في صلاتهم، فَرَحًا برسول الله صلى الله عليه وسلم،
+48.29 50.05 فأشار إليهم بيده
+51.31 52.97 أن أتموا صلاتكم،
+53.39 54.83 ثم دخل الحجرة
+55.09 56.83 وأرخي الستر‏.‏
+57.28 63.21 ثم لم يأت على رسول الله صلى الله عليه وسلم وقت صلاة أخرى‏.‏
+64.59 69.11 وبشر النبي صلى الله عليه وسلم فاطمة بأنها
+69.67 72.06 سيدة نساء العالمين‏.‏
+72.83 74.96 وأوصى الناس فقال‏:‏ ‏
+75.59 77.27 (‏الصلاة، الصلاة،
+77.67 80.45 وما ملكت أيمانكم‏)‏،
+81.07 82.88 كرر ذلك مراراً‏.‏
+83.5 85.81 وبدأ الاحتضار فقال:‏ ‏
+86.84 89.48 (‏لا إله إلا الله،
+90.02 92.78 إن للموت سكرات‏.‏‏.‏‏.‏‏)‏ الحديث‏.‏
+93.65 95.73 ثم رفع يده أو أصبعه،
+96.46 98.81 وشخص بصره نحو السقف،
+100.21 102.42 وتحركت شفتاه،
+103.25 106.57 فأصغت إليه عائشة وهو يقول‏:‏ ‏
+107.48 114.55 (‏مع الذين أنعمت عليهم من النبيين والصديقين والشهداء والصالحين،
+115.98 118.29 اللهم اغفر لي وارحمني،
+119.26 122.16 وألحقني بالرفيق الأعلي‏.‏
+122.99 126.07 اللهم، الرفيق الأعلي‏)‏‏.‏
+126.84 130.08 كرر الكلمة الأخيرة ثلاثاً،
+130.81 132.1 ومالت يده
+132.87 135.26 ولحق بالرفيق الأعلي‏.‏
+136.33 140.95 إنا لله وإنا إليه راجعون‏.‏
+141.07 142.95 وقع هذا الحادث
+143.6 145.37 حين اشتدت الضحي
+145.85 149.38 من يوم الاثنين 12 ربيع الأول
+149.8 152.11 سنة 11ه،
+153.42 156.34 وقد تم له صلى الله عليه وسلم
+156.89 158.87 ثلاث وستون سنة
+159.38 161.69 وزادت أربعة أيام‏.‏
+162.52 164.04 وأقبل أبو بكر
+164.54 165.94 فدخل المسجد،
+166.43 168.45 فلم يكلم الناس،
+168.65 170.86 حتى دخل على عائشة
+171.49 175.36 فتيمم رسول الله صلى الله عليه وسلم،
+175.58 178.27 وهو مغشي بثوب حِبَرَة،
+178.86 180.3 فكشف عن وجهه
+180.82 182.48 ثم أكب عليه،
+182.89 184.85 فقبله وبكي،
+185.22 186.25 ثم قال‏:‏
+187 189.55 بأبي أنت وأمي،
+190.2 193.4 لا يجمع الله عليك موتتين،
+193.86 197 أما الموتة التي كتبت عليك
+197.2 199 فقد مِتَّهَا‏.‏
+199.11 201.6 ثم خرج أبو بكر،
+201.62 202.75 فقال‏:‏
+203.14 204.88 أما بعد،
+205.71 211.01 من كان منكم يعبد محمداً صلى الله عليه وسلم
+211.56 214.07 فإن محمداً قد مات،
+215.15 218.04 ومن كان منكم يعبد الله
+218.24 221.38 فإن الله حي لا يموت،
+222.09 224.2 قال الله‏ تعالى:‏ ‏
+224.34 229.68 {‏وَمَا مُحَمَّدٌ إِلاَّ رَسُولٌ قَدْ خَلَتْ مِن قَبْلِهِ الرُّسُلُ
+230.68 235.23 أَفَإِن مَّاتَ أَوْ قُتِلَ انقَلَبْتُمْ عَلَى أَعْقَابِكُمْ
+235.35 240.05 وَمَن يَنقَلِبْ عَلَىَ عَقِبَيْهِ فَلَن يَضُرَّ اللّهَ شَيْئًا
+240.76 243.88 وَسَيَجْزِي اللّهُ الشَّاكِرِينَ‏}‏ ‏[‏آل عمران‏:‏144‏]‏‏.‏
+
+# التجهيز [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F57.mp3?alt=media&token=eb0574d2-e90d-4f39-8d70-40bd592600cd]
+
+## timing
+
+0 1.51 التجهيز
+1.51 4.08 وتوديع الجسد الشريف
+4.87 12.26 ووقع الخلاف في أمرالخلافة قبل أن يقوموا بتجهيزه صلى الله عليه وسلم،
+13.21 16.62 فجرت مناقشات ومجادلات
+16.89 19.33 وحوار وردود
+19.74 22.06 بين المهاجرين والأنصار
+22.59 24.95 في سَقِيفة بني ساعدة،
+25.97 26.97 وأخيرًا
+27.25 30.96 اتفقوا على خلافة أبي بكر رضي الله عنه،
+31.72 34.64 وشغل الناس عن جهاز رسول الله
+35.08 37.62 صلى الله عليه وسلم
+38.23 40.7 حتى كان آخر الليل
+41.26 42.91 ليلة الثلاثاء
+43.26 44.51 مع الصبح،
+45.09 48.4 وبقي جسده المبارك على فراشه
+48.97 52.27 فقد أغلق دونه الباب أهله‏.‏
+52.57 54.19 ويوم الثلاثاء
+54.74 58.12 غسلوا رسول الله صلى الله عليه وسلم
+58.61 60.93 من غير أن يجردوه من ثيابه،
+61.53 64.17 ثم كفنوه في ثلاثة أثواب
+64.49 66.74 أدرجوه فيها إدراجًا‏.‏
+66.97 69.08 واختلفوا في موضع دفنه،
+69.38 70.87 فقال أبو بكر‏:‏
+71.21 75.31 إني سمعت رسول اللّه صلى الله عليه وسلم يقول‏:‏ ‏
+75.82 80.01 (‏ما قبض نبي إلا دفن حيث يقبض‏)‏،
+80.27 84.04 فرفع أبو طلحة فراشه الذي توفي عليه،
+84.51 85.85 فحفر تحته،
+86.27 88.4 وجعل القبر لحداً‏.‏
+88.65 91.27 ودخل الناس الحجرة أرسالاً،
+91.55 93.66 عشرة فعشرة،
+93.91 97.87 يصلون على رسول اللّه صلى الله عليه وسلم
+98.13 100.24 ولا يؤمهم أحد،
+100.95 103.71 وصلي عليه أولاً أهل عشيرته،
+104.04 105.59 ثم المهاجرون،
+105.82 107.33 ثم الأنصار،
+107.51 110.18 وصلت عليه النساء بعد الرجال
+110.18 112.68 ثم صلى عليه الصبيان.
+
+# البيت النبوي [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F58.mp3?alt=media&token=b08f3073-7c20-463d-b3a3-790e43e3d7ba]
+
+## timing
+
+0 2.2 البيت النبوي
+2.57 6.03 كان البيت النبوي في مكة قبل الهجرة
+6.5 9.61 يتألف منه عليه الصلاة والسلام،
+10.1 13.14 ومن زوجته خديجة بنت خويلد،
+13.6 16.84 وكان له منها أبناء وبنات،
+17.21 18.69 أما الأبناء ،
+18.91 21.46 فلم يعش منهم أحد ،
+21.9 23.12 وأما البنات
+23.57 24.58 فهن ‏:‏
+24.88 25.83 زينب
+25.83 27.01 ورقية
+27.25 29.78 وأم كلثوم وفاطمة،
+30.57 31.89 فأما زينب
+32.41 34.68 فتزوجها قبل الهجرة
+34.95 37.98 ابن خالتها‏,‏ أبوالعاص بن الربيع،
+38.53 40.03 وأما رقية
+40.03 41.65 وأم كلثوم
+41.99 44.99 فقد تزوجهما عثمان بن عفان
+45.27 46.77 رضي الله عنه
+47.07 49.2 الواحدة بعد الأخرى،
+50.07 51.79 وأما فاطمة
+52.12 55.01 فتزوجها على بن أبي طالب
+55.32 57.26 بين بدر وأحد،
+57.77 58.84 ومنها
+59.12 61.51 كان الحسن والحسين
+61.82 63.07 وزينب
+63.29 65.07 وأم كلثوم‏.‏
+65.2 68.32 وأحل للنبي صلى الله عليه وسلم
+68.74 73.05 أتزوج بأكثر من أربع زوجات لأغراض كثيرة،
+73.91 77.94 فكان عدد من عقد عليهن ثلاثة عشرة امرأه،
+78.48 81.05 منهن تسع مات عنهن،
+81.52 83.75 واثنتان لم يدخل بهما،
+84.27 86.24 وها هي أسماؤهن
+87.19 88.85 سودة بنت زمعة،
+89.96 93.14 عائشة بنت أبي بكر الصديق،
+93.73 96.3 وكانت أحب الخلق إليه،
+96.61 98.77 وأفقه نساء الأمة،
+99.62 102.3 حفصة بنت عمر بن الخطاب،
+103.11 105.11 زينب بنت خزيمة
+105.96 109.04 أم سلمة هند بنت أبي أمية،
+109.73 111.73 زينب بنت جحش
+112.06 113.59 وهي بنت عمته
+114.89 117.26 جويرية بنت الحارث
+117.75 120.9 أم حبيبة رملة بنت أبي سفيان،
+121.43 124.27 صفية بنت حيي بن أخطب
+124.85 126.96 ميمونة بنت الحارث،
+127.06 133.09 فهؤلاء إحدى عشرة سيدة تزوج بهن الرسول صلى الله عليه وسلم،
+133.38 134.61 وبنى بهن
+134.61 137.59 وتوفيت منهن في حياته اثنتان
+138.14 139.01 خديجة
+139.31 141.46 وزينب أم المساكين
+141.74 144.03 وتوفي هو عن التسع البواقي‏.‏
+144.19 147.01 وأما الاثنتان اللتان لم يبن بهما،
+147.53 149.56 فواحدة من بنى كلاب،
+149.76 151.26 وأخرى من كندة،
+151.42 153.77 وهي المعروفة بالجونية،
+154.15 155.55 وأما السراري
+155.67 158.26 فالمعروف أنه تسرى باثنتين
+158.47 159.68 إحداهما
+159.82 161.48 مارية القبطية،
+161.65 163.97 وله منها ابنه إبراهيم،
+164.2 166.63 الذي توفي صغيرا بالمدينة
+166.83 169.89 في حياته صلى الله عليه وسلم،
+170.13 173.09 في شهر شوال سنة 10 ه
+173.25 176.29 والثانية ريحانة بنت زيد النضرية
+176.55 177.79 أو القرظية،
+178.07 180.74 وزاد أبو عبيدة اثنتين أخريين،
+181.11 182.04 جميلة
+182.42 184.24 أصابها في بعض السبي،
+184.47 188.23 وجارية وهبتها له زينب بنت جحش‏.‏
+188.72 192.99 ومن نظر إلى حياة الرسول صلى الله عليه وسلم
+193.4 198.05 عرف جيداً أن زواجه بهذا العدد الكثير من النساء
+198.4 200.2 في أواخر عمره
+200.57 202.29 كان لأهداف سامية
+202.91 203.74 منها
+204.03 206.34 مصاهرة أبي بكر وعمر
+206.66 209.11 بزواجه من عائشة وحفصة -
+209.68 210.81 ومنها
+210.95 214.17 كسر سورة عداء القبائل للإسلام،
+214.58 217.55 فكانت أم سلمة من بنى مخزوم -
+217.9 220.57 حي أبي جهل وخالد بن الوليد -
+221.24 225.98 وقد كان لأمهات المؤمنين فضل كبير في نقل أحواله -
+226.22 229.72 صلى الله عليه وسلم - المنزلية للناس،
+230.15 231.26 خصوصاً
+231.47 233.63 من طالت حياته منهن
+233.75 234.58 كعائشة،
+234.93 236.77 فإنها روت كثيراً
+236.99 239.04 من افعاله وأقواله‏.‏
+239.38 242.14 وكان زواجه من زينب بنت جحش
+242.58 245.46 لنقد تقليد جاهلية متأصل
+245.9 247.85 وهي قاعدة التبني‏.‏
+248.17 251.31 وكانت عشرته صلى الله عليه وسلم
+251.63 256.47 مع أمهات المؤمنين في غاية الشرف والنبل والسمو والحسن،
+257.45 260.81 كما كن في أعلى درجة من الشرف والقناعة
+261.42 265.65 والصبر والتواضع والخدمة والقيام بحقوق الزواج‏,‏
+265.9 269.71 مع أنه كان في شظف من العيش لا يطيقه أحد‏.‏
+
+# الصفات والأخلاق [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F59.mp3?alt=media&token=db4761c6-dcbf-456e-b545-6153d3fbe449]
+
+## timing
+
+0 2.22 الصفات والأخلاق
+2.67 8.03 كان النبي صلى الله عليه وسلم يمتاز من كمال خَلْقه وخُلُقه
+8.56 11.62 بما لا يحيط بوصفه البيان،
+12.19 15.55 وكان من أثره أن القلوب فاضت بإجلاله،
+16.07 18.99 والرجال تفانوا في حياطته
+19.15 20.14 وإكباره،
+20.39 22.71 جمال الخَلْق‏
+22.71 24.7 فهو ظاهر الوَضَاءة،
+25.14 26.34 أبْلَجُ الوجه،
+26.74 28.14 حسن الخُلُق،
+28.43 30.37 في عينيه دَعَج،
+30.88 32.58 أحْوَر، أكْحَل،
+32.94 35.21 شديد سواد الشعر،
+35.88 37.44 إذا صمت
+37.46 39.36 علاه الوقار،
+39.85 41.28 وإذا تكلم
+41.63 43.23 علاه البَهَاء،
+43.75 47.03 أجمل الناس وأبهاهم من بعيد،
+47.4 50.54 وأحسنهم وأحلاهم من قريب،
+51.06 52.74 حلو المنطق،
+52.91 58.05 وقال على بن أبي طالب وهو ينعت رسول الله صلى الله عليه وسلم‏:‏
+58.54 60.05 كان في الوجه تدوير،
+60.58 62.53 وكان أبيض مُشْرَبًا،
+63.09 64.63 أدْعَج العينين،
+64.96 66.63 أهْدَب الأشْفَار،
+67.12 68.96 إذا مشي تَقَلّع
+69.45 71.5 كأنما يمشي في صَبَب،
+72.39 74.8 وإذا التفت التفت معاً،
+75.36 77.75 بين كتفيه خاتم النبوة،
+78.34 80.55 وهو خاتم النبيين،
+81.5 83.32 أجود الناس كفاً،
+83.69 85.83 وأجرأ الناس صدراً،
+86.2 88.08 وأصدق الناس لَهْجَة،
+88.65 90.57 وأوفي الناس ذمة،
+90.98 92.74 وألينهم عَريكَة،
+93.39 95.09 وأكرمهم عشرة،
+95.73 97.92 من رآه بديهة هابه،
+98.47 100.84 ومن خالطه معرفة أحبه،
+101.53 102.84 يقول ناعته‏:‏
+103.47 106.14 لم أر قبله ولا بعده
+106.51 109.56 مثله، صلى الله عليه وسلم‏.‏
+109.83 111.91 وقال أبو هريرة‏:‏
+112.85 118.15 ما رأيت شيئاً أحسن من رسول الله صلى الله عليه وسلم،
+119.47 121.92 كأن الشمس تجري في وجهه،
+123.05 129.25 وما رأيت أحداً أسرع في مشيه من رسول الله صلى الله عليه وسلم،
+130.3 132.69 كأنما الأرض تُطْوَي له،
+133.14 135.69 وإنا لنجهد أنفسنا،
+136.11 138.46 وإنه لغير مكترث‏.‏
+139.53 141.44 وقال كعب بن مالك‏:‏
+142.49 145.02 كان إذا سُرَّ استنار وجهه،
+145.47 148.34 حتى كأنه قطعة قمر‏.‏
+148.71 152.01 وكان أبو بكر إذا رآه يقول‏:‏
+152.15 155.59 أمين مصطفى بالخير يدعو **
+156.08 159.05 كضوء البدر زايله الظلام
+159.38 162.5 وكان عمر ينشد إذا رآه‏:‏
+162.54 165.45 لو كنت من شيء سوى البشر **
+165.86 168.59 كنت المضيء لليلة البدر
+168.77 170.56 وقال أنس‏:‏
+170.96 174.18 ما مسست حريراً ولا ديباجاً
+174.3 177.97 ألين من كف النبي صلى الله عليه وسلم،
+178.98 182 وما شممت عنبراً ولا مِسْكاً
+182.46 184.97 ولا شيئاً أطيب من ريح
+185.14 188.68 أو عرف رسول الله صلى الله عليه وسلم‏.‏
+188.96 191.01 وقال أبو جُحَيْفة‏:‏
+191.72 193.01 أخذت بيده،
+193.7 195.5 فوضعتها على وجهي،
+196.37 198.82 فإذا هي أبرد من الثلج،
+199.41 202 وأطيب من رائحة المسك‏.‏
+202.17 203.56 كمال النفس
+203.83 205.75 ومكارم الأخلاق‏
+206.24 211.36 كان النبي صلى الله عليه وسلم يمتاز بفصاحة اللسان،
+211.93 213.75 وبلاغة القول،
+214.01 215.79 مع سلاسة طبع،
+216.18 217.9 ونصاعة لفظ،
+218.22 220.01 وجزالة قول،
+220.37 222.07 وصحة معان،
+222.29 224.07 وقلة تكلف،
+224.91 227.03 أوتي جوامع الكلم،
+227.56 229.91 وخص ببدائع الحكم،
+230.29 232.64 وعلم ألسنة العرب،
+233.41 237.97 اجتمعت له قوة عارضة البادية وجزالتها،
+238.47 243.07 ونصاعة ألفاظ الحاضرة ورونق كلامها،
+243.43 247.46 إلى التأييد الإلهي الذي مدده الوحي‏.‏
+247.67 250.01 وكان الحلم والاحتمال،
+250.32 252.1 والعفو عند المقدرة،
+252.85 254.89 والصبر على المكاره،
+255.2 257.61 صفاتٌ أدبه الله بها،
+258.66 261.88 لم يزد مع كثرة الأذي إلا صبرا،
+262.61 265.44 وعلى إسراف الجاهل إلا حلما،
+266.32 268.5 وكان أبعد الناس غضباً،
+268.77 270.69 وأسرعهم رضاً‏.‏
+271.34 273.89 وكان من صفة الجود والكرم
+274.72 277.37 أجود بالخير من الريح المرسلة‏.‏
+277.88 280.67 وما سئل شيئاً قط فقال‏:‏ لا‏.‏
+281.26 284.88 وكان موصوفا بالشجاعة والنجدة والبأس
+285.49 286.61 قال علي‏:‏
+286.81 289.72 كنا إذا حمي البأس واحمرت الحَدَقُ،
+290.15 294 اتقينا برسول الله صلى الله عليه وسلم
+294.08 297.48 فما يكون أحد أقرب إلى العدو منه‏.‏
+297.78 300.4 وكان أشد الناس حياء
+300.98 303.96 وكان أحق الناس بقول الفرزدق‏:‏
+304.67 306.55 يغضي حياء
+306.83 309.39 ويغضي من مهابته \*\*
+309.71 313.68 فلا يكلم إلا حين يبتسم
+313.88 317.04 وكان أعف الناس، وأصدقهم لهجة،
+317.45 319.19 وأعظمهم أمانة،
+320.08 323.22 وكان يسمي قبل نبوته الأمين،
+323.52 325.79 وكان أشد الناس تواضعاً،
+326.21 328.3 وأبعدهم عن الكبر،
+329.11 332.35 وكان يعود المساكين، ويجالس الفقراء،
+332.83 334.74 ويجيب دعوة العبد،
+335.16 336.56 قالت عائشة‏:‏
+336.99 340.73 كان صلى الله عليه وسلم يخصف نعله،
+341.06 342.73 ويخيط ثوبه،
+343.18 344.73 ويعمل بيده
+345.07 347.78 كما يعمل أحدكم في بيته،
+348.2 350.67 وكان أوفي الناس بالعهود،
+351.08 353.04 وأوصلهم للرحم،
+353.45 357.46 وأعظم شفقة ورأفة ورحمة بالناس،
+358.09 360.76 أحسن الناس عشرة وأدباً،
+361.14 363.41 وأبسط الناس خلقاً،
+363.78 366.19 وأبعدهم من سوء الأخلاق،
+366.81 370.11 لم يكن فاحشاً، ولا متفحشاً،
+370.4 372.11 ولا لعاناً،
+372.56 374.77 ولا صخابا في الأسواق،
+375.36 378.34 ولا يجزي بالسيئة السيئة،
+378.76 381.33 ولكن يعفو ويصفح،
+381.53 384.57 وكان لا يدع أحدا يمشي خلفه،
+384.61 390.42 وكان لا يترفع على عبيده وإمائه في مأكل ولا ملبس،
+390.95 392.57 ويخدم من خَدَمَه،
+393.02 396.13 ولم يقل لخادمه أف قط،
+396.64 398.71 وكان يحب المساكين
+398.95 400.35 ويجالسهم،
+400.81 402.86 ويشهد جنائزهم،
+403.3 406.02 ولا يحقر فقيراً لفقره‏.‏
+406.52 411.12 كان رسول الله صلى الله عليه وسلم متواصل الأحزان،
+411.71 413.18 دائم الفكرة،
+413.57 415.19 ليست له راحة،
+415.7 418.02 ولا يتكلم في غير حاجة،
+418.47 419.68 طويل السكوت،
+420.07 422.24 يعظم النعمة وإن دقت،
+422.38 424.04 لايذم شيئاً،
+424.42 426.35 ولا يغضب لنفسه،
+426.61 428.19 ولا ينتصر لها
+428.35 430.23 جل ضحكه التبسم،
+430.72 434.73 وعلى الجملة، فقد كان النبي صلى الله عليه وسلم
+435.26 438.92 محلي بصفات الكمال المنقطعة النظير،
+439.25 442.24 أدبه ربه فأحسن تأديبه،
+442.73 446.37 حتى خاطبه مثنياً عليه فقال‏:‏ ‏
+446.47 450.02 {‏وَإِنَّكَ لَعَلى خُلُقٍ عَظِيمٍ‏}‏ ‏[‏القلم‏:‏ 4‏]‏،
+450.4 456.3 اللهم صل على محمد وعلى آل محمد،
+457.13 462.67 كما صلَّيت على إبراهيم وعلى آل إبراهيم،
+463.38 466.08 إنَّك حَميد مجيد‏.‏
+467.09 473 اللهم بارك على محمد وعلى آل محمد،
+473.67 479.38 كما باركتَ على إبراهيم وعلى آل إبراهيم
+480.35 483.31 إنَّك حميد مجيد‏.‏
