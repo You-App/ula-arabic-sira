@@ -2,7 +2,8 @@
 
 المألف: صفي الرحمن المباركفوري
 
-# مقدمة [richMedia | https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/sira%2F1.mp3?alt=media&token=d68a36a2-311a-4080-9ffc-44fc91564735]
+# مقدمة [richMedia | 
+https://assets.codepen.io/101090/gitarrkompet.mp3
 
 ## timing
 
